@@ -1,0 +1,89 @@
+[16:40:31] Initialing...
+[16:40:31] Ex Manager Server Started on Port: 55906
+[16:40:39] WSAAccept() failed with error: 10061
+[16:41:20] Initialing...
+[16:41:20] Ex Manager Server Started on Port: 55906
+[16:41:20] [Query] SELECT * FROM Guild
+[16:41:20] [Query] SELECT * FROM GuildMember
+[16:41:29] GameServer start connection (127.0.0.1)
+[16:41:29] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[16:42:32] GameServer start connection (127.0.0.1)
+[16:42:32] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:50:09] [Character] Supremo has connected on GameServer_01
+[16:50:09] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[16:50:09] [Query] WZ_UserGuidCreate 'Supremo'
+[16:50:09] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Supremo'
+[16:50:09] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[16:50:09] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=20
+[16:50:09] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=20
+[16:52:38] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[16:52:38] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[16:52:38] [Character] Supremo has disconnected from GameServer_01
+[17:06:20] [Character] Supremo has connected on GameServer_01
+[17:06:20] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[17:06:20] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[17:06:20] [Query] WZ_UserGuidCreate 'Supremo'
+[17:06:20] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Supremo'
+[17:06:20] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[17:06:20] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=20
+[17:06:20] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=20
+[17:07:31] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[17:07:31] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[17:07:31] [Character] Supremo has disconnected from GameServer_01
+[17:22:52] GameServer close connection (127.0.0.1)
+[19:01:14] Initialing...
+[19:01:14] Ex Manager Server Started on Port: 55906
+[19:01:14] [Query] SELECT * FROM Guild
+[19:01:14] [Query] SELECT * FROM GuildMember
+[19:01:22] GameServer start connection (127.0.0.1)
+[19:01:22] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[19:02:26] GameServer start connection (127.0.0.1)
+[19:02:26] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:31:59] [Character] Supremo has connected on GameServer_01
+[19:31:59] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[19:31:59] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[19:31:59] [Query] WZ_UserGuidCreate 'Supremo'
+[19:31:59] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Supremo'
+[19:31:59] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[19:31:59] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=20
+[19:31:59] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=20
+[19:32:17] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[19:32:17] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[19:32:17] [Character] Supremo has disconnected from GameServer_01
+[19:46:06] GameServer close connection (127.0.0.1)
+[19:46:26] Initialing...
+[19:46:26] Ex Manager Server Started on Port: 55906
+[19:46:26] [Query] SELECT * FROM Guild
+[19:46:26] [Query] SELECT * FROM GuildMember
+[19:46:35] GameServer start connection (127.0.0.1)
+[19:46:35] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[20:09:16] GameServer start connection (127.0.0.1)
+[20:09:16] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:09:25] [Character] Supremo has connected on GameServer_01
+[20:09:25] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[20:09:25] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[20:09:25] [Query] WZ_UserGuidCreate 'Supremo'
+[20:09:25] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Supremo'
+[20:09:25] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[20:09:25] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=20
+[20:09:25] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=20
+[20:13:12] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[20:13:12] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[20:13:12] [Character] Supremo has disconnected from GameServer_01
+[20:56:55] GameServer close connection (127.0.0.1)
+[23:55:37] Initialing...
+[23:55:37] Ex Manager Server Started on Port: 55906
+[23:55:37] [Query] SELECT * FROM Guild
+[23:55:37] [Query] SELECT * FROM GuildMember
+[23:55:45] GameServer start connection (127.0.0.1)
+[23:55:45] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[23:56:34] GameServer start connection (127.0.0.1)
+[23:56:34] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[23:58:00] [Character] Supremo has connected on GameServer_01
+[23:58:00] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[23:58:00] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=20
+[23:58:00] [Query] WZ_UserGuidCreate 'Supremo'
+[23:58:00] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Supremo'
+[23:58:00] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[23:58:00] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=20
+[23:58:00] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=20

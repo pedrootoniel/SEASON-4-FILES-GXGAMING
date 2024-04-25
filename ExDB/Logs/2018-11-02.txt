@@ -1,0 +1,88 @@
+[03:01:02] Initialing...
+[03:01:02] Ex Manager Server Started on Port: 55906
+[03:01:02] [Query] SELECT * FROM Guild
+[03:01:02] [Query] SELECT * FROM GuildMember
+[03:15:01] GameServer start connection (127.0.0.1)
+[03:15:01] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[03:24:00] [Character] NewGate has connected on GameServer_01
+[03:24:00] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[03:24:00] [Query] WZ_UserGuidCreate 'NewGate'
+[03:24:00] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[03:24:00] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[03:24:00] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[03:24:00] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[03:53:09] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[03:53:09] [Character] NewGate has disconnected from GameServer_01
+[03:53:11] [Character] NewGate has connected on GameServer_01
+[03:53:11] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[03:53:11] [Query] WZ_UserGuidCreate 'NewGate'
+[03:53:11] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[03:53:11] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[03:53:11] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[03:53:11] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[03:55:31] [Character] Beta2 has connected on GameServer_01
+[03:55:31] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[03:55:31] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[03:55:31] [Query] WZ_UserGuidCreate 'Beta2'
+[03:55:31] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Beta2'
+[03:55:31] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=21
+[03:55:31] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=21
+[03:55:31] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=21
+[04:09:44] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:09:44] [Character] NewGate has disconnected from GameServer_01
+[04:09:54] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[04:09:54] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[04:09:54] [Character] Beta2 has disconnected from GameServer_01
+[04:10:24] [Character] Beta2 has connected on GameServer_01
+[04:10:24] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[04:10:24] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[04:10:24] [Query] WZ_UserGuidCreate 'Beta2'
+[04:10:24] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Beta2'
+[04:10:24] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=21
+[04:10:24] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=21
+[04:10:24] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=21
+[04:11:07] [Character] NewGate has connected on GameServer_01
+[04:11:07] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:11:07] [Query] WZ_UserGuidCreate 'NewGate'
+[04:11:07] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[04:11:07] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[04:11:07] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[04:11:07] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[04:20:02] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:20:02] [Character] NewGate has disconnected from GameServer_01
+[04:20:24] [Character] NewGate has connected on GameServer_01
+[04:20:24] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:20:24] [Query] WZ_UserGuidCreate 'NewGate'
+[04:20:24] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[04:20:24] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[04:20:24] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[04:20:24] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[04:33:56] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:33:56] [Character] NewGate has disconnected from GameServer_01
+[04:33:56] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[04:33:56] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[04:33:56] [Character] Beta2 has disconnected from GameServer_01
+[04:33:59] GameServer close connection (127.0.0.1)
+[04:35:13] GameServer start connection (127.0.0.1)
+[04:35:13] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[04:35:43] [Character] NewGate has connected on GameServer_01
+[04:35:43] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[04:35:43] [Query] WZ_UserGuidCreate 'NewGate'
+[04:35:43] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[04:35:43] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[04:35:43] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[04:35:43] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[04:35:44] [Character] Beta2 has connected on GameServer_01
+[04:35:44] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[04:35:44] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[04:35:44] [Query] WZ_UserGuidCreate 'Beta2'
+[04:35:44] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='Beta2'
+[04:35:44] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=21
+[04:35:44] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=21
+[04:35:44] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=21
+[05:01:02] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[05:01:02] [Character] NewGate has disconnected from GameServer_01
+[05:01:02] [Query] SELECT GUID FROM T_FriendMain WHERE Name='Beta2'
+[05:01:02] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=21
+[05:01:02] [Character] Beta2 has disconnected from GameServer_01
+[05:01:05] GameServer close connection (127.0.0.1)

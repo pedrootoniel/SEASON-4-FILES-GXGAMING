@@ -1,0 +1,4 @@
+[20:45:03] Initialing...
+[20:45:03] Ex Manager Server Started on Port: 55906
+[20:45:03] [Query] SELECT * FROM Guild
+[20:45:03] [Query] SELECT * FROM GuildMember

@@ -1,0 +1,12 @@
+[03:01:00] Starting GX Data Emulator...
+[03:01:00] GX Data Emulator Started on Port: 55962
+[03:01:00] SELECT * FROM Guild
+[03:01:00] SELECT * FROM GuildMember
+[03:15:01] GameServer start connection (127.0.0.1)
+[03:15:01] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[03:15:01] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[04:33:59] GameServer close connection (127.0.0.1)
+[04:35:13] GameServer start connection (127.0.0.1)
+[04:35:13] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[04:35:13] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[05:01:05] GameServer close connection (127.0.0.1)

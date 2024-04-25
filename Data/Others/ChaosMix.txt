@@ -1,0 +1,80 @@
+//======================================================================================||
+//											||
+// [0]		: Index do mix								||
+// [1]		: Money Request								||
+// [2]		: Rate de Sucesso Adicional para Items com Luck				||
+// [3]		: Rate de Sucesso para Account Free					||
+// [4]		: Rate de Sucesso para Account Vip 1					||
+// [5]		: Rate de Sucesso para Account Vip 2					||
+// [6]		: Rate de Sucesso para Account Vip 3					||
+// [7]		: Rate de Sucesso para Account Vip 4					||
+// [8]		: Rate de Sucesso para Account Vip 5					||
+// [9]		: Rate Maximo de Sucesso						||
+// [10]		: Anuncia no global o Successo do Mix					||
+//											||
+//======================================================================================================||
+//	[0]	[1]		[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	||
+//======================================================================================================||
+	0	10000		20	-1	-1	-1	-1	-1	-1	100	0	// [*] Chaos Mix
+
+	1	2000000		20	60	60	60	60	60	60	100	1	// Upgrade Item +10
+	2	4000000		20	60	60	60	60	60	60	100	1	// Upgrade Item +11
+	3	6000000		20	60	60	60	60	60	60	100	1	// Upgrade Item +12
+	4	8000000		20	55	55	55	55	55	55	100	1	// Upgrade Item +13
+	5	10000000	20	55	55	55	55	55	55	100	1	// Upgrade Item +14
+	6	12000000	20	55	55	55	55	55	55	100	1	// Upgrade Item +15
+
+	7	100000		0	80	80	80	80	80	80	100	0	// Devil Square Invite 1
+	8	200000		0	75	75	75	75	75	75	100	0	// Devil Square Invite 2
+	9	400000		0	70	70	70	70	70	70	100	0	// Devil Square Invite 3
+	10	700000		0	65	65	65	65	65	65	100	0	// Devil Square Invite 4
+	11	1100000		0	60	60	60	60	60	60	100	0	// Devil Square Invite 5
+	12	1600000		0	55	55	55	55	55	55	100	0	// Devil Square Invite 6
+	13	2000000		0	50	50	50	50	50	50	100	0	// Devil Square Invite 7
+
+	14	50000		0	80	80	80	80	80	80	100	0	// Blood Castle Invite 1
+	15	80000		0	75	75	75	75	75	75	100	0	// Blood Castle Invite 2
+	16	150000		0	70	70	70	70	70	70	100	0	// Blood Castle Invite 3
+	17	250000		0	65	65	65	65	65	65	100	0	// Blood Castle Invite 4
+	18	400000		0	60	60	60	60	60	60	100	0	// Blood Castle Invite 5
+	19	600000		0	55	55	55	55	55	55	100	0	// Blood Castle Invite 6
+	20	850000		0	50	50	50	50	50	50	100	0	// Blood Castle Invite 7
+	21	1050000		0	45	45	45	45	45	45	100	0	// Blood Castle Invite 8
+
+	22	500000		0	60	60	60	60	60	60	100	0	// Dinorant
+	23	3000000		0	80	80	80	80	80	80	100	0	// Fruit Mix
+
+	24	0		0	70	70	70	70	70	70	100	0	// Piece of Horn
+	25	0		0	50	50	50	50	50	50	100	0	// Broken Horn
+	26	10000000	0	30	30	30	30	30	30	70	1	// Horn of Fenrir
+	27	10000000	0	-1	-1	-1	-1	-1	-1	70	1	// Horn of Fenrir Upgrade
+
+	28	1000000		0	60	60	60	60	60	60	100	1	// Pet Dark Reaven
+	29	5000000		0	60	60	60	60	60	60	100	1	// Pet Dark Horse
+
+	30	1000000		0	-1	-1	-1	-1	-1	-1	100	1	// Wing Level 1
+	31	5000000		0	-1	-1	-1	-1	-1	-1	90	1	// Wing Level 2
+	32	200000		0	-1	-1	-1	-1	-1	-1	60	1	// [*] Feather of Condor
+	33	200000		0	-1	-1	-1	-1	-1	-1	100	1	// [*] Wing Level 4
+
+	34	10000000	0	70	70	70	70	70	70	100	1	// Item 380 Mix 1
+	35	10000000	0	50	50	50	50	50	50	1000	1	// Item 380 Mix 2
+
+	36	3000000		0	80	80	80	80	80	80	100	0	// Illusion Temple Invite 1
+	37	5000000		0	75	75	75	75	75	75	100	0	// Illusion Temple Invite 2
+	38	7000000		0	70	70	70	70	70	70	100	0	// Illusion Temple Invite 3
+	39	9000000		0	65	65	65	65	65	65	100	0	// Illusion Temple Invite 4
+	40	11000000	0	60	60	60	60	60	60	100	0	// Illusion Temple Invite 5
+	41	13000000	0	55	55	55	55	55	55	100	0	// Illusion Temple Invite 6
+
+	42	100000		0	50	50	0	50	50	50	100	0	// Potion Shield Mix 1
+	43	500000		0	30	30	30	30	30	30	100	0	// Potion Shield Mix 2
+	44	1000000		0	30	30	30	30	30	30	100	0	// Potion Shield Mix 3
+
+	45	0		0	100	100	100	100	100	100	100	0	// Jewel of Harmony Purify Item
+	46	0		0	50	50	50	50	50	50	50	0	// Jewel of Harmony Item Smelt Mix 1
+	47	0		0	100	100	100	100	100	100	100	0	// Jewel of Harmony Item Smelt Mix 2
+
+	48	1000000		0	-1	-1	-1	-1	-1	-1	-1	90	// Socket Create Seed
+	49	1000000		0	-1	-1	-1	-1	-1	-1	-1	90	// Socket Create Seed Sphere
+end

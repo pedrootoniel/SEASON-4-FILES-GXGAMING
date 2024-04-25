@@ -1,0 +1,91 @@
+[00:00:02] EXEC WZ_GetItemSerialCounter 200
+[00:00:02] [ItemGetSerial] Current Serial: 2, Validate Serial: ca, Count: 200
+[00:03:52] UPDATE Character SET cLevel=30,Class=19,LevelUpPoint=0,Experience=319580,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99597999,Life=3399.000000,MaxLife=6168.000000,Mana=2039.000000,MaxMana=2034.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12722.000000,MaxShield=12722.000000,MapNumber=0,MapPosX=137,MapPosY=130,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:03:52] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:03:52] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:03:52] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:03:52] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:03:52] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:05:14] SELECT * FROM AccountCharacter WHERE Id='admin'
+[00:05:14] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:05:14] SELECT G_Status FROM GuildMember WHERE Name='Supremo'
+[00:05:15] SELECT * FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:05:15] UPDATE AccountCharacter SET GameIDC='Supremo' WHERE Id='admin'
+[00:05:15] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[00:05:15] SELECT * FROM OptionData WHERE Name='Supremo'
+[00:05:15] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[00:05:15] EXEC WZ_QMK_InfoLoad 'Supremo'
+[00:05:15] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:05:15] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:07:23] SELECT Coin1 as 'Coin1', Coin2 as 'Coin2', Coin3 as 'Coin3' FROM memb_info WHERE memb___id='admin'
+[00:07:34] SELECT Coin1 as 'Coin1', Coin2 as 'Coin2', Coin3 as 'Coin3' FROM memb_info WHERE memb___id='admin'
+[00:07:35] SELECT Coin1 as 'Coin1', Coin2 as 'Coin2', Coin3 as 'Coin3' FROM memb_info WHERE memb___id='admin'
+[00:07:56] UPDATE Character SET cLevel=30,Class=19,LevelUpPoint=0,Experience=319580,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99597999,Life=7398.000000,MaxLife=6168.000000,Mana=2439.000000,MaxMana=2034.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12722.000000,MaxShield=12722.000000,MapNumber=0,MapPosX=135,MapPosY=127,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:07:56] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:07:56] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:07:56] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:07:56] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:07:56] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:11:34] Starting GX Data Emulator...
+[00:11:34] GX Data Emulator Started on Port: 55960
+[00:11:34] SELECT * FROM Guild
+[00:11:34] SELECT * FROM GuildMember
+[00:12:24] GameServer start connection (127.0.0.1)
+[00:12:24] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:12:24] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:12:43] SELECT * FROM AccountCharacter WHERE Id='admin'
+[00:12:43] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:12:43] SELECT G_Status FROM GuildMember WHERE Name='Supremo'
+[00:12:44] SELECT * FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:12:44] UPDATE AccountCharacter SET GameIDC='Supremo' WHERE Id='admin'
+[00:12:44] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[00:12:44] SELECT * FROM OptionData WHERE Name='Supremo'
+[00:12:44] SELECT GUID FROM T_FriendMain WHERE Name='Supremo'
+[00:12:44] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[00:12:44] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[00:12:44] EXEC WZ_QMK_InfoLoad 'Supremo'
+[00:12:44] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:12:44] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='Supremo'
+[00:12:54] SELECT Coin1 as 'Coin1', Coin2 as 'Coin2', Coin3 as 'Coin3' FROM memb_info WHERE memb___id='admin'
+[00:19:33] UPDATE Character SET cLevel=31,Class=19,LevelUpPoint=5,Experience=351000,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99592999,Life=7400.000000,MaxLife=6170.000000,Mana=2440.000000,MaxMana=2035.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12726.000000,MaxShield=12726.000000,MapNumber=3,MapPosX=156,MapPosY=116,MapDir=6,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:19:33] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:19:33] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:19:33] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:19:33] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:19:33] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:20:45] UPDATE Character SET cLevel=33,Class=19,LevelUpPoint=15,Experience=419840,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99592999,Life=7404.000000,MaxLife=6174.000000,Mana=2441.000000,MaxMana=2036.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12734.000000,MaxShield=12734.000000,MapNumber=3,MapPosX=139,MapPosY=112,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:20:45] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:20:45] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:20:45] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:20:45] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:20:45] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:22:34] UPDATE Character SET cLevel=34,Class=19,LevelUpPoint=20,Experience=457380,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99592999,Life=7406.000000,MaxLife=6176.000000,Mana=2441.000000,MaxMana=2036.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12739.000000,MaxShield=12739.000000,MapNumber=3,MapPosX=139,MapPosY=112,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:22:34] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:22:34] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:22:34] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:22:34] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:22:34] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:25:37] GameServer start connection (127.0.0.1)
+[00:25:37] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:25:37] GameServer Autheticate Successfully. (Name: CastleServer Port: 55919 SrvCode: 19)
+[00:25:38] EXEC WZ_CS_GetCastleTotalInfo 0, 14
+[00:25:38] EXEC WZ_CS_GetCastleNpcInfo 0
+[00:25:38] EXEC WZ_CW_InfoLoad 0
+[00:25:41] UPDATE Character SET cLevel=35,Class=19,LevelUpPoint=25,Experience=497080,Strength=3028,Dexterity=3020,Vitality=2025,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=94590999,Life=13591.000000,MaxLife=6178.000000,Mana=2442.000000,MaxMana=2037.000000,BP=3675.000000,MaxBP=3675.000000,Shield=12743.000000,MaxShield=12743.000000,MapNumber=0,MapPosX=149,MapPosY=132,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='Supremo'
+[00:25:41] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:25:41] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:25:41] EXEC WZ_QMK_InfoSave 'Supremo', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:25:41] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Supremo'
+[00:25:41] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Supremo'
+[00:47:31] Starting GX Data Emulator...
+[00:47:31] GX Data Emulator Started on Port: 55960
+[00:47:32] SELECT * FROM Guild
+[00:47:32] SELECT * FROM GuildMember
+[00:48:07] GameServer start connection (127.0.0.1)
+[00:48:07] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:48:07] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:48:25] GameServer close connection (127.0.0.1)
+[00:48:51] GameServer start connection (127.0.0.1)
+[00:48:51] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:48:51] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:49:02] GameServer close connection (127.0.0.1)

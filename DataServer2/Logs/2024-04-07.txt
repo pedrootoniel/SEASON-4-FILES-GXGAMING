@@ -1,0 +1,32 @@
+[16:40:24] Starting GX Data Emulator...
+[16:40:24] GX Data Emulator Started on Port: 55962
+[16:40:24] Failed to Connect to ODBC driver (MuOnlineS4).
+[16:40:24] GX Data Emulator Stopped.
+[16:41:14] Starting GX Data Emulator...
+[16:41:14] GX Data Emulator Started on Port: 55962
+[16:41:14] SELECT * FROM Guild
+[16:41:14] SELECT * FROM GuildMember
+[16:42:32] GameServer start connection (127.0.0.1)
+[16:42:32] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[16:42:32] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:01:08] Starting GX Data Emulator...
+[19:01:08] GX Data Emulator Started on Port: 55962
+[19:01:08] SELECT * FROM Guild
+[19:01:08] SELECT * FROM GuildMember
+[19:02:26] GameServer start connection (127.0.0.1)
+[19:02:26] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[19:02:26] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:46:20] Starting GX Data Emulator...
+[19:46:20] GX Data Emulator Started on Port: 55962
+[19:46:20] SELECT * FROM Guild
+[19:46:20] SELECT * FROM GuildMember
+[20:09:16] GameServer start connection (127.0.0.1)
+[20:09:16] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:09:16] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[23:55:30] Starting GX Data Emulator...
+[23:55:30] GX Data Emulator Started on Port: 55962
+[23:55:30] SELECT * FROM Guild
+[23:55:30] SELECT * FROM GuildMember
+[23:56:34] GameServer start connection (127.0.0.1)
+[23:56:34] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[23:56:34] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)

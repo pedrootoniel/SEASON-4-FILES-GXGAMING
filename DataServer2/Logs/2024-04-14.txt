@@ -1,0 +1,4 @@
+[20:44:56] Starting GX Data Emulator...
+[20:44:56] GX Data Emulator Started on Port: 55962
+[20:44:56] SELECT * FROM Guild
+[20:44:56] SELECT * FROM GuildMember

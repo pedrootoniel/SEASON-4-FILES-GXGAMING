@@ -1,0 +1,87 @@
+0
+//=======================================================================================================================================================
+//
+// [0]			: Index do Comando
+// [1]			: Sintax de chamada do comando 
+// [2]			: Sintax de chamada do comando
+// [3]			: Ativa / Desativa o comando
+// [4]			: Nivel de Acesso requerido para usar o comando [0-5 : Account Level] [100-300 : GM Acess Level]
+// [5]			: Level Necessario para usar o comando [Level Acima de 400 será somado o master level]
+// [6]			: Money Necessario para usar o comando
+// [7]			: Resets Necessario para usar o comando
+// [8]			: Master Resets Necessario para usar o comando
+// [9]			: Permite PK Usar o Comando
+// [10]			: Ativa / Desativa a Verificação do self defense para usar o comando
+//
+//=======================================================================================================================================================
+//	[0]		[1]			[2]			[3]	[4]	[5]	[6]		[7]	[8]	[9]	[10]	
+//=======================================================================================================================================================
+	0		"/move"			"/warp"			1	0	1	0		0	0	1	1	// -- [] Move um personagem [/command <map name>]
+	1		"/guildwar"		"/war"			1	0	1	0		0	0	1	1	// -- [] Inicia a uma Guild War
+	2		"/battlesoccer"		"/soccer"		1	0	1	0		0	0	1	1	// -- [] Inicia uma batalha de Futebol
+	3		"/request"		"/re"			1	0	1	0		0	0	1	1	// -- [] Controle de Requisição de party / trade
+	4		"/partyleader"		"/changeleader"		1	0	1	100000		0	0	1	1	// -- [] Altera o lider da party [/command <player name>]
+	5		"/autopotion"		"/atpotion"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto potion
+	6		"/autobuff"		"/atbuff"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto buff
+	7		"/autorepair"		"/atrepair"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto repair
+	8		"/autoadd"		"/atadd"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto add [/command <str> <dex> <vit> <ene> <cmd>] [Caso nenhum parametro seja passado ele desativa]
+	9		"/autoreset"		"/atreset"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto reset
+	10		"/autoloot"		"/atloot"		1	0	1	100000		0	0	1	1	// -- [] Ativa / desativa auto loot (Pick automatico de Items raros, Joias e Zen)
+	11		"/post"			"/msg"			1	0	1	100000		0	0	1	0	// -- [] Envia uma mensagem global
+	12		"/addstr"		"/str"			1	0	1	100000		0	0	1	0	// -- [] Adiciona pontos em Strength
+	13		"/adddex"		"/dex"			1	0	1	100000		0	0	1	0	// -- [] Adiciona pontos em Dexterity
+	14		"/addvit"		"/vit"			1	0	1	100000		0	0	1	0	// -- [] Adiciona pontos em Vitality
+	15		"/addene"		"/ene"			1	0	1	100000		0	0	1	0	// -- [] Adiciona pontos em Energy
+	16		"/addcmd"		"/cmd"			1	0	1	100000		0	0	1	0	// -- [] Adiciona pontos em LeaderShip
+	17		"/resetpoints"		"/rrpoint"		1	0	1	100000		0	0	1	1	// -- [] Reseta os pontos adicionado
+	18		"/pkclear"		"/limparpk"		1	0	1	100000		0	0	1	1	// -- [] Limpa os pontos e o tempo de PK
+	19		"/changeclass"		"/alterclass"		1	0	1	100000		0	0	1	1	// -- [] Altera a classe do jogador [/command <sintax>]
+	20		"/changename"		"/altername"		1	0	1	100000		0	0	1	1	// -- [] Altera o nome do jogar [/command <new name>]
+	21		"/evo"			"/evolution"		1	0	1	100000		0	0	1	1	// -- [] Evolui uma classe do jogador
+	22		"/addzen"		"/zen"			1	0	1	0		0	0	1	0	// -- [] Adiciona zen ao jogador
+	23		"/skin"			"/transform"		1	0	1	100000		0	0	1	1	// -- [] Altera a skin do jogador
+	24		"/clearinv"		"/limparinv"		1	0	1	100000		0	0	1	1	// -- [] Limpa todos os itens do inventario
+	25		"/clearvault"		"/limparbau"		1	0	1	100000		0	0	1	1	// -- [] Limpa todos os items do warehouse
+	26		"/sair"			"/exit"			1	0	1	100000		0	0	1	1	// -- [] Sai do jogo
+	27		"/ware"			"/vault"		1	0	1	100000		0	0	1	1	// -- [] Abre o Warehouse [/command <vault number>]
+	28		"/reset"		"/rr"			1	0	1	100000		0	0	1	1	// -- [] Executa a Job de Reset
+	29		"/masterreset"		"/mr"			1	0	1	100000		0	0	1	1	// -- [] Executa a job de MasterReset
+	30		"/offstore"		"/offtrade"		1	0	1	100000		0	0	1	1	// -- [] Ativa / Desativa o modo venda offline
+	31		"/online"		"/on"			1	0	1	100000		0	0	1	0	// -- [] Exibe as estatisticas de players on
+	32		"/gmonline"		"/gmon"			1	0	1	100000		0	0	1	0	// -- [] Exibe quantos GM Estão online
+	33		"/autoparty"		"/autopt"		1	0	1	100000		0	0	1	0	// -- [] Ativa / desativa o auto party [/command <password>] Obs.: Password é opcional
+	34		"/joinparty"		"/joinpt"		1	0	1	100000		0	0	1	0	// -- [] Entra em uma pt automatica com senha [/command <party leader> <password>]
+	35		"/myinfo"		"/showinfo"		1	0	1	100000		0	0	1	0	// -- [] Exibe as informações do personagem
+	36		"/depositzen"		""			1	0	1	0		0	0	1	0	// -- [] Deposita Zen na Jewel Bank [/command <zen>]
+	37		"/withdrawzen"		""			1	0	1	0		0	0	1	0	// -- [] Saca Zen na Jewel Bank [/command <zen>]
+
+//==========================================
+//	-- [] Staff Commands
+//=======================================================================================================================================================
+//	[0]		[1]			[2]			[3]	[4]	[5]	[6]		[7]	[8]	[9]	[10]	
+//=======================================================================================================================================================
+	50		"/makezen"		"/setzen"		1	300	1	0		0	0	1	0	// -- [] Adiciona Zen ao Player Target [/command <player name> <zen>]
+	51		"/makeskin"		"/setskin"		1	300	1	0		0	0	1	0	// -- [] Altera a Skin ao Player Target [/command <player name> <skin index>]
+	52		"/makeitem"		"/createitem"		1	300	1	0		0	0	1	0	// -- [] cria um novo item [/command <*create type [0: inventory 1: drop]> <*item type [-1: Complete Set]> <*item index> <item level> <item skill> <item luck> <item add life> <item dur> <item add exc> <item add anc> <item opt380> <item socket slot count> <item qtd>]
+	53		"/makestatus"		"/setstatus"		1	300	1	0		0	0	1	0	// -- [] Altera o Status ao Player Target [/command <player name> <str> <dex> <vit> <ene> <cmd>]
+	54		"/makelevel"		"/setlevel"		1	300	1	0		0	0	1	0	// -- [] Altera o Level ao Player Target [/command <player name> <level>]
+	55		"/makeuppoints"		"/setuppoints"		1	300	1	0		0	0	1	0	// -- [] Altera o LeveLUpPoints ao Player Target [/command <player name> <points>]
+	56		"/trace"		"/goto"			1	300	1	0		0	0	1	0	// -- [] Teleporta o GM ate o Player Target [/command <player name>]
+	57		"/track"		"/push"			1	300	1	0		0	0	1	0	// -- [] Teleporta o Player Target ate o GM [/command <player name>]
+	58		"/gmmove"		"/gmove"		1	300	1	0		0	0	1	0	// -- [] Teleporta o Player ao Destino  [/command <player name> <map> <cordx> <cordy>]
+	59		"/moveall"		"/gmoveall"		1	300	1	0		0	0	1	0	// -- [] Teleporta Todos os players ao Destino  [/command <map> <cordx> <cordy>]
+	60		"/moveguild"		"/gmoveguild"		1	300	1	0		0	0	1	0	// -- [] Teleporta Todos os membros da guild Destino  [/command <guild name> <map> <cordx> <cordy>]
+	61		"/fireworks"		"/fireshow"		1	300	1	0		0	0	1	0	// -- [] Cria Fireworks [/command <type : [0 ~4>]
+	62		"/chatblock"		""			1	300	1	0		0	0	1	0	// -- [] Bloqueia o chat do personagem target [/command <playername> <time>]
+	63		"/chatunblock"		""			1	300	1	0		0	0	1	0	// -- [] Desbloqueia o chat do personagem target [/command <playername>]
+	64		"/inviss"		"/hide"			1	300	1	0		0	0	1	0	// -- [] Torna o Personagem Invissivel
+	65		"/invull"		"/imortal"		1	300	1	0		0	0	1	0	// -- [] Torna o Personagem invuneravel a Dano
+	66		"/ban_char"		""			1	300	1	0		0	0	1	0	// -- [] Ban o Player Target [/command <playername>]
+	67		"/ban_account"		""			1	300	1	0		0	0	1	0	// -- [] Ban a Conta do Player Target [/command <playername>]
+	68		"/disconnect"		"/dc"			1	300	1	0		0	0	1	0	// -- [] Disconnecta o Player Target [/command <playername>]
+	69		"/ability"		"/playerinfo"		1	300	1	0		0	0	1	0	// -- [] Libera informações do Player Target [/command <playername>]
+	70		"/reload"		""			1	300	1	0		0	0	1	0	// -- [] Reload [/command <0: Shop |1: Monster | 2: Exp Files | 3: PvP Files> | 4: DropFiles]
+	71		"/makecoin"		"/addcoin"		1	300	1	0		0	0	1	0	// 
+	72		"/makecoinall"		"/addcoinall"		1	300	1	0		0	0	1	0	// 
+	73		"!"			"/notice"		1	300	1	0		0	0	1	0	// -- [] Envia noticia [/command <message>]
+end

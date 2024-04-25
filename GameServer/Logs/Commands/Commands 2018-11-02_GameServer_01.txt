@@ -1,0 +1,21 @@
+[03:50:44] [admin][NewGate] Use Command EVOLUTION
+[03:51:32] [admin][NewGate] Use Command CLEAR INVENTORY
+[03:51:38] [admin][NewGate] Use Command MOVE: Stadium
+[03:51:40] [admin][NewGate] Use Command MOVE: Lorencia
+[03:52:13] [admin][NewGate] Use Command MOVE: Stadium
+[03:55:41] [admin][NewGate] Use Command MOVE: Devias
+[03:55:44] [admin2][Beta2] Use Command EVOLUTION
+[03:55:49] [admin2][Beta2] Use Command EVOLUTION
+[04:00:14] [admin][NewGate] Use Command MOVE: Stadium
+[04:00:17] [admin2][Beta2] Use Command MOVE: Stadium
+[04:03:04] [admin2][Beta2] Use Command MOVE: Stadium
+[04:12:54] [admin][NewGate] Use Command MOVE: Lorencia
+[04:13:04] [admin][NewGate] Use Command MOVE: Stadium
+[04:20:40] [admin2][Beta2] Use Command MOVE: Stadium
+[04:21:06] [admin2][Beta2] Use Command MOVE: Stadium
+[04:21:19] [admin2][Beta2] Use Command MOVE: Stadium
+[04:21:36] [admin2][Beta2] Use Command MOVE: Lorencia
+[04:21:38] [admin2][Beta2] Use Command MOVE: Stadium
+[04:22:49] [admin2][Beta2] Use Command MOVE: Stadium
+[04:36:34] [admin2][Beta2] Use Command MOVE: Lorencia
+[04:36:36] [admin2][Beta2] Use Command MOVE: Stadium

@@ -1,0 +1,109 @@
+0
+//==============================================================================||
+//			   [ Coin Points Reward Modules ]			||
+//	----------------------------------------------------------------	||
+//										||
+// EnablePointsTime	: Ativa / Desativa os Bonus por tempo Online		||
+// EnablePointsEvent	: Ativa / Desativa ao Finalizar Eventos			||
+// EnablePointsMonster	: Ativa / Desativa os Eliminar Monstros			||
+//										||
+//==============================================================================||
+//	EnablePointsTime	EnablePointsEvent	EnablePointsMonster	||
+//==============================================================================||
+	0			0			0
+end
+
+1
+//==============================================================================||
+//			   [ Time Points Reward Modules ]			||
+//	----------------------------------------------------------------	||
+//										||
+// WeekDay		: ID do dia da Semana (Não Alterar)			||
+// StartHour		: Hora do Inicio do Evento (0 ~ 24)			||
+// StartMin		: Minutos do Inicio do Evento (0 ~ 59)			||
+// StopHour		: Hora do Término do Evento (0 ~ 24)			||
+// StopMin		: Minutos do Término do Evento (0 ~ 59)			||
+// TimeDelay		: Tempo necessario para ganhar os Points (Minutes)	||
+// Reset		: Reset minimo para ganhar os pontos			||
+// Master Reset		: Master Reset minimo para ganhar os pontos		||
+// Vip			: Vip minimo para ganhar os pontos			||
+// WCoinC		: WCoinC Ganhos ao permanecer "x" Delay Online		||
+// WCoinP		: WCoinP Ganhos ao permanecer "x" Delay Online		||
+// WCoinEvent		: WCoinEvent Ganhos ao permanecer "x" Delay Online	||
+//										||
+//======================================================================================================================================================================================================||
+//	WeekDay		StartHour	StartMin	StopHour	StopMin		TimeDelay	Reset		Master Reset	Vip		WCoinC		WCoinP		WCoinE		||
+//======================================================================================================================================================================================================||
+	0		00		01		23		59		1		0		0		2		10		10		10	// Domingo
+	1		00		01		23		59		1		0		0		2		10		10		10	// Segunda-Feira
+	2		00		01		23		59		1		0		0		2		10		10		10	// Terça-Feira
+	3		00		01		23		59		1		0		0		2		10		10		10	// Quarta-Feira
+	4		00		01		23		59		1		0		0		2		10		10		10	// Quinta-Feira
+	5		00		01		23		59		1		0		0		2		10		10		10	// Sexta-Feira
+	6		00		01		23		59		1		0		0		2		10		10		10	// Sabado
+end
+
+2
+//==============================================================================||
+//			   [ Event Points Reward Modules ]			||
+//	----------------------------------------------------------------	||
+//										||
+// EventID		: ID do Evento (Não Alterar)				||
+// RoomID		: Sala do Evento (Não Alterar)				||
+// WCoinC		: WCoinC Ganhos ao Finalizar em 1º Lugar o Evento	||
+// WCoinP		: WCoinP Ganhos ao Finalizar em 1º Lugar o Evento	||
+// WCoinEvent		: WCoinEvent Ganhos ao Finalizar em 1º Lugar o Evento	||
+//										||
+//======================================================================================||
+//	EventID		RoomID		WCoinC		WCoinP		WCoinEvent	||
+//======================================================================================||
+	0		1		0		0		10	// Blood Castle - Sala #1
+	0		2		0		0		10	// Blood Castle - Sala #2
+	0		3		0		0		10	// Blood Castle - Sala #3
+	0		4		0		0		20	// Blood Castle - Sala #4
+	0		5		0		0		30	// Blood Castle - Sala #5
+	0		6		0		0		30	// Blood Castle - Sala #6
+	0		7		0		0		40	// Blood Castle - Sala #7
+	0		8		0		0		40	// Blood Castle - Sala #8
+//--------------------------------------------------------------------------------------||
+	1		1		0		0		10	// Chaos Castle - Sala #1
+	1		2		0		0		10	// Chaos Castle - Sala #2
+	1		3		0		0		20	// Chaos Castle - Sala #3
+	1		4		0		0		20	// Chaos Castle - Sala #4
+	1		5		0		0		30	// Chaos Castle - Sala #5
+	1		6		0		0		30	// Chaos Castle - Sala #6
+	1		7		0		0		40	// Chaos Castle - Sala #7
+//--------------------------------------------------------------------------------------||
+	2		1		0		0		40	// Devil Square - 1rd
+	2		2		0		0		30	// Devil Square - 2rd
+	2		3		0		0		20	// Devil Square - 3rd
+	2		4		0		0		10	// Devil Square - 4rd
+//--------------------------------------------------------------------------------------||
+	3		1		0		0		10	// Illusion Temple - Sala #1
+	3		2		0		0		10	// Illusion Temple - Sala #2
+	3		3		0		0		20	// Illusion Temple - Sala #3
+	3		4		0		0		30	// Illusion Temple - Sala #4
+	3		5		0		0		30	// Illusion Temple - Sala #5
+	3		6		0		0		40	// Illusion Temple - Sala #6
+//--------------------------------------------------------------------------------------||
+	4		1		0		0		40	// CryWolf
+//--------------------------------------------------------------------------------------||
+end
+
+3
+//==============================================================================||
+//			   [ Event Points Reward Modules ]			||
+//	----------------------------------------------------------------	||
+//										||
+// MonsterID		: ID do Monstro						||
+// MapNumber		: Numero do Mapa					||
+// WCoinC		: WCoinC Ganhos ao Matar o Mob				||
+// WCoinP		: WCoinP Ganhos ao Matar o Mob				||
+// WCoinEvent		: WCoinEvent Ganhos ao Matar o Mob			||
+//										||
+//======================================================================================||
+//	MonsterID	MapNumber	WCoinC		WCoinP		WCoinEvent	||
+//======================================================================================||
+	275		24		0		0		60	//Kundun
+	459		58		0		0		40	//Selupian
+end

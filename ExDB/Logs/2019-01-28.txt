@@ -1,0 +1,59 @@
+[16:03:53] Initialing...
+[16:03:53] Ex Manager Server Started on Port: 55906
+[16:04:12] Initialing...
+[16:04:12] Ex Manager Server Started on Port: 55906
+[16:04:13] WSAAccept() failed with error: 10061
+[16:04:42] Initialing...
+[16:04:42] Ex Manager Server Started on Port: 55906
+[16:04:42] [Query] SELECT * FROM Guild
+[16:04:42] [Query] SELECT * FROM GuildMember
+[16:04:43] GameServer start connection (127.0.0.1)
+[16:04:43] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[16:04:54] GameServer start connection (127.0.0.1)
+[16:04:54] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:09:50] GameServer close connection (127.0.0.1)
+[16:25:41] Initialing...
+[16:25:41] Ex Manager Server Started on Port: 55906
+[16:25:41] [Query] SELECT * FROM Guild
+[16:25:41] [Query] SELECT * FROM GuildMember
+[16:25:50] GameServer start connection (127.0.0.1)
+[16:25:50] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[16:25:51] GameServer start connection (127.0.0.1)
+[16:25:51] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:40:40] GameServer close connection (127.0.0.1)
+[16:40:40] GameServer close connection (127.0.0.1)
+[16:41:28] Initialing...
+[16:41:28] Ex Manager Server Started on Port: 55906
+[16:41:28] [Query] SELECT * FROM Guild
+[16:41:28] [Query] SELECT * FROM GuildMember
+[16:41:37] GameServer start connection (127.0.0.1)
+[16:41:37] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[16:41:40] GameServer start connection (127.0.0.1)
+[16:41:40] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[23:23:48] [Character] NewGate has connected on GameServer_01
+[23:23:48] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[23:23:48] [Query] WZ_UserGuidCreate 'NewGate'
+[23:23:49] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[23:23:49] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[23:23:49] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[23:23:49] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[23:24:07] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[23:24:07] [Character] NewGate has disconnected from GameServer_01
+[23:26:53] [Character] NewGate has connected on GameServer_01
+[23:26:53] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[23:26:53] [Query] WZ_UserGuidCreate 'NewGate'
+[23:26:53] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[23:26:53] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[23:26:53] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[23:26:53] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[23:27:01] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[23:27:01] [Character] NewGate has disconnected from GameServer_01
+[23:30:31] GameServer close connection (127.0.0.1)
+[23:31:40] Initialing...
+[23:31:40] Ex Manager Server Started on Port: 55906
+[23:31:40] [Query] SELECT * FROM Guild
+[23:31:40] [Query] SELECT * FROM GuildMember
+[23:31:42] GameServer start connection (127.0.0.1)
+[23:31:42] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[23:31:49] GameServer start connection (127.0.0.1)
+[23:31:49] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)

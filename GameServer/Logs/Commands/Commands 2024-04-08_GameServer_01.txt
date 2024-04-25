@@ -1,0 +1,9 @@
+[00:02:30] [admin][Supremo] Use Command ADD ZEN : 99999999
+[00:02:41] [admin][Supremo] Use Command ADD POINTS: Type: 0 Points: 3000
+[00:02:57] [admin][Supremo] Use Command ADD POINTS: Type: 1 Points: 3000
+[00:03:09] [admin][Supremo] Use Command ADD POINTS: Type: 2 Points: 2000
+[00:03:18] [admin][Supremo] Use Command ADD POINTS: Type: 3 Points: 2000
+[00:03:20] [admin][Supremo] Use Command MOVE: Lorencia
+[00:18:54] [admin][Supremo] Use Command MOVE: Devias3
+[00:19:08] [admin][Supremo] Use Command MOVE: Noria
+[00:24:03] [admin][Supremo] Use Command MOVE: Lorencia

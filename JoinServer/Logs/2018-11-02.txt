@@ -1,0 +1,40 @@
+[03:01:03] Starting GX JoinServer Emulator...
+[03:01:03] Server started at port [55970]
+[03:15:01] GameServer start connection (127.0.0.1)
+[03:15:01] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[03:23:56] SELECT memb___id, memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+[03:23:56] SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+[03:23:56] SELECT AccountLevel as 'AccountLevel', ExpireTime as 'ExpireTime', ExpireStampEnd as 'ExpireStamp', CONVERT(VARCHAR, ExpireDateTime, 120) as 'ExpireDate' FROM MEMB_PREMIUM WHERE AccountId='admin'
+[03:23:56] SELECT Reset as 'Resets', MasterReset as 'MasterResets' FROM Character WHERE AccountID='admin'
+[03:23:56] EXEC WZ_CONNECT_MEMB 'admin','GameServer_01','192.168.233.1'
+[03:23:56] [AccountManager][admin] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Connected
+[03:55:29] SELECT memb___id, memb__pwd FROM MEMB_INFO WHERE memb___id='admin2'
+[03:55:29] SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin2'
+[03:55:29] SELECT AccountLevel as 'AccountLevel', ExpireTime as 'ExpireTime', ExpireStampEnd as 'ExpireStamp', CONVERT(VARCHAR, ExpireDateTime, 120) as 'ExpireDate' FROM MEMB_PREMIUM WHERE AccountId='admin2'
+[03:55:29] SELECT Reset as 'Resets', MasterReset as 'MasterResets' FROM Character WHERE AccountID='admin2'
+[03:55:29] EXEC WZ_CONNECT_MEMB 'admin2','GameServer_01','192.168.233.1'
+[03:55:29] [AccountManager][admin2] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Connected
+[04:33:56] EXEC WZ_DISCONNECT_MEMB 'admin'
+[04:33:56] [AccountManager][admin] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Disconnected
+[04:33:56] EXEC WZ_DISCONNECT_MEMB 'admin2'
+[04:33:56] [AccountManager][admin2] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Disconnected
+[04:33:59] GameServer close connection (127.0.0.1)
+[04:35:13] GameServer start connection (127.0.0.1)
+[04:35:13] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[04:35:38] SELECT memb___id, memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+[04:35:38] SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+[04:35:38] SELECT AccountLevel as 'AccountLevel', ExpireTime as 'ExpireTime', ExpireStampEnd as 'ExpireStamp', CONVERT(VARCHAR, ExpireDateTime, 120) as 'ExpireDate' FROM MEMB_PREMIUM WHERE AccountId='admin'
+[04:35:38] SELECT Reset as 'Resets', MasterReset as 'MasterResets' FROM Character WHERE AccountID='admin'
+[04:35:38] EXEC WZ_CONNECT_MEMB 'admin','GameServer_01','192.168.233.1'
+[04:35:38] [AccountManager][admin] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Connected
+[04:35:39] SELECT memb___id, memb__pwd FROM MEMB_INFO WHERE memb___id='admin2'
+[04:35:39] SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin2'
+[04:35:39] SELECT AccountLevel as 'AccountLevel', ExpireTime as 'ExpireTime', ExpireStampEnd as 'ExpireStamp', CONVERT(VARCHAR, ExpireDateTime, 120) as 'ExpireDate' FROM MEMB_PREMIUM WHERE AccountId='admin2'
+[04:35:39] SELECT Reset as 'Resets', MasterReset as 'MasterResets' FROM Character WHERE AccountID='admin2'
+[04:35:39] EXEC WZ_CONNECT_MEMB 'admin2','GameServer_01','192.168.233.1'
+[04:35:39] [AccountManager][admin2] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Connected
+[05:01:02] EXEC WZ_DISCONNECT_MEMB 'admin'
+[05:01:02] [AccountManager][admin] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Disconnected
+[05:01:02] EXEC WZ_DISCONNECT_MEMB 'admin2'
+[05:01:02] [AccountManager][admin2] IpAddress: 192.168.233.1, GameServerCode: 0, Status: Disconnected
+[05:01:05] GameServer close connection (127.0.0.1)

@@ -1,0 +1,332 @@
+0
+//==============================================================================||
+//			      [ Item Bag Modules ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Nome da Event Bag						||
+// [1]		: Ativa / Desativa o Drop de Zen				||
+// [2]		: Quantidade de Zen que Dropará					||
+// [3]		: Rate de Drop Zen 				[ 0 ~ 10000 ]	||
+// [4]		: Rate de Drop o Item Excellent			[ 0 ~ 10000 ]	||
+// [5]		: Rate de Drop o Item Ancient			[ 0 ~ 10000 ]	||
+// [6]		: Rate de Drop o Item Socket 			[ 0 ~ 10000 ]	||
+// [7]		: Quantidade de drop						||
+// [8]		: Libera Fireworks ao Dropar					||
+//										||
+//==============================================================================================================||
+//	[0]				[1]	[2]		[3]	[4]	[5]	[6]	[7]	[8]	||
+//==============================================================================================================||
+	"Heart of Dark Lord"		1	1000000		2000	0	0	0	1	0
+end
+
+1
+//==============================================================================||
+//			      [ Drop Item Box Module ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Ativa / Desativa o Evento (Drop) da Box			||
+// [1]		: Level minimo do monstro que dropará a Box			||
+// [2]		: Level maximo do monstro que dropará a Box			||
+// [3]		: Item Index da Box						||
+// [4]		: Item Level da Box						||
+// [5]		: Rate de Drop da Box				[ 0 ~ 10000 ]	||
+//										||
+//==============================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]				||
+//==============================================================================||
+	0	0	200	7179	13	30
+end
+
+//==============================================================================||
+//			      [ Item Bag Drop Data ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Item Type 					[ 0 ~ 15 ]	||
+// [1]		: Item Index 					[ 0 ~ 512 ]	||
+// [2]		: Level minimo do Item 				[ 0 ~ 15 ]	||
+// [3]		: Level maximo do Item 				[ 0 ~ 15 ]	||
+// [4]		: Rate de sucesso para o item obter skill 	[ 0 ~ 100 ]	||
+// [5]		: Rate de sucesso para o item obter luck 	[ 0 ~ 100 ] 	||
+// [6]		: Rate de sucesso para o item obter (JOL) 	[ 0 ~ 100 ]	||
+// [7]		: Numero maximo de opçõs Add Life (JOL)		[ 0 ~ 7 ]	||
+// [8]		: Numero maximo de opções Excellent		[ 0 ~ 6 ]	||
+// [9]		: Dropa o Item Ancient				[ 0 ~ 1 ]	||
+// 										||
+//==============================================================================||
+
+2
+10000	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+	14	13	0	0	0	0	0	0	0 	0	// Jewel of Bless
+	14	14	0	0	0	0	0	0	0	0	// Jewel of Soul 
+	14	16	0	0	0	0	0	0	0	0	// Jewel of Life
+	14	22	0	0	0	0	0	0	0	0	// Jewel of Creation
+	12	15	0	0	0	0	0	0	0	0	// Jewel of Chaos
+	
+
+
+0	3	0	9	50	50	50	7	5	1	// Katana
+0	5	0	9	50	50	50	7	5	1	// blade
+0	9	0	9	50	50	50	7	5	1	// Sword of Salamander
+0	10	0	9	50	50	50	7	5	1	// Light Saber
+0	13	0	9	50	50	50	7	5	1	// Double blade
+3	8	0	9	50	50	50	7	5	1	// Great Scythe
+4	4	0	9	50	50	50	7	5	1	// Tiger bow
+4	9	0	9	50	50	50	7	5	1	// Golden Crossbow
+4	11	0	9	50	50	50	7	5	1	// Light Crossbow
+4	5	0	9	50	50	50	7	5	1	// Silver bow
+4	12	0	9	50	50	50	7	5	1	// Serpent Crossbow
+5	0	0	9	50	50	50	7	5	1	// Skull Staff
+5	2	0	9	50	50	50	7	5	1	// Serpent Staff
+5	3	0	9	50	50	50	7	5	1	// Lightning Staff
+5	4	0	9	50	50	50	7	5	1	// Gorgon Staff
+7	0	0	9	50	50	50	7	5	1	// bronze Helm
+7	2	0	9	50	50	50	7	5	1	// Pad Helm
+7	4	0	9	50	50	50	7	5	1	// bone Helm
+7	5	0	9	50	50	50	7	5	1	// Leather Helm
+7	6	0	9	50	50	50	7	5	1	// Scale Helm
+7	7	0	9	50	50	50	7	5	1	// Sphinx Helm
+7	8	0	9	50	50	50	7	5	1	// brass Helm
+7	10	0	9	50	50	50	7	5	1	// Vine Helm
+7	11	0	9	50	50	50	7	5	1	// Silk Helm
+7	12	0	9	50	50	50	7	5	1	// Wind Helm
+8	0	0	9	50	50	50	7	5	1	// bronze Armor
+8	2	0	9	50	50	50	7	5	1	// Pad Armor
+8	4	0	9	50	50	50	7	5	1	// bone Armor
+8	5	0	9	50	50	50	7	5	1	// Leather Armor
+8	6	0	9	50	50	50	7	5	1	// Scale Armor
+8	7	0	9	50	50	50	7	5	1	// Sphinx Armor
+8	8	0	9	50	50	50	7	5	1	// brass Armor
+8	10	0	9	50	50	50	7	5	1	// Vine Armor
+8	11	0	9	50	50	50	7	5	1	// Silk Armor
+8	12	0	9	50	50	50	7	5	1	// Wind Armor
+9	0	0	9	50	50	50	7	5	1	// bronze Pants
+9	2	0	9	50	50	50	7	5	1	// Pad Pants
+9	4	0	9	50	50	50	7	5	1	// bone Pants
+9	5	0	9	50	50	50	7	5	1	// Leather Pants
+9	6	0	9	50	50	50	7	5	1	// Scale Pants
+9	7	0	9	50	50	50	7	5	1	// Sphinx Pants
+9	8	0	9	50	50	50	7	5	1	// brass Pants
+9	10	0	9	50	50	50	7	5	1	// Vine Pants
+9	11	0	9	50	50	50	7	5	1	// Silk Pants
+9	12	0	9	50	50	50	7	5	1	// Wind Pants
+10	0	0	9	50	50	50	7	5	1	// bronze Gloves
+10	2	0	9	50	50	50	7	5	1	// Pad Gloves
+10	4	0	9	50	50	50	7	5	1	// bone Gloves
+10	5	0	9	50	50	50	7	5	1	// Leather Gloves
+10	6	0	9	50	50	50	7	5	1	// Scale Gloves
+10	7	0	9	50	50	50	7	5	1	// Sphinx Gloves
+10	8	0	9	50	50	50	7	5	1	// brass Gloves
+10	10	0	9	50	50	50	7	5	1	// Vine Gloves
+10	11	0	9	50	50	50	7	5	1	// Silk Gloves
+10	12	0	9	50	50	50	7	5	1	// Wind Gloves
+11	0	0	9	50	50	50	7	5	1	// bronze boots
+11	2	0	9	50	50	50	7	5	1	// Pad boots
+11	4	0	9	50	50	50	7	5	1	// bone boots
+11	5	0	9	50	50	50	7	5	1	// Leather boots
+11	6	0	9	50	50	50	7	5	1	// Scale boots
+11	7	0	9	50	50	50	7	5	1	// Sphinx boots
+11	8	0	9	50	50	50	7	5	1	// brass boots
+11	10	0	9	50	50	50	7	5	1	// Vine boots
+11	11	0	9	50	50	50	7	5	1	// Silk boots
+11	12	0	9	50	50	50	7	5	1	// Wind boots
+0	3	0	9	50	50	50	7	5	1	// Katana
+0	5	0	9	50	50	50	7	5	1	// blade
+0	9	0	9	50	50	50	7	5	1	// Sword of Salamander
+0	10	0	9	50	50	50	7	5	1	// Light Saber
+0	13	0	9	50	50	50	7	5	1	// Double blade
+3	8	0	9	50	50	50	7	5	1	// Great Scythe
+4	4	0	9	50	50	50	7	5	1	// Tiger bow
+4	9	0	9	50	50	50	7	5	1	// Golden Crossbow
+4	11	0	9	50	50	50	7	5	1	// Light Crossbow
+4	5	0	9	50	50	50	7	5	1	// Silver bow
+4	12	0	9	50	50	50	7	5	1	// Serpent Crossbow
+5	0	0	9	50	50	50	7	5	1	// Skull Staff
+5	2	0	9	50	50	50	7	5	1	// Serpent Staff
+5	3	0	9	50	50	50	7	5	1	// Lightning Staff
+5	4	0	9	50	50	50	7	5	1	// Gorgon Staff
+7	0	0	9	50	50	50	7	5	1	// bronze Helm
+7	2	0	9	50	50	50	7	5	1	// Pad Helm
+7	4	0	9	50	50	50	7	5	1	// bone Helm
+7	5	0	9	50	50	50	7	5	1	// Leather Helm
+7	6	0	9	50	50	50	7	5	1	// Scale Helm
+7	7	0	9	50	50	50	7	5	1	// Sphinx Helm
+7	8	0	9	50	50	50	7	5	1	// brass Helm
+7	10	0	9	50	50	50	7	5	1	// Vine Helm
+7	11	0	9	50	50	50	7	5	1	// Silk Helm
+7	12	0	9	50	50	50	7	5	1	// Wind Helm
+8	0	0	9	50	50	50	7	5	1	// bronze Armor
+8	2	0	9	50	50	50	7	5	1	// Pad Armor
+8	4	0	9	50	50	50	7	5	1	// bone Armor
+8	5	0	9	50	50	50	7	5	1	// Leather Armor
+8	6	0	9	50	50	50	7	5	1	// Scale Armor
+8	7	0	9	50	50	50	7	5	1	// Sphinx Armor
+8	8	0	9	50	50	50	7	5	1	// brass Armor
+8	10	0	9	50	50	50	7	5	1	// Vine Armor
+8	11	0	9	50	50	50	7	5	1	// Silk Armor
+8	12	0	9	50	50	50	7	5	1	// Wind Armor
+9	0	0	9	50	50	50	7	5	1	// bronze Pants
+9	2	0	9	50	50	50	7	5	1	// Pad Pants
+9	4	0	9	50	50	50	7	5	1	// bone Pants
+9	5	0	9	50	50	50	7	5	1	// Leather Pants
+9	6	0	9	50	50	50	7	5	1	// Scale Pants
+9	7	0	9	50	50	50	7	5	1	// Sphinx Pants
+9	8	0	9	50	50	50	7	5	1	// brass Pants
+9	10	0	9	50	50	50	7	5	1	// Vine Pants
+9	11	0	9	50	50	50	7	5	1	// Silk Pants
+9	12	0	9	50	50	50	7	5	1	// Wind Pants
+10	0	0	9	50	50	50	7	5	1	// bronze Gloves
+10	2	0	9	50	50	50	7	5	1	// Pad Gloves
+10	4	0	9	50	50	50	7	5	1	// bone Gloves
+10	5	0	9	50	50	50	7	5	1	// Leather Gloves
+10	6	0	9	50	50	50	7	5	1	// Scale Gloves
+10	7	0	9	50	50	50	7	5	1	// Sphinx Gloves
+10	8	0	9	50	50	50	7	5	1	// brass Gloves
+10	10	0	9	50	50	50	7	5	1	// Vine Gloves
+10	11	0	9	50	50	50	7	5	1	// Silk Gloves
+10	12	0	9	50	50	50	7	5	1	// Wind Gloves
+11	0	0	9	50	50	50	7	5	1	// bronze boots
+11	2	0	9	50	50	50	7	5	1	// Pad boots
+11	4	0	9	50	50	50	7	5	1	// bone boots
+11	5	0	9	50	50	50	7	5	1	// Leather boots
+11	6	0	9	50	50	50	7	5	1	// Scale boots
+11	7	0	9	50	50	50	7	5	1	// Sphinx boots
+11	8	0	9	50	50	50	7	5	1	// brass boots
+11	10	0	9	50	50	50	7	5	1	// Vine boots
+11	11	0	9	50	50	50	7	5	1	// Silk boots
+11	12	0	9	50	50	50	7	5	1	// Wind boots
+0	3	0	9	50	50	50	7	5	1	// Katana
+0	5	0	9	50	50	50	7	5	1	// blade
+0	9	0	9	50	50	50	7	5	1	// Sword of Salamander
+0	10	0	9	50	50	50	7	5	1	// Light Saber
+0	13	0	9	50	50	50	7	5	1	// Double blade
+3	8	0	9	50	50	50	7	5	1	// Great Scythe
+4	4	0	9	50	50	50	7	5	1	// Tiger bow
+4	9	0	9	50	50	50	7	5	1	// Golden Crossbow
+4	11	0	9	50	50	50	7	5	1	// Light Crossbow
+4	5	0	9	50	50	50	7	5	1	// Silver bow
+4	12	0	9	50	50	50	7	5	1	// Serpent Crossbow
+5	0	0	9	50	50	50	7	5	1	// Skull Staff
+5	2	0	9	50	50	50	7	5	1	// Serpent Staff
+5	3	0	9	50	50	50	7	5	1	// Lightning Staff
+5	4	0	9	50	50	50	7	5	1	// Gorgon Staff
+7	0	0	9	50	50	50	7	5	1	// bronze Helm
+7	2	0	9	50	50	50	7	5	1	// Pad Helm
+7	4	0	9	50	50	50	7	5	1	// bone Helm
+7	5	0	9	50	50	50	7	5	1	// Leather Helm
+7	6	0	9	50	50	50	7	5	1	// Scale Helm
+7	7	0	9	50	50	50	7	5	1	// Sphinx Helm
+7	8	0	9	50	50	50	7	5	1	// brass Helm
+7	10	0	9	50	50	50	7	5	1	// Vine Helm
+7	11	0	9	50	50	50	7	5	1	// Silk Helm
+7	12	0	9	50	50	50	7	5	1	// Wind Helm
+8	0	0	9	50	50	50	7	5	1	// bronze Armor
+8	2	0	9	50	50	50	7	5	1	// Pad Armor
+8	4	0	9	50	50	50	7	5	1	// bone Armor
+8	5	0	9	50	50	50	7	5	1	// Leather Armor
+8	6	0	9	50	50	50	7	5	1	// Scale Armor
+8	7	0	9	50	50	50	7	5	1	// Sphinx Armor
+8	8	0	9	50	50	50	7	5	1	// brass Armor
+8	10	0	9	50	50	50	7	5	1	// Vine Armor
+8	11	0	9	50	50	50	7	5	1	// Silk Armor
+8	12	0	9	50	50	50	7	5	1	// Wind Armor
+9	0	0	9	50	50	50	7	5	1	// bronze Pants
+9	2	0	9	50	50	50	7	5	1	// Pad Pants
+9	4	0	9	50	50	50	7	5	1	// bone Pants
+9	5	0	9	50	50	50	7	5	1	// Leather Pants
+9	6	0	9	50	50	50	7	5	1	// Scale Pants
+9	7	0	9	50	50	50	7	5	1	// Sphinx Pants
+9	8	0	9	50	50	50	7	5	1	// brass Pants
+9	10	0	9	50	50	50	7	5	1	// Vine Pants
+9	11	0	9	50	50	50	7	5	1	// Silk Pants
+9	12	0	9	50	50	50	7	5	1	// Wind Pants
+10	0	0	9	50	50	50	7	5	1	// bronze Gloves
+10	2	0	9	50	50	50	7	5	1	// Pad Gloves
+10	4	0	9	50	50	50	7	5	1	// bone Gloves
+10	5	0	9	50	50	50	7	5	1	// Leather Gloves
+10	6	0	9	50	50	50	7	5	1	// Scale Gloves
+10	7	0	9	50	50	50	7	5	1	// Sphinx Gloves
+10	8	0	9	50	50	50	7	5	1	// brass Gloves
+10	10	0	9	50	50	50	7	5	1	// Vine Gloves
+10	11	0	9	50	50	50	7	5	1	// Silk Gloves
+10	12	0	9	50	50	50	7	5	1	// Wind Gloves
+11	0	0	9	50	50	50	7	5	1	// bronze boots
+11	2	0	9	50	50	50	7	5	1	// Pad boots
+11	4	0	9	50	50	50	7	5	1	// bone boots
+11	5	0	9	50	50	50	7	5	1	// Leather boots
+11	6	0	9	50	50	50	7	5	1	// Scale boots
+11	7	0	9	50	50	50	7	5	1	// Sphinx boots
+11	8	0	9	50	50	50	7	5	1	// brass boots
+11	10	0	9	50	50	50	7	5	1	// Vine boots
+11	11	0	9	50	50	50	7	5	1	// Silk boots
+11	12	0	9	50	50	50	7	5	1	// Wind boots
+0	3	0	9	50	50	50	7	5	1	// Katana
+0	5	0	9	50	50	50	7	5	1	// blade
+0	9	0	9	50	50	50	7	5	1	// Sword of Salamander
+0	10	0	9	50	50	50	7	5	1	// Light Saber
+0	13	0	9	50	50	50	7	5	1	// Double blade
+3	8	0	9	50	50	50	7	5	1	// Great Scythe
+4	4	0	9	50	50	50	7	5	1	// Tiger bow
+4	9	0	9	50	50	50	7	5	1	// Golden Crossbow
+4	11	0	9	50	50	50	7	5	1	// Light Crossbow
+4	5	0	9	50	50	50	7	5	1	// Silver bow
+4	12	0	9	50	50	50	7	5	1	// Serpent Crossbow
+5	0	0	9	50	50	50	7	5	1	// Skull Staff
+5	2	0	9	50	50	50	7	5	1	// Serpent Staff
+5	3	0	9	50	50	50	7	5	1	// Lightning Staff
+5	4	0	9	50	50	50	7	5	1	// Gorgon Staff
+7	0	0	9	50	50	50	7	5	1	// bronze Helm
+7	2	0	9	50	50	50	7	5	1	// Pad Helm
+7	4	0	9	50	50	50	7	5	1	// bone Helm
+7	5	0	9	50	50	50	7	5	1	// Leather Helm
+7	6	0	9	50	50	50	7	5	1	// Scale Helm
+7	7	0	9	50	50	50	7	5	1	// Sphinx Helm
+7	8	0	9	50	50	50	7	5	1	// brass Helm
+7	10	0	9	50	50	50	7	5	1	// Vine Helm
+7	11	0	9	50	50	50	7	5	1	// Silk Helm
+7	12	0	9	50	50	50	7	5	1	// Wind Helm
+8	0	0	9	50	50	50	7	5	1	// bronze Armor
+8	2	0	9	50	50	50	7	5	1	// Pad Armor
+8	4	0	9	50	50	50	7	5	1	// bone Armor
+8	5	0	9	50	50	50	7	5	1	// Leather Armor
+8	6	0	9	50	50	50	7	5	1	// Scale Armor
+8	7	0	9	50	50	50	7	5	1	// Sphinx Armor
+8	8	0	9	50	50	50	7	5	1	// brass Armor
+8	10	0	9	50	50	50	7	5	1	// Vine Armor
+8	11	0	9	50	50	50	7	5	1	// Silk Armor
+8	12	0	9	50	50	50	7	5	1	// Wind Armor
+9	0	0	9	50	50	50	7	5	1	// bronze Pants
+9	2	0	9	50	50	50	7	5	1	// Pad Pants
+9	4	0	9	50	50	50	7	5	1	// bone Pants
+9	5	0	9	50	50	50	7	5	1	// Leather Pants
+9	6	0	9	50	50	50	7	5	1	// Scale Pants
+9	7	0	9	50	50	50	7	5	1	// Sphinx Pants
+9	8	0	9	50	50	50	7	5	1	// brass Pants
+9	10	0	9	50	50	50	7	5	1	// Vine Pants
+9	11	0	9	50	50	50	7	5	1	// Silk Pants
+9	12	0	9	50	50	50	7	5	1	// Wind Pants
+10	0	0	9	50	50	50	7	5	1	// bronze Gloves
+10	2	0	9	50	50	50	7	5	1	// Pad Gloves
+10	4	0	9	50	50	50	7	5	1	// bone Gloves
+10	5	0	9	50	50	50	7	5	1	// Leather Gloves
+10	6	0	9	50	50	50	7	5	1	// Scale Gloves
+10	7	0	9	50	50	50	7	5	1	// Sphinx Gloves
+10	8	0	9	50	50	50	7	5	1	// brass Gloves
+10	10	0	9	50	50	50	7	5	1	// Vine Gloves
+10	11	0	9	50	50	50	7	5	1	// Silk Gloves
+10	12	0	9	50	50	50	7	5	1	// Wind Gloves
+11	0	0	9	50	50	50	7	5	1	// bronze boots
+11	2	0	9	50	50	50	7	5	1	// Pad boots
+11	4	0	9	50	50	50	7	5	1	// bone boots
+11	5	0	9	50	50	50	7	5	1	// Leather boots
+11	6	0	9	50	50	50	7	5	1	// Scale boots
+11	7	0	9	50	50	50	7	5	1	// Sphinx boots
+11	8	0	9	50	50	50	7	5	1	// brass boots
+11	10	0	9	50	50	50	7	5	1	// Vine boots
+11	11	0	9	50	50	50	7	5	1	// Silk boots
+11	12	0	9	50	50	50	7	5	1	// Wind boots
+
+end
+end

@@ -1,0 +1,92 @@
+[00:34:17] Starting GX Data Emulator...
+[00:34:17] GX Data Emulator Started on Port: 55962
+[00:34:17] SELECT * FROM Guild
+[00:34:17] SELECT * FROM GuildMember
+[00:35:03] GameServer start connection (127.0.0.1)
+[00:35:03] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:35:03] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:46:14] GameServer close connection (127.0.0.1)
+[16:46:54] GameServer start connection (127.0.0.1)
+[16:46:54] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[16:46:54] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:47:20] GameServer close connection (127.0.0.1)
+[16:50:21] GameServer start connection (127.0.0.1)
+[16:50:21] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[16:50:21] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[17:33:04] GameServer close connection (127.0.0.1)
+[18:35:12] GameServer start connection (127.0.0.1)
+[18:35:12] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[18:35:12] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[18:41:02] GameServer close connection (127.0.0.1)
+[18:49:19] GameServer start connection (127.0.0.1)
+[18:49:19] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[18:49:19] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:48:30] GameServer close connection (127.0.0.1)
+[19:52:10] GameServer start connection (127.0.0.1)
+[19:52:10] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[19:52:10] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:53:58] GameServer close connection (127.0.0.1)
+[19:54:20] GameServer start connection (127.0.0.1)
+[19:54:20] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[19:54:20] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:02:20] GameServer close connection (127.0.0.1)
+[20:02:46] GameServer start connection (127.0.0.1)
+[20:02:46] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:02:46] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:09:18] GameServer close connection (127.0.0.1)
+[20:09:41] GameServer start connection (127.0.0.1)
+[20:09:41] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:09:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:14:38] GameServer close connection (127.0.0.1)
+[20:15:41] GameServer start connection (127.0.0.1)
+[20:15:41] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:15:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:19:56] GameServer close connection (127.0.0.1)
+[20:20:25] GameServer start connection (127.0.0.1)
+[20:20:25] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:20:25] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:22:58] GameServer close connection (127.0.0.1)
+[20:24:15] GameServer start connection (127.0.0.1)
+[20:24:15] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:24:15] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:35:56] GameServer close connection (127.0.0.1)
+[20:36:39] GameServer start connection (127.0.0.1)
+[20:36:39] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:36:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:41:51] GameServer close connection (127.0.0.1)
+[20:42:36] GameServer start connection (127.0.0.1)
+[20:42:36] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:42:36] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:47:08] GameServer close connection (127.0.0.1)
+[20:47:39] GameServer start connection (127.0.0.1)
+[20:47:39] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:47:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:48:58] GameServer close connection (127.0.0.1)
+[20:49:26] GameServer start connection (127.0.0.1)
+[20:49:26] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:49:26] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:55:34] GameServer close connection (127.0.0.1)
+[20:56:29] GameServer start connection (127.0.0.1)
+[20:56:29] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:56:29] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:01:46] GameServer close connection (127.0.0.1)
+[21:04:47] GameServer start connection (127.0.0.1)
+[21:04:47] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:04:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:06:36] GameServer close connection (127.0.0.1)
+[21:06:57] GameServer start connection (127.0.0.1)
+[21:06:57] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:06:57] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:09:07] GameServer close connection (127.0.0.1)
+[21:09:47] GameServer start connection (127.0.0.1)
+[21:09:47] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:09:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:09:57] GameServer close connection (127.0.0.1)
+[21:10:00] GameServer start connection (127.0.0.1)
+[21:10:00] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:10:00] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:13:10] GameServer close connection (127.0.0.1)
+[21:14:08] GameServer start connection (127.0.0.1)
+[21:14:08] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:14:08] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:19:29] GameServer close connection (127.0.0.1)

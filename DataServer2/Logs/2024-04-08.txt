@@ -1,0 +1,22 @@
+[00:11:35] Starting GX Data Emulator...
+[00:11:35] GX Data Emulator Started on Port: 55962
+[00:11:35] SELECT * FROM Guild
+[00:11:35] SELECT * FROM GuildMember
+[00:12:24] GameServer start connection (127.0.0.1)
+[00:12:24] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:12:24] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:25:37] GameServer start connection (127.0.0.1)
+[00:25:37] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:25:37] GameServer Autheticate Successfully. (Name: CastleServer Port: 55919 SrvCode: 19)
+[00:47:33] Starting GX Data Emulator...
+[00:47:33] GX Data Emulator Started on Port: 55962
+[00:47:33] SELECT * FROM Guild
+[00:47:33] SELECT * FROM GuildMember
+[00:48:07] GameServer start connection (127.0.0.1)
+[00:48:07] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:48:07] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:48:25] GameServer close connection (127.0.0.1)
+[00:48:51] GameServer start connection (127.0.0.1)
+[00:48:51] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:48:51] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:49:02] GameServer close connection (127.0.0.1)

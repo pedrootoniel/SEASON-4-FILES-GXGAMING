@@ -1,0 +1,759 @@
+[00:34:16] Starting GX Data Emulator...
+[00:34:16] GX Data Emulator Started on Port: 55960
+[00:34:16] SELECT * FROM Guild
+[00:34:16] SELECT * FROM GuildMember
+[00:35:03] GameServer start connection (127.0.0.1)
+[00:35:03] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[00:35:03] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:35:58] SELECT * FROM AccountCharacter WHERE Id='admin'
+[00:35:58] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[00:35:58] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[00:35:59] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[00:35:59] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[00:35:59] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[00:35:59] SELECT * FROM OptionData WHERE Name='NewGate'
+[00:35:59] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[00:35:59] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[00:35:59] EXEC WZ_QMK_InfoLoad 'NewGate'
+[00:35:59] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[00:35:59] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[00:36:17] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=137,MapPosY=136,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[00:36:17] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[00:36:17] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[00:36:17] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[00:36:17] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[00:36:17] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[03:00:02] EXEC WZ_GetItemSerialCounter 200
+[03:00:02] [ItemGetSerial] Current Serial: 57a, Validate Serial: 642, Count: 200
+[16:46:14] GameServer close connection (127.0.0.1)
+[16:46:54] GameServer start connection (127.0.0.1)
+[16:46:54] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[16:46:54] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:47:12] SELECT * FROM AccountCharacter WHERE Id='admin'
+[16:47:12] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[16:47:12] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[16:47:20] GameServer close connection (127.0.0.1)
+[16:50:21] GameServer start connection (127.0.0.1)
+[16:50:21] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[16:50:21] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:50:31] SELECT * FROM AccountCharacter WHERE Id='admin'
+[16:50:31] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[16:50:31] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[16:50:33] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[16:50:33] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[16:50:33] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[16:50:33] SELECT * FROM OptionData WHERE Name='NewGate'
+[16:50:33] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[16:50:33] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[16:50:33] EXEC WZ_QMK_InfoLoad 'NewGate'
+[16:50:33] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[16:50:33] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[16:51:11] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99901000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=143,MapPosY=136,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[16:51:11] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[16:51:11] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[16:51:11] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[16:51:11] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[16:51:11] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[17:33:04] GameServer close connection (127.0.0.1)
+[18:35:12] GameServer start connection (127.0.0.1)
+[18:35:12] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[18:35:12] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[18:35:50] SELECT * FROM AccountCharacter WHERE Id='admin'
+[18:35:50] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:35:50] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[18:35:51] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:35:51] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[18:35:51] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[18:35:51] SELECT * FROM OptionData WHERE Name='NewGate'
+[18:35:51] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[18:35:51] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[18:35:51] EXEC WZ_QMK_InfoLoad 'NewGate'
+[18:35:51] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[18:35:51] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:36:26] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99801000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=143,MapPosY=136,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[18:36:26] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[18:36:26] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[18:36:26] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[18:36:26] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[18:36:26] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[18:41:02] GameServer close connection (127.0.0.1)
+[18:49:19] GameServer start connection (127.0.0.1)
+[18:49:19] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[18:49:19] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[18:49:36] SELECT * FROM AccountCharacter WHERE Id='admin'
+[18:49:36] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:49:36] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[18:49:38] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:49:38] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[18:49:38] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[18:49:38] SELECT * FROM OptionData WHERE Name='NewGate'
+[18:49:38] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[18:49:38] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[18:49:38] EXEC WZ_QMK_InfoLoad 'NewGate'
+[18:49:38] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[18:49:38] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[18:59:29] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99601000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=119,MapPosY=112,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[18:59:29] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[18:59:29] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[18:59:29] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[18:59:29] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[18:59:29] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:09:30] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99601000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=119,MapPosY=112,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:09:30] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:09:30] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:09:30] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:09:30] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:09:30] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:19:31] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99601000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=119,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:19:31] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:19:31] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:19:31] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:19:31] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:19:31] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:29:31] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99601000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=119,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:29:31] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:29:31] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:29:31] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:29:31] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:29:31] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:39:32] UPDATE Character SET cLevel=30,Class=3,LevelUpPoint=10000,Experience=319580,Strength=18,Dexterity=18,Vitality=15,Energy=30,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=99601000,Life=89.000000,MaxLife=89.000000,Mana=118.000000,MaxMana=118.000000,BP=21.000000,MaxBP=21.000000,Shield=159.000000,MaxShield=159.000000,MapNumber=0,MapPosX=119,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:39:32] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:39:32] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:39:32] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:39:32] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:39:32] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:45:43] SELECT Coin1 as 'Coin1', Coin2 as 'Coin2', Coin3 as 'Coin3' FROM memb_info WHERE memb___id='admin'
+[19:48:11] UPDATE Character SET cLevel=31,Class=3,LevelUpPoint=5,Experience=351000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=49266000,Life=108.000000,MaxLife=90.000000,Mana=12544.000000,MaxMana=10120.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12473.000000,MaxShield=12473.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:48:11] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:48:11] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:48:11] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:48:11] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:48:11] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:48:24] UPDATE Character SET cLevel=31,Class=3,LevelUpPoint=5,Experience=380750,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=49266000,Life=108.000000,MaxLife=90.000000,Mana=12544.000000,MaxMana=10120.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12473.000000,MaxShield=12473.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:48:24] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:48:24] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:48:24] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:48:24] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:48:24] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:48:30] GameServer close connection (127.0.0.1)
+[19:52:10] GameServer start connection (127.0.0.1)
+[19:52:10] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[19:52:10] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:52:26] SELECT * FROM AccountCharacter WHERE Id='admin'
+[19:52:26] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:52:26] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[19:52:27] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:52:27] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[19:52:27] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[19:52:27] SELECT * FROM OptionData WHERE Name='NewGate'
+[19:52:27] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:52:27] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[19:52:27] EXEC WZ_QMK_InfoLoad 'NewGate'
+[19:52:27] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:52:27] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:53:55] UPDATE Character SET cLevel=32,Class=3,LevelUpPoint=10,Experience=384400,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=499266000,Life=109.000000,MaxLife=91.000000,Mana=12546.000000,MaxMana=10122.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12477.000000,MaxShield=12477.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:53:55] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:53:55] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:53:55] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:53:55] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:53:55] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:53:58] GameServer close connection (127.0.0.1)
+[19:54:20] GameServer start connection (127.0.0.1)
+[19:54:20] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[19:54:20] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:54:35] SELECT * FROM AccountCharacter WHERE Id='admin'
+[19:54:35] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:54:35] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[19:54:40] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:54:40] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[19:54:40] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[19:54:40] SELECT * FROM OptionData WHERE Name='NewGate'
+[19:54:40] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:54:40] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[19:54:40] EXEC WZ_QMK_InfoLoad 'NewGate'
+[19:54:40] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:54:40] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[19:56:23] UPDATE Character SET cLevel=33,Class=3,LevelUpPoint=15,Experience=419840,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=949266000,Life=110.000000,MaxLife=92.000000,Mana=12548.000000,MaxMana=10124.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12481.000000,MaxShield=12481.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:56:23] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:56:23] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:56:23] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:56:23] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:56:23] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[19:57:31] UPDATE Character SET cLevel=34,Class=3,LevelUpPoint=20,Experience=457380,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=949266000,Life=111.000000,MaxLife=93.000000,Mana=12550.000000,MaxMana=10126.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12486.000000,MaxShield=12486.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[19:57:31] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[19:57:31] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[19:57:31] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[19:57:31] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[19:57:31] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:00:47] UPDATE Character SET cLevel=36,Class=3,LevelUpPoint=30,Experience=539000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=949266000,Life=113.000000,MaxLife=95.000000,Mana=12560.000000,MaxMana=10130.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12495.000000,MaxShield=12495.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:00:47] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:00:47] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:00:47] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:00:47] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:00:47] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:02:18] UPDATE Character SET cLevel=36,Class=3,LevelUpPoint=30,Experience=550900,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=949266000,Life=113.000000,MaxLife=95.000000,Mana=12560.000000,MaxMana=10130.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12495.000000,MaxShield=12495.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=6,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:02:18] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:02:18] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:02:18] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:02:18] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:02:18] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:02:20] GameServer close connection (127.0.0.1)
+[20:02:46] GameServer start connection (127.0.0.1)
+[20:02:46] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:02:46] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:02:58] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:02:58] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:02:58] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:03:03] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:03:03] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:03:03] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:03:03] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:03:03] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:03:03] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:03:03] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:03:03] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:03:03] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:04:43] UPDATE Character SET cLevel=37,Class=3,LevelUpPoint=35,Experience=583200,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1399266000,Life=114.000000,MaxLife=96.000000,Mana=12562.000000,MaxMana=10132.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12500.000000,MaxShield=12500.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:04:43] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:04:43] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:04:43] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:04:43] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:04:43] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:07:43] UPDATE Character SET cLevel=38,Class=3,LevelUpPoint=40,Experience=629740,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1399266000,Life=115.000000,MaxLife=97.000000,Mana=12564.000000,MaxMana=10134.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12505.000000,MaxShield=12505.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:07:43] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:07:43] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:07:43] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:07:43] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:07:43] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:09:16] UPDATE Character SET cLevel=38,Class=3,LevelUpPoint=40,Experience=634840,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1399266000,Life=115.000000,MaxLife=97.000000,Mana=12564.000000,MaxMana=10134.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12505.000000,MaxShield=12505.000000,MapNumber=0,MapPosX=191,MapPosY=112,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:09:16] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:09:16] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:09:16] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:09:16] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:09:16] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:09:18] GameServer close connection (127.0.0.1)
+[20:09:41] GameServer start connection (127.0.0.1)
+[20:09:41] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:09:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:09:56] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:09:56] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:09:56] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:10:01] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:10:01] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:10:01] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:10:01] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:10:01] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:10:01] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:10:01] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:10:01] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:10:01] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:12:05] UPDATE Character SET cLevel=39,Class=3,LevelUpPoint=45,Experience=678680,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1849255500,Life=116.000000,MaxLife=98.000000,Mana=12566.000000,MaxMana=10136.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12510.000000,MaxShield=12510.000000,MapNumber=2,MapPosX=59,MapPosY=41,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:12:05] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:12:05] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:12:05] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:12:05] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:12:05] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:13:53] UPDATE Character SET cLevel=45,Class=3,LevelUpPoint=75,Experience=1026080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1801817500,Life=128.000000,MaxLife=104.000000,Mana=12578.000000,MaxMana=10148.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12544.000000,MaxShield=12544.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:13:53] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:13:53] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:13:53] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:13:53] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:13:53] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:14:36] UPDATE Character SET cLevel=45,Class=3,LevelUpPoint=75,Experience=1026080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1801817500,Life=128.000000,MaxLife=104.000000,Mana=12578.000000,MaxMana=10148.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12544.000000,MaxShield=12544.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:14:36] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:14:36] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:14:36] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:14:36] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:14:36] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:14:38] GameServer close connection (127.0.0.1)
+[20:15:41] GameServer start connection (127.0.0.1)
+[20:15:41] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:15:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:16:18] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:16:18] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:16:18] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:16:23] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:16:23] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:16:23] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:16:23] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:16:23] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:16:23] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:16:23] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:16:23] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:16:23] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:17:59] UPDATE Character SET cLevel=47,Class=3,LevelUpPoint=85,Experience=1163800,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1751817500,Life=130.000000,MaxLife=106.000000,Mana=12588.000000,MaxMana=10152.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12556.000000,MaxShield=12556.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:17:59] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:17:59] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:17:59] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:17:59] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:17:59] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:19:01] UPDATE Character SET cLevel=49,Class=3,LevelUpPoint=95,Experience=1313280,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1751817500,Life=132.000000,MaxLife=108.000000,Mana=12592.000000,MaxMana=10156.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12569.000000,MaxShield=12569.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:19:01] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:19:02] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:19:02] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:19:02] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:19:02] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:19:54] UPDATE Character SET cLevel=53,Class=3,LevelUpPoint=115,Experience=1649440,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1751817500,Life=136.000000,MaxLife=112.000000,Mana=12600.000000,MaxMana=10164.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12596.000000,MaxShield=12596.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:19:54] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:19:54] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:19:54] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:19:54] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:19:54] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:19:56] GameServer close connection (127.0.0.1)
+[20:20:25] GameServer start connection (127.0.0.1)
+[20:20:25] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:20:25] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:20:34] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:20:34] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:20:34] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:20:39] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:20:39] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:20:39] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:20:39] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:20:40] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:20:40] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:20:40] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:20:40] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:20:40] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:21:34] UPDATE Character SET cLevel=54,Class=3,LevelUpPoint=120,Experience=1741580,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1701817500,Life=137.000000,MaxLife=113.000000,Mana=12602.000000,MaxMana=10166.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12603.000000,MaxShield=12603.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:21:34] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:21:34] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:21:34] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:21:34] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:21:34] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:22:46] UPDATE Character SET cLevel=57,Class=3,LevelUpPoint=135,Experience=2038400,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1701817500,Life=140.000000,MaxLife=116.000000,Mana=12608.000000,MaxMana=10172.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12625.000000,MaxShield=12625.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:22:46] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:22:46] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:22:46] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:22:46] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:22:46] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:22:55] UPDATE Character SET cLevel=57,Class=3,LevelUpPoint=135,Experience=2038400,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1701817500,Life=137.000000,MaxLife=116.000000,Mana=12608.000000,MaxMana=10172.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12625.000000,MaxShield=12625.000000,MapNumber=2,MapPosX=41,MapPosY=63,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:22:55] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:22:55] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:22:55] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:22:55] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:22:55] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:22:58] GameServer close connection (127.0.0.1)
+[20:24:15] GameServer start connection (127.0.0.1)
+[20:24:15] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:24:15] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:24:38] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:24:38] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:24:38] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:24:44] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:24:44] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:24:44] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:24:44] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:24:44] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:24:44] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:24:44] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:24:44] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:24:44] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:25:40] UPDATE Character SET cLevel=61,Class=3,LevelUpPoint=155,Experience=2484000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=144.000000,MaxLife=120.000000,Mana=12622.000000,MaxMana=10180.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12657.000000,MaxShield=12657.000000,MapNumber=2,MapPosX=25,MapPosY=78,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:25:40] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:25:40] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:25:40] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:25:40] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:25:40] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:26:37] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[20:26:37] INSERT INTO AccountCharacter (Id) VALUES ('admin3')
+[20:26:44] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[20:26:44] EXEC WZ_CreateCharacter 'admin3','NewGate2','16'
+[20:26:44] SELECT AccountLevel as 'AccountLevel' FROM MEMB_PREMIUM WHERE AccountId='admin3'
+[20:26:44] UPDATE Character SET cLevel=30,Class=19,LevelUpPoint=10000,Experience=0,Strength=28,Dexterity=20,Vitality=25,Energy=10,Leadership=0, Inventory=?,Money=1000,MapNumber=0,MapPosX=132,MapPosY=129,MapDir=1, Reset=3 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:26:44] UPDATE AccountCharacter SET GameID1='NewGate2' WHERE Id='admin3'
+[20:26:44] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[20:26:44] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:26:44] SELECT G_Status FROM GuildMember WHERE Name='NewGate2'
+[20:26:45] SELECT * FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:26:45] UPDATE AccountCharacter SET GameIDC='NewGate2' WHERE Id='admin3'
+[20:26:45] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin3'
+[20:26:45] SELECT * FROM OptionData WHERE Name='NewGate2'
+[20:26:45] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:26:45] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin3'
+[20:26:45] INSERT INTO GXG_JewelBank ([AccountID], [UserFlag], [SoulCredits], [BlessCredits], [CreationCredits], [HarmonyCredits], [ChaosCredits], [LifeCredits], [GuardianCredits], [MoneyCredits], [LastUpdate]) VALUES ('admin3', 7, 0, 0, 0, 0, 0, 0, 0,0, GETDATE())
+[20:26:45] EXEC WZ_QMK_InfoLoad 'NewGate2'
+[20:26:45] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:26:45] SELECT HelperConfig FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:27:52] UPDATE Character SET cLevel=66,Class=3,LevelUpPoint=180,Experience=3126500,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=149.000000,MaxLife=125.000000,Mana=12632.000000,MaxMana=10190.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12699.000000,MaxShield=12699.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:27:52] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:27:52] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:27:52] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:27:52] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:27:52] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:28:53] UPDATE Character SET cLevel=69,Class=3,LevelUpPoint=195,Experience=3560480,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=158.000000,MaxLife=128.000000,Mana=12638.000000,MaxMana=10196.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12726.000000,MaxShield=12726.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:28:53] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:28:53] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:28:53] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:28:53] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:28:53] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:31:19] UPDATE Character SET cLevel=71,Class=3,LevelUpPoint=205,Experience=3871000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=160.000000,MaxLife=130.000000,Mana=12642.000000,MaxMana=10200.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12745.000000,MaxShield=12745.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:31:19] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:31:19] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:31:19] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:31:19] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:31:19] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:32:10] UPDATE Character SET cLevel=31,Class=19,LevelUpPoint=5,Experience=351000,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=200.000000,MaxLife=170.000000,Mana=2440.000000,MaxMana=2035.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12726.000000,MaxShield=12726.000000,MapNumber=2,MapPosX=27,MapPosY=80,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:32:10] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[20:32:10] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[20:32:10] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:32:10] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:32:10] INSERT INTO T_SkillTree_Info (CHAR_NAME,MASTER_LEVEL,ML_POINT,ML_EXP) VALUES ('NewGate2',0,0,0)
+[20:34:55] UPDATE Character SET cLevel=72,Class=3,LevelUpPoint=210,Experience=4032800,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=161.000000,MaxLife=131.000000,Mana=12650.000000,MaxMana=10202.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12754.000000,MaxShield=12754.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:34:55] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:34:55] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:34:55] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:34:55] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:34:55] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:35:53] UPDATE Character SET cLevel=74,Class=3,LevelUpPoint=220,Experience=4369780,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1601817500,Life=163.000000,MaxLife=133.000000,Mana=12654.000000,MaxMana=10206.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12774.000000,MaxShield=12774.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:35:53] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:35:53] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:35:53] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:35:53] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:35:53] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:35:53] UPDATE Character SET cLevel=31,Class=19,LevelUpPoint=5,Experience=351000,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=200.000000,MaxLife=170.000000,Mana=2440.000000,MaxMana=2035.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12726.000000,MaxShield=12726.000000,MapNumber=2,MapPosX=27,MapPosY=80,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:35:53] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[20:35:53] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[20:35:53] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:35:53] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:35:53] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[20:35:56] GameServer close connection (127.0.0.1)
+[20:36:39] GameServer start connection (127.0.0.1)
+[20:36:39] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:36:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:37:04] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[20:37:04] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:37:04] SELECT G_Status FROM GuildMember WHERE Name='NewGate2'
+[20:37:04] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:37:04] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:37:04] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:37:10] SELECT * FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:37:10] UPDATE AccountCharacter SET GameIDC='NewGate2' WHERE Id='admin3'
+[20:37:10] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin3'
+[20:37:10] SELECT * FROM OptionData WHERE Name='NewGate2'
+[20:37:10] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:37:10] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:37:10] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:37:10] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:37:10] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:37:10] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[20:37:10] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin3'
+[20:37:10] EXEC WZ_QMK_InfoLoad 'NewGate2'
+[20:37:10] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:37:10] SELECT HelperConfig FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:37:10] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:37:10] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:37:10] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:37:10] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:37:10] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:38:58] UPDATE Character SET cLevel=75,Class=3,LevelUpPoint=225,Experience=4545080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1551817500,Life=164.000000,MaxLife=134.000000,Mana=12656.000000,MaxMana=10208.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12784.000000,MaxShield=12784.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:38:58] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:38:58] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:38:58] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:38:58] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:38:58] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:39:46] UPDATE Character SET cLevel=32,Class=19,LevelUpPoint=10,Experience=384400,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=202.000000,MaxLife=172.000000,Mana=2440.000000,MaxMana=2035.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12730.000000,MaxShield=12730.000000,MapNumber=2,MapPosX=29,MapPosY=80,MapDir=7,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:39:46] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[20:39:46] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[20:39:46] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:39:46] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:39:46] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[20:40:05] UPDATE Character SET cLevel=76,Class=3,LevelUpPoint=230,Experience=4725000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1551817500,Life=165.000000,MaxLife=135.000000,Mana=12658.000000,MaxMana=10210.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12794.000000,MaxShield=12794.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:40:05] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:40:05] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:40:05] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:40:05] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:40:05] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:41:48] UPDATE Character SET cLevel=33,Class=19,LevelUpPoint=15,Experience=419840,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=201.000000,MaxLife=174.000000,Mana=2441.000000,MaxMana=2036.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12734.000000,MaxShield=12734.000000,MapNumber=2,MapPosX=29,MapPosY=80,MapDir=7,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:41:48] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[20:41:48] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[20:41:48] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:41:48] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:41:48] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[20:41:48] UPDATE Character SET cLevel=76,Class=3,LevelUpPoint=230,Experience=4725000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1551817500,Life=165.000000,MaxLife=135.000000,Mana=12658.000000,MaxMana=10210.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12794.000000,MaxShield=12794.000000,MapNumber=2,MapPosX=27,MapPosY=79,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:41:48] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:41:48] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:41:48] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:41:48] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:41:48] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:41:51] GameServer close connection (127.0.0.1)
+[20:42:36] GameServer start connection (127.0.0.1)
+[20:42:36] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:42:36] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:42:59] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:42:59] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:42:59] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:43:00] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[20:43:00] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:43:00] SELECT G_Status FROM GuildMember WHERE Name='NewGate2'
+[20:43:04] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:43:04] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:43:04] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:43:04] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:43:04] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:43:04] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:43:04] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:43:04] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:43:04] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:43:05] SELECT * FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:43:05] UPDATE AccountCharacter SET GameIDC='NewGate2' WHERE Id='admin3'
+[20:43:05] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin3'
+[20:43:05] SELECT * FROM OptionData WHERE Name='NewGate2'
+[20:43:05] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:43:05] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[20:43:05] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin3'
+[20:43:05] EXEC WZ_QMK_InfoLoad 'NewGate2'
+[20:43:05] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:43:05] SELECT HelperConfig FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[20:43:49] UPDATE Character SET cLevel=77,Class=3,LevelUpPoint=235,Experience=4909600,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1451817500,Life=166.000000,MaxLife=136.000000,Mana=12660.000000,MaxMana=10212.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12804.000000,MaxShield=12804.000000,MapNumber=2,MapPosX=27,MapPosY=64,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:43:49] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:43:49] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:43:49] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:43:49] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:43:49] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:44:05] UPDATE Character SET cLevel=80,Class=3,LevelUpPoint=250,Experience=5492080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1451817500,Life=169.000000,MaxLife=139.000000,Mana=12666.000000,MaxMana=10218.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12835.000000,MaxShield=12835.000000,MapNumber=2,MapPosX=27,MapPosY=64,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:44:05] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:44:05] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:44:05] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:44:05] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:44:05] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:44:07] UPDATE Character SET cLevel=33,Class=19,LevelUpPoint=15,Experience=419840,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=204.000000,MaxLife=174.000000,Mana=2441.000000,MaxMana=2036.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12734.000000,MaxShield=12734.000000,MapNumber=2,MapPosX=27,MapPosY=63,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[20:44:07] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[20:44:07] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[20:44:07] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:44:07] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[20:44:07] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[20:47:08] GameServer close connection (127.0.0.1)
+[20:47:39] GameServer start connection (127.0.0.1)
+[20:47:39] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:47:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:47:54] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:47:54] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:47:54] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:47:56] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:47:56] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:47:56] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:47:56] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:47:56] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:47:56] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:47:56] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:47:56] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:47:56] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:48:56] UPDATE Character SET cLevel=80,Class=3,LevelUpPoint=250,Experience=5492080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1401817500,Life=163.000000,MaxLife=139.000000,Mana=12666.000000,MaxMana=10218.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12835.000000,MaxShield=12835.000000,MapNumber=2,MapPosX=27,MapPosY=62,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:48:56] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:48:56] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:48:56] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:48:56] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:48:56] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:48:58] GameServer close connection (127.0.0.1)
+[20:49:26] GameServer start connection (127.0.0.1)
+[20:49:26] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:49:26] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:49:36] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:49:36] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:49:36] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:49:41] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:49:41] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:49:41] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:49:41] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:49:41] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:49:41] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:49:41] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:49:41] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:49:41] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:50:39] UPDATE Character SET cLevel=81,Class=3,LevelUpPoint=255,Experience=5696000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1401817500,Life=170.000000,MaxLife=140.000000,Mana=12668.000000,MaxMana=10220.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12846.000000,MaxShield=12846.000000,MapNumber=2,MapPosX=27,MapPosY=62,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:50:39] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:50:39] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:50:39] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:50:39] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:50:39] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:52:12] UPDATE Character SET cLevel=85,Class=3,LevelUpPoint=275,Experience=6562080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1351817500,Life=174.000000,MaxLife=144.000000,Mana=12682.000000,MaxMana=10228.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12890.000000,MaxShield=12890.000000,MapNumber=2,MapPosX=26,MapPosY=61,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:52:12] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:52:12] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:52:12] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:52:12] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:52:12] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:53:40] UPDATE Character SET cLevel=92,Class=3,LevelUpPoint=310,Experience=8281000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1301817500,Life=187.000000,MaxLife=151.000000,Mana=12696.000000,MaxMana=10242.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12973.000000,MaxShield=12973.000000,MapNumber=2,MapPosX=19,MapPosY=103,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:53:40] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:53:40] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:53:40] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:53:40] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:53:40] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:55:32] UPDATE Character SET cLevel=94,Class=3,LevelUpPoint=320,Experience=8821980,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1301817500,Life=180.000000,MaxLife=153.000000,Mana=12700.000000,MaxMana=10246.000000,BP=2421.000000,MaxBP=2421.000000,Shield=12998.000000,MaxShield=12998.000000,MapNumber=2,MapPosX=19,MapPosY=103,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:55:32] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:55:32] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:55:32] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:55:32] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:55:32] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[20:55:34] GameServer close connection (127.0.0.1)
+[20:56:29] GameServer start connection (127.0.0.1)
+[20:56:29] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[20:56:29] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:56:43] SELECT * FROM AccountCharacter WHERE Id='admin'
+[20:56:43] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:56:43] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[20:56:48] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:56:48] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[20:56:48] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[20:56:48] SELECT * FROM OptionData WHERE Name='NewGate'
+[20:56:48] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:56:48] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[20:56:48] EXEC WZ_QMK_InfoLoad 'NewGate'
+[20:56:48] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:56:48] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[20:57:38] UPDATE Character SET cLevel=95,Class=3,LevelUpPoint=325,Experience=9101080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1251817500,Life=190.000000,MaxLife=154.000000,Mana=12702.000000,MaxMana=10248.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13010.000000,MaxShield=13010.000000,MapNumber=2,MapPosX=17,MapPosY=106,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[20:57:38] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[20:57:38] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[20:57:38] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[20:57:38] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[20:57:38] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:01:00] UPDATE Character SET cLevel=96,Class=3,LevelUpPoint=330,Experience=9386000,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1251817500,Life=191.000000,MaxLife=155.000000,Mana=12704.000000,MaxMana=10250.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13023.000000,MaxShield=13023.000000,MapNumber=2,MapPosX=17,MapPosY=106,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:01:00] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:01:00] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:01:00] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:01:00] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:01:00] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:01:44] UPDATE Character SET cLevel=97,Class=3,LevelUpPoint=335,Experience=9676800,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1251817500,Life=192.000000,MaxLife=156.000000,Mana=12712.000000,MaxMana=10252.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13036.000000,MaxShield=13036.000000,MapNumber=2,MapPosX=17,MapPosY=106,MapDir=2,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:01:44] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:01:44] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:01:44] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:01:44] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:01:44] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:01:46] GameServer close connection (127.0.0.1)
+[21:04:47] GameServer start connection (127.0.0.1)
+[21:04:47] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:04:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:04:59] SELECT * FROM AccountCharacter WHERE Id='admin'
+[21:04:59] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:04:59] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[21:05:04] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:05:04] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[21:05:04] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[21:05:04] SELECT * FROM OptionData WHERE Name='NewGate'
+[21:05:04] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:05:04] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[21:05:04] EXEC WZ_QMK_InfoLoad 'NewGate'
+[21:05:04] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:05:04] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:06:33] UPDATE Character SET cLevel=99,Class=3,LevelUpPoint=345,Experience=10276280,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1201817500,Life=194.000000,MaxLife=158.000000,Mana=12716.000000,MaxMana=10256.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13062.000000,MaxShield=13062.000000,MapNumber=2,MapPosX=21,MapPosY=105,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:06:33] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:06:33] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:06:33] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:06:33] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:06:33] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:06:36] GameServer close connection (127.0.0.1)
+[21:06:57] GameServer start connection (127.0.0.1)
+[21:06:57] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:06:57] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:07:13] SELECT * FROM AccountCharacter WHERE Id='admin'
+[21:07:13] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:07:13] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[21:07:18] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:07:18] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[21:07:18] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[21:07:18] SELECT * FROM OptionData WHERE Name='NewGate'
+[21:07:18] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:07:18] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[21:07:18] EXEC WZ_QMK_InfoLoad 'NewGate'
+[21:07:18] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:07:18] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:09:05] UPDATE Character SET cLevel=100,Class=3,LevelUpPoint=350,Experience=10585080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1151817500,Life=195.000000,MaxLife=159.000000,Mana=12718.000000,MaxMana=10258.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13075.000000,MaxShield=13075.000000,MapNumber=2,MapPosX=21,MapPosY=105,MapDir=1,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:09:05] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:09:05] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:09:05] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:09:05] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:09:05] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:09:07] GameServer close connection (127.0.0.1)
+[21:09:47] GameServer start connection (127.0.0.1)
+[21:09:47] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:09:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:09:57] GameServer close connection (127.0.0.1)
+[21:10:00] GameServer start connection (127.0.0.1)
+[21:10:00] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:10:00] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:10:16] SELECT * FROM AccountCharacter WHERE Id='admin'
+[21:10:16] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:10:16] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[21:10:21] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:10:21] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[21:10:21] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[21:10:21] SELECT * FROM OptionData WHERE Name='NewGate'
+[21:10:21] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:10:21] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[21:10:21] EXEC WZ_QMK_InfoLoad 'NewGate'
+[21:10:21] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:10:21] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:11:58] UPDATE Character SET cLevel=103,Class=3,LevelUpPoint=365,Experience=11548440,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1101817500,Life=198.000000,MaxLife=162.000000,Mana=12724.000000,MaxMana=10264.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13116.000000,MaxShield=13116.000000,MapNumber=2,MapPosX=21,MapPosY=105,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:11:58] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:11:58] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:11:58] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:11:58] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:11:58] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:13:07] UPDATE Character SET cLevel=104,Class=3,LevelUpPoint=370,Experience=11882080,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1101817500,Life=199.000000,MaxLife=163.000000,Mana=12726.000000,MaxMana=10266.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13130.000000,MaxShield=13130.000000,MapNumber=2,MapPosX=21,MapPosY=105,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:13:07] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:13:07] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:13:07] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:13:07] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:13:07] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:13:10] GameServer close connection (127.0.0.1)
+[21:14:08] GameServer start connection (127.0.0.1)
+[21:14:08] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[21:14:08] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:14:19] SELECT * FROM AccountCharacter WHERE Id='admin'
+[21:14:19] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:14:19] SELECT G_Status FROM GuildMember WHERE Name='NewGate'
+[21:14:24] SELECT * FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:14:24] UPDATE AccountCharacter SET GameIDC='NewGate' WHERE Id='admin'
+[21:14:24] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[21:14:24] SELECT * FROM OptionData WHERE Name='NewGate'
+[21:14:24] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:14:24] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[21:14:24] EXEC WZ_QMK_InfoLoad 'NewGate'
+[21:14:24] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:14:24] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='NewGate'
+[21:15:18] UPDATE Character SET cLevel=106,Class=3,LevelUpPoint=380,Experience=12905100,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1001817500,Life=201.000000,MaxLife=165.000000,Mana=12730.000000,MaxMana=10270.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13158.000000,MaxShield=13158.000000,MapNumber=2,MapPosX=21,MapPosY=111,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:15:18] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:15:18] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:15:18] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:15:18] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:15:18] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:15:53] SELECT * FROM AccountCharacter WHERE Id='admin2'
+[21:15:53] INSERT INTO AccountCharacter (Id) VALUES ('admin2')
+[21:15:58] UPDATE Character SET cLevel=107,Class=3,LevelUpPoint=385,Experience=12921400,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1001717500,Life=202.000000,MaxLife=166.000000,Mana=12732.000000,MaxMana=10272.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13172.000000,MaxShield=13172.000000,MapNumber=2,MapPosX=21,MapPosY=111,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:15:58] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:15:58] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:15:58] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:15:58] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:15:58] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:16:05] SELECT * FROM AccountCharacter WHERE Id='admin3'
+[21:16:05] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[21:16:05] SELECT G_Status FROM GuildMember WHERE Name='NewGate2'
+[21:16:07] SELECT * FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[21:16:07] UPDATE AccountCharacter SET GameIDC='NewGate2' WHERE Id='admin3'
+[21:16:07] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin3'
+[21:16:07] SELECT * FROM OptionData WHERE Name='NewGate2'
+[21:16:07] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[21:16:07] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[21:16:07] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin3'
+[21:16:07] EXEC WZ_QMK_InfoLoad 'NewGate2'
+[21:16:07] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[21:16:07] SELECT HelperConfig FROM Character WHERE AccountID='admin3' AND Name='NewGate2'
+[21:17:16] UPDATE Character SET cLevel=36,Class=19,LevelUpPoint=30,Experience=539000,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=215.000000,MaxLife=180.000000,Mana=2442.000000,MaxMana=2037.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12748.000000,MaxShield=12748.000000,MapNumber=2,MapPosX=20,MapPosY=80,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[21:17:16] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[21:17:16] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[21:17:16] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:17:16] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[21:17:16] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[21:19:16] UPDATE Character SET cLevel=109,Class=3,LevelUpPoint=395,Experience=13646880,Strength=3018,Dexterity=2018,Vitality=15,Energy=5030,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1001717500,Life=204.000000,MaxLife=168.000000,Mana=12736.000000,MaxMana=10276.000000,BP=2421.000000,MaxBP=2421.000000,Shield=13201.000000,MaxShield=13201.000000,MapNumber=2,MapPosX=21,MapPosY=111,MapDir=3,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin' AND Name='NewGate'
+[21:19:16] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[21:19:16] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[21:19:16] EXEC WZ_QMK_InfoSave 'NewGate', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:19:16] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate'
+[21:19:16] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate'
+[21:19:20] UPDATE Character SET cLevel=38,Class=19,LevelUpPoint=40,Experience=629740,Strength=5028,Dexterity=3020,Vitality=25,Energy=2010,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=1999697500,Life=219.000000,MaxLife=184.000000,Mana=2443.000000,MaxMana=2038.000000,BP=3375.000000,MaxBP=3375.000000,Shield=12758.000000,MaxShield=12758.000000,MapNumber=2,MapPosX=22,MapPosY=110,MapDir=5,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=3, MasterReset=0 WHERE AccountID='admin3' AND Name='NewGate2'
+[21:19:20] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin3'
+[21:19:20] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin3' 
+[21:19:20] EXEC WZ_QMK_InfoSave 'NewGate2', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[21:19:20] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='NewGate2'
+[21:19:20] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='NewGate2'
+[21:19:29] GameServer close connection (127.0.0.1)

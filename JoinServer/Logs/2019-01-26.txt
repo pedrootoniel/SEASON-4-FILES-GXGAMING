@@ -1,0 +1,14 @@
+[17:28:52] Starting GX JoinServer Emulator...
+[17:28:52] Server started at port [55970]
+[17:28:52] Failed to Connect to ODBC driver (MuOnlineS4).
+[17:28:52] GX JoinServer Stopped.
+[17:31:11] Starting GX JoinServer Emulator...
+[17:31:11] Server started at port [55970]
+[17:31:19] GameServer start connection (127.0.0.1)
+[17:31:19] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[17:36:22] GameServer close connection (127.0.0.1)
+[17:36:23] GameServer start connection (127.0.0.1)
+[17:36:23] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[17:36:27] GameServer close connection (127.0.0.1)
+[17:39:10] Starting GX JoinServer Emulator...
+[17:39:10] Server started at port [55970]

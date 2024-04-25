@@ -1,0 +1,195 @@
+0
+//==============================================================================||
+//			      [ Item Bag Modules ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Nome da Event Bag						||
+// [1]		: Ativa / Desativa o Drop de Zen				||
+// [2]		: Quantidade de Zen que Dropará					||
+// [3]		: Rate de Drop Zen 				[ 0 ~ 10000 ]	||
+// [4]		: Rate de Drop o Item Excellent			[ 0 ~ 10000 ]	||
+// [5]		: Rate de Drop o Item Ancient			[ 0 ~ 10000 ]	||
+// [6]		: Rate de Drop o Item Socket 			[ 0 ~ 10000 ]	||
+// [7]		: Quantidade de drop						||
+// [8]		: Libera Fireworks ao Dropar					||
+//										||
+//==============================================================================================================||
+//	[0]				[1]	[2]		[3]	[4]	[5]	[6]	[7]	[8]	||
+//==============================================================================================================||
+	"Selupan Event Bag"		0	1000000		0	10000	0	5000	5	1
+end
+
+//==============================================================================||
+//			      [ Item Bag Drop Data ]				||
+//	-------------------------------------------------------------------	||
+//										||
+// [0] 		: Item Type 					[ 0 ~ 15 ]	||
+// [1]		: Item Index 					[ 0 ~ 512 ]	||
+// [2]		: Level minimo do Item 				[ 0 ~ 15 ]	||
+// [3]		: Level maximo do Item 				[ 0 ~ 15 ]	||
+// [4]		: Rate de sucesso para o item obter skill 	[ 0 ~ 100 ]	||
+// [5]		: Rate de sucesso para o item obter luck 	[ 0 ~ 100 ] 	||
+// [6]		: Rate de sucesso para o item obter (JOL) 	[ 0 ~ 100 ]	||
+// [7]		: Numero maximo de opçõs Add Life (JOL)		[ 0 ~ 7 ]	||
+// [8]		: Numero maximo de opções Excellent		[ 0 ~ 6 ]	||
+// [9]		: Dropa o Item Ancient				[ 0 ~ 1 ]	||
+// 										||
+//==============================================================================||
+
+1
+1500	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+
+//weapon Sockets
+//Sword
+	0	26	0	9	50	50	50	7	0	0	// Flameberge
+	0	27	0	9	50	50	50	7	0	0	// Sword Breaker
+	0	28	0	9	50	50	50	7	0	0	// Rune Bastart Sword
+//Bow
+	4	23	0	9	50	50	50	7	0	0	// Dark Stinger Bow
+	2	17	0	9	50	50	50	7	0	0	// Absolute Scepter
+//staff
+	5	30	0	9	0	50	50	7	0	0	// Deadly Staff
+	5	31	0	9	0	50	50	7	0	0	// Imperial Staff
+//mace
+	2	16	0	9	0	50	50	7	0	0	// Frost Mace
+//shield
+	6	17	0	9	50	50	50	7	0	0	// Crimson Glory Shield
+	6	18	0	9	50	50	50	7	0	0	// Salamander Shield
+	6	19	0	9	0	50	50	7	0	0	// Frost Barrier Shield
+	6	20	0	9	50	50	50	7	0	0	// Guardian Shield
+
+end
+6000	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+//weapon Exelents
+//staffs
+	5	5	0	4	0	50	50	7	3	0	// Legendary Staff
+	5	6	0	4	0	50	50	7	3	0	// Staff of Resurrection
+	5	8	0	4	0	50	50	7	3	0	// Staff of Destruction
+	5	9	0	4	0	50	50	7	3	0	// Dragon Soul Staff
+//Spear
+	3	10	0	4	50	50	50	7	3	0	// Dragon Spear
+//Bow
+	4	17	0	4	50	50	50	7	3	0	// Celestial Bow
+//Swords
+	0	13	0	4	50	50	50	7	3	0	// Double Blade
+	0	16	0	4	50	50	50	7	3	0	// Sword of Destruction
+	0	31	0	4	50	50	50	7	3	0	// Rune Blade
+//mace
+	2	7	0	4	0	50	50	7	3	0	// Elemental Mace
+//stick
+	5	16	0	4	0	50	50	7	3	0	// Red Wing Stick
+	5	21	0	4	50	50	50	7	3	0	// Book of Sahamutt
+//scepter
+	2	9	0	4	50	50	50	7	3	0	// Master Scepter
+	2	10	0	4	50	50	50	7	3	0	// Great Scepter
+//crossbow
+	4	16	0	4	50	50	50	7	3	0	// Saint Crossbow
+	4	14	0	4	50	50	50	7	3	0	// Aquagold Crossbow
+//shield
+	6	5	0	4	50	50	50	7	3	0	// Dragon Slayer Shield
+	6	14	0	4	0	50	50	7	3	0	// Legendary Shield
+	6	16	0	4	0	50	50	7	3	0	// Elemental Shield
+
+end
+2000	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+
+//set sockets
+	7	45	0	5	0	20	0	7	0	0	// Titan Helm
+	8	45	0	5	0	20	0	7	0	0	// Titan Armor
+	9	45	0	5	0	20	0	7	0	0	// Titan Pants
+	10	45	0	5	0	20	0	7	0	0	// Titan Gloves
+	11	45	0	5	0	20	0	7	0	0	// Titan Boots
+
+	7	46	0	5	0	20	0	7	0	0	// Brave Helm
+	8	46	0	5	0	20	0	7	0	0	// Brave Armor
+	9	46	0	5	0	20	0	7	0	0	// Brave Pants
+	10	46	0	5	0	20	0	7	0	0	// Brave Gloves
+	11	46	0	5	0	20	0	7	0	0	// Brave Boots
+
+	8	47	0	5	0	20	0	7	0	0	// Phanton Armor
+	9	47	0	5	0	20	0	7	0	0	// Phanton  Pants
+	10	47	0	5	0	20	0	7	0	0	// Phanton  Gloves
+	11	47	0	5	0	20	0	7	0	0	// Phanton  Boots
+	
+	8	48	0	5	0	20	0	7	0	0	// Destroyer Armor
+	9	48	0	5	0	20	0	7	0	0	// Destroyer  Pants
+	10	48	0	5	0	20	0	7	0	0	// Destroyer  Gloves
+	11	48	0	5	0	20	0	7	0	0	// Destroyer  Boots
+
+	7	49	0	5	0	20	0	7	0	0	// Seraphim Helm
+	8	49	0	5	0	20	0	7	0	0	// Seraphim Armor
+	9	49	0	5	0	20	0	7	0	0	// Seraphim Pants
+	10	49	0	5	0	20	0	7	0	0	// Seraphim Gloves
+	11	49	0	5	0	20	0	7	0	0	// Seraphim Boots
+
+	7	50	0	5	0	20	0	7	0	0	// Faith Helm
+	8	50	0	5	0	20	0	7	0	0	// Faith Armor
+	9	50	0	5	0	20	0	7	0	0	// Faith Pants
+	10	50	0	5	0	20	0	7	0	0	// Faith Gloves
+	11	50	0	5	0	50	0	7	0	0	// Faith Boots
+
+	7	51	0	5	0	20	0	7	0	0	// Royal mask
+	8	51	0	5	0	20	0	7	0	0	// Royal Armor
+	9	51	0	5	0	20	0	7	0	0	// Royal Pants
+	10	51	0	5	0	20	0	7	0	0	// Royal Gloves
+	11	51	0	5	0	20	0	7	0	0	// Royal Boots
+
+	7	52	0	5	0	20	0	7	0	0	// Hades Helm
+	8	52	0	5	0	20	0	7	0	0	// Hades Armor
+	9	52	0	5	0	20	0	7	0	0	// Hades Pants
+	10	52	0	5	0	20	0	7	0	0	// Hades Gloves
+	11	52	0	5	0	20	0	7	0	0	// Hades Boots
+
+	7	53	0	5	0	20	0	7	0	0	// Queen mask
+	8	53	0	5	0	20	0	7	0	0	// Queen Armor
+	9	53	0	5	0	20	0	7	0	0	// Queen Pants
+	10	53	0	5	0	20	0	7	0	0	// Queen Gloves
+	11	53	0	5	0	20	0	7	0	0	// Queen Boots
+
+end
+3000	// -- Rate Drop [0~10000]
+//======================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	||
+//======================================================================================||
+//sets Exelentes
+	7	34	0	4	50	50	50	7	2	0	// Ashcrow Helm
+	8	34	0	4	50	50	50	7	2	0	// Ashcrow Armor
+	9	34	0	4	50	50	50	7	2	0	// Ashcrow Pants
+	10	34	0	4	50	50	50	7	2	0	// Ashcrow Gloves
+	11	34	0	4	50	50	50	7	2	0	// Ashcrow Boots
+
+	7	35	0	4	50	50	50	7	2	0	// Eclipse Helm
+	8	35	0	4	50	50	50	7	2	0	// Eclipse Armor
+	9	35	0	4	50	50	50	7	2	0	// Eclipse Pants
+	10	35	0	4	50	50	50	7	2	0	// Eclipse Gloves
+	11	35	0	4	50	50	50	7	2	0	// Eclipse Boots
+
+	7	36	0	4	50	50	50	7	2	0	// Iris Helm
+	8	36	0	4	50	50	50	7	2	0	// Iris Armor
+	9	36	0	4	50	50	50	7	2	0	// Iris Pants
+	10	36	0	4	50	50	50	7	2	0	// Iris Gloves
+	11	36	0	4	50	50	50	7	2	0	// Iris Boots
+
+	8	37	0	4	50	50	50	7	2	0	// Valiant Armor
+	9	37	0	4	50	50	50	7	2	0	// Valiant Pants
+	10	37	0	4	50	50	50	7	2	0	// Valiant Gloves
+	11	37	0	4	50	50	50	7	2	0	// Valiant Boots
+
+
+	8	38	0	4	50	50	50	7	2	0	// Glorious Helm
+	9	38	0	4	50	50	50	7	2	0	// Glorious Armor
+	10	38	0	4	50	50	50	7	2	0	// Glorious Pants
+	11	38	0	4	50	50	50	7	2	0	// Glorious Gloves
+	12	38	0	4	50	50	50	7	2	0	// Glorious Boots
+
+end
+end

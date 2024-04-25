@@ -1,0 +1,4 @@
+[17:39:14] Initialing...
+[17:39:14] Ex Manager Server Started on Port: 55906
+[17:39:23] WSAAccept() failed with error: 10061
+[17:39:33] WSAAccept() failed with error: 10061

@@ -1,0 +1,18 @@
+
+FIND THE STATUES DECLARATIONS IN MONSTERSETBASE.TXT AND CHANGE TO THIS ONES.
+
+// ------------------------------------------------------------
+// Blood Castle NPC
+// ------------------------------------------------------------
+4
+132	11	0  	20	247	0 	//Statue Of Saint
+132	12	0  	20	247	0 	//Statue Of Saint
+132	13	0  	20	247	0 	//Statue Of Saint
+132	14	0  	20	247	0 	//Statue Of Saint
+132	15	0  	20	247	0 	//Statue Of Saint
+132	16	0  	20	247	0 	//Statue Of Saint
+132	17	0  	20	247	0 	//Statue Of Saint
+end
+
+
+

@@ -1,0 +1,38 @@
+//
+// -- OBS.: Esse arquivo não tem efeito para Char GM ou ADM
+//=========================================================================================
+0
+//=========================================================================================
+//
+// [0]			: Quantidade minima de add excellent para bloquear a operação
+// [1]			: Level minimo do item para bloquear a operação
+//
+//=========================================================================================
+//	[0]			[1]		
+//=========================================================================================
+	6			15		// Drag And Drop Item
+	6			15		// ell on NPC Shop
+	6			15		// Sell on Personal Store
+	6			15		// Drag on Trade
+	6			15		// Use on Mix
+	6			15		// Drag on Warehouse
+end
+
+1
+
+//=========================================================================================
+//
+// [0]			: Tipo do item que vai ser filtrado
+// [1]			: Index do item que vai ser filtrado
+// [2]			: Drag And Drop Item 		[0: permitir | 1: bloquear]
+// [3]			: Sell on NPC Shop 		[0: permitir | 1: bloquear]
+// [4]			: Sell on Personal Store 	[0: permitir | 1: bloquear]
+// [5]			: Drag on Trade 		[0: permitir | 1: bloquear]
+// [6]			: Use on Mix 			[0: permitir | 1: bloquear]
+// [7]			: Drag on Warehouse 		[0: permitir | 1: bloquear]
+//
+//=========================================================================================
+//	[0]	[1]		[2]	[3]	[4]	[5]	[6]	[7]	
+//=========================================================================================
+
+end

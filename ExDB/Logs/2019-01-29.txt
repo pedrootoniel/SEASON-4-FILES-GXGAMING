@@ -1,0 +1,295 @@
+[00:34:23] Initialing...
+[00:34:23] Ex Manager Server Started on Port: 55906
+[00:34:23] [Query] SELECT * FROM Guild
+[00:34:23] [Query] SELECT * FROM GuildMember
+[00:34:32] GameServer start connection (127.0.0.1)
+[00:34:32] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[00:35:03] GameServer start connection (127.0.0.1)
+[00:35:03] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[00:35:59] [Character] NewGate has connected on GameServer_01
+[00:35:59] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[00:35:59] [Query] WZ_UserGuidCreate 'NewGate'
+[00:35:59] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[00:35:59] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[00:35:59] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[00:35:59] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[00:36:17] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[00:36:17] [Character] NewGate has disconnected from GameServer_01
+[16:46:14] GameServer close connection (127.0.0.1)
+[16:46:54] GameServer start connection (127.0.0.1)
+[16:46:54] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:47:20] GameServer close connection (127.0.0.1)
+[16:50:20] GameServer start connection (127.0.0.1)
+[16:50:21] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[16:50:33] [Character] NewGate has connected on GameServer_01
+[16:50:33] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[16:50:33] [Query] WZ_UserGuidCreate 'NewGate'
+[16:50:33] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[16:50:33] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[16:50:33] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[16:50:33] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[16:51:11] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[16:51:11] [Character] NewGate has disconnected from GameServer_01
+[17:33:04] GameServer close connection (127.0.0.1)
+[18:35:12] GameServer start connection (127.0.0.1)
+[18:35:12] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[18:35:51] [Character] NewGate has connected on GameServer_01
+[18:35:51] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[18:35:51] [Query] WZ_UserGuidCreate 'NewGate'
+[18:35:51] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[18:35:51] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[18:35:51] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[18:35:51] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[18:36:26] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[18:36:26] [Character] NewGate has disconnected from GameServer_01
+[18:41:02] GameServer close connection (127.0.0.1)
+[18:49:19] GameServer start connection (127.0.0.1)
+[18:49:19] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[18:49:38] [Character] NewGate has connected on GameServer_01
+[18:49:38] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[18:49:38] [Query] WZ_UserGuidCreate 'NewGate'
+[18:49:38] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[18:49:38] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[18:49:38] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[18:49:38] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[19:48:24] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:48:24] [Character] NewGate has disconnected from GameServer_01
+[19:48:30] GameServer close connection (127.0.0.1)
+[19:52:10] GameServer start connection (127.0.0.1)
+[19:52:10] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:52:27] [Character] NewGate has connected on GameServer_01
+[19:52:27] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:52:27] [Query] WZ_UserGuidCreate 'NewGate'
+[19:52:27] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[19:52:27] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[19:52:27] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[19:52:27] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[19:53:55] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:53:55] [Character] NewGate has disconnected from GameServer_01
+[19:53:58] GameServer close connection (127.0.0.1)
+[19:54:20] GameServer start connection (127.0.0.1)
+[19:54:20] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[19:54:40] [Character] NewGate has connected on GameServer_01
+[19:54:40] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[19:54:40] [Query] WZ_UserGuidCreate 'NewGate'
+[19:54:40] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[19:54:40] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[19:54:40] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[19:54:40] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:02:18] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:02:18] [Character] NewGate has disconnected from GameServer_01
+[20:02:20] GameServer close connection (127.0.0.1)
+[20:02:46] GameServer start connection (127.0.0.1)
+[20:02:46] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:03:03] [Character] NewGate has connected on GameServer_01
+[20:03:03] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:03:03] [Query] WZ_UserGuidCreate 'NewGate'
+[20:03:03] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:03:03] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:03:03] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:03:03] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:09:16] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:09:16] [Character] NewGate has disconnected from GameServer_01
+[20:09:18] GameServer close connection (127.0.0.1)
+[20:09:41] GameServer start connection (127.0.0.1)
+[20:09:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:10:01] [Character] NewGate has connected on GameServer_01
+[20:10:01] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:10:01] [Query] WZ_UserGuidCreate 'NewGate'
+[20:10:01] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:10:01] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:10:01] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:10:01] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:14:36] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:14:36] [Character] NewGate has disconnected from GameServer_01
+[20:14:38] GameServer close connection (127.0.0.1)
+[20:15:41] GameServer start connection (127.0.0.1)
+[20:15:41] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:16:23] [Character] NewGate has connected on GameServer_01
+[20:16:23] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:16:23] [Query] WZ_UserGuidCreate 'NewGate'
+[20:16:23] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:16:23] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:16:23] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:16:23] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:19:54] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:19:54] [Character] NewGate has disconnected from GameServer_01
+[20:19:56] GameServer close connection (127.0.0.1)
+[20:20:25] GameServer start connection (127.0.0.1)
+[20:20:25] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:20:40] [Character] NewGate has connected on GameServer_01
+[20:20:40] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:20:40] [Query] WZ_UserGuidCreate 'NewGate'
+[20:20:40] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:20:40] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:20:40] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:20:40] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:22:55] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:22:55] [Character] NewGate has disconnected from GameServer_01
+[20:22:58] GameServer close connection (127.0.0.1)
+[20:24:15] GameServer start connection (127.0.0.1)
+[20:24:15] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:24:44] [Character] NewGate has connected on GameServer_01
+[20:24:44] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:24:44] [Query] WZ_UserGuidCreate 'NewGate'
+[20:24:44] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:24:44] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:24:44] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:24:44] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:26:45] [Character] NewGate2 has connected on GameServer_01
+[20:26:45] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:26:45] [Query] WZ_UserGuidCreate 'NewGate2'
+[20:26:45] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate2'
+[20:26:45] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[20:26:45] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=22
+[20:26:45] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=22
+[20:35:53] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:35:53] [Character] NewGate has disconnected from GameServer_01
+[20:35:53] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:35:53] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[20:35:53] [Character] NewGate2 has disconnected from GameServer_01
+[20:35:56] GameServer close connection (127.0.0.1)
+[20:36:39] GameServer start connection (127.0.0.1)
+[20:36:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:37:10] [Character] NewGate2 has connected on GameServer_01
+[20:37:10] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:37:10] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[20:37:10] [Query] WZ_UserGuidCreate 'NewGate2'
+[20:37:10] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate2'
+[20:37:10] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[20:37:10] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=22
+[20:37:10] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=22
+[20:37:10] [Character] NewGate has connected on GameServer_01
+[20:37:10] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:37:10] [Query] WZ_UserGuidCreate 'NewGate'
+[20:37:10] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:37:10] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:37:10] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:37:10] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:41:48] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:41:48] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[20:41:48] [Character] NewGate2 has disconnected from GameServer_01
+[20:41:48] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:41:48] [Character] NewGate has disconnected from GameServer_01
+[20:41:51] GameServer close connection (127.0.0.1)
+[20:42:36] GameServer start connection (127.0.0.1)
+[20:42:36] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:43:04] [Character] NewGate has connected on GameServer_01
+[20:43:04] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:43:04] [Query] WZ_UserGuidCreate 'NewGate'
+[20:43:04] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:43:04] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:43:04] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:43:04] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:43:05] [Character] NewGate2 has connected on GameServer_01
+[20:43:05] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:43:05] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[20:43:05] [Query] WZ_UserGuidCreate 'NewGate2'
+[20:43:05] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate2'
+[20:43:05] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[20:43:05] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=22
+[20:43:05] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=22
+[20:44:05] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:44:05] [Character] NewGate has disconnected from GameServer_01
+[20:44:07] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[20:44:07] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[20:44:07] [Character] NewGate2 has disconnected from GameServer_01
+[20:47:08] GameServer close connection (127.0.0.1)
+[20:47:39] GameServer start connection (127.0.0.1)
+[20:47:39] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:47:56] [Character] NewGate has connected on GameServer_01
+[20:47:56] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:47:56] [Query] WZ_UserGuidCreate 'NewGate'
+[20:47:56] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:47:56] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:47:56] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:47:56] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:48:56] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:48:56] [Character] NewGate has disconnected from GameServer_01
+[20:48:58] GameServer close connection (127.0.0.1)
+[20:49:26] GameServer start connection (127.0.0.1)
+[20:49:26] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:49:41] [Character] NewGate has connected on GameServer_01
+[20:49:41] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:49:41] [Query] WZ_UserGuidCreate 'NewGate'
+[20:49:41] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:49:41] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:49:41] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:49:41] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[20:55:32] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:55:32] [Character] NewGate has disconnected from GameServer_01
+[20:55:34] GameServer close connection (127.0.0.1)
+[20:56:29] GameServer start connection (127.0.0.1)
+[20:56:29] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[20:56:48] [Character] NewGate has connected on GameServer_01
+[20:56:48] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[20:56:48] [Query] WZ_UserGuidCreate 'NewGate'
+[20:56:48] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[20:56:48] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[20:56:48] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[20:56:48] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[21:01:44] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:01:44] [Character] NewGate has disconnected from GameServer_01
+[21:01:46] GameServer close connection (127.0.0.1)
+[21:04:47] GameServer start connection (127.0.0.1)
+[21:04:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:05:04] [Character] NewGate has connected on GameServer_01
+[21:05:04] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:05:04] [Query] WZ_UserGuidCreate 'NewGate'
+[21:05:04] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[21:05:04] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[21:05:04] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[21:05:04] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[21:06:33] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:06:33] [Character] NewGate has disconnected from GameServer_01
+[21:06:36] GameServer close connection (127.0.0.1)
+[21:06:57] GameServer start connection (127.0.0.1)
+[21:06:57] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:07:18] [Character] NewGate has connected on GameServer_01
+[21:07:18] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:07:18] [Query] WZ_UserGuidCreate 'NewGate'
+[21:07:18] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[21:07:18] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[21:07:18] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[21:07:18] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[21:09:05] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:09:05] [Character] NewGate has disconnected from GameServer_01
+[21:09:07] GameServer close connection (127.0.0.1)
+[21:09:47] GameServer start connection (127.0.0.1)
+[21:09:47] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:09:57] GameServer close connection (127.0.0.1)
+[21:10:00] GameServer start connection (127.0.0.1)
+[21:10:00] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:10:21] [Character] NewGate has connected on GameServer_01
+[21:10:21] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:10:21] [Query] WZ_UserGuidCreate 'NewGate'
+[21:10:21] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[21:10:21] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[21:10:21] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[21:10:21] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[21:13:07] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:13:07] [Character] NewGate has disconnected from GameServer_01
+[21:13:10] GameServer close connection (127.0.0.1)
+[21:14:08] GameServer start connection (127.0.0.1)
+[21:14:08] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[21:14:24] [Character] NewGate has connected on GameServer_01
+[21:14:24] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:14:24] [Query] WZ_UserGuidCreate 'NewGate'
+[21:14:24] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate'
+[21:14:24] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=-1
+[21:14:24] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=-1
+[21:14:24] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=-1
+[21:15:18] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate'
+[21:15:18] [Character] NewGate has disconnected from GameServer_01
+[21:16:07] [Character] NewGate2 has connected on GameServer_01
+[21:16:07] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[21:16:07] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[21:16:07] [Query] WZ_UserGuidCreate 'NewGate2'
+[21:16:07] [Query] SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='NewGate2'
+[21:16:07] [Query] SELECT FriendName,Del FROM T_FriendList WHERE GUID=22
+[21:16:07] [Query] SELECT FriendName FROM T_WaitFriend WHERE GUID=22
+[21:16:07] [Query] SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=22
+[21:19:20] [Query] SELECT GUID FROM T_FriendMain WHERE Name='NewGate2'
+[21:19:20] [Query] SELECT FriendName, Del FROM T_FriendList WHERE GUID=22
+[21:19:20] [Character] NewGate2 has disconnected from GameServer_01
+[21:19:29] GameServer close connection (127.0.0.1)

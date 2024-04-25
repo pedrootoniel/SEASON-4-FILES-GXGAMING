@@ -1,0 +1,73 @@
+0
+//==============================================================================================||
+//	[] Common Settings			  						||
+//==============================================================================================||
+//												||
+// [0]		: Account level [não altere]							||
+// [1]		: Tipo de Master Reset [0: Acumulativo] [1: Pontuativo]				||
+// [2]		: [0: Remove todos os resets] [1: remove apenas os resets requeridos]		||
+// [3]		: Numero de master reset adicionado a cada reset	[default: 1]		||
+// [4]		: Numero de Maximo de master reset			[-1: desativa]		||
+// [5]		: Id do item requerido para resetar			[-1: desativa]		||
+// [6]		: Level do item requerido para resetar						||
+// [7]		: Numero do mapa requerido para resetar			[-1: desativa]		||
+// [8]		: Cordenada X do mapa requerido para resetar					||
+// [9] 		: Cordenada Y do mapa requerido para resetar					||
+// [10]		: Raid de cordenada para verificação do reset					||
+// [11]		: Resetar as skills apos o master reset			[0: Não] [1:Sim]	||
+// [12]		: Resetar as job(class) apos o master reset		[0: Não] [1:Sim]	||
+// [13]		: Requer remover todos os itens equipados para resetar  [0: Não] [1:Sim]	||
+// [14]		: Mover o personagem após o reset para cidade inicial	[0: Não] [1:Sim]	||
+// [15]		: Atualizar os pontos referente aos Resets apos o MR	[0: Não] [1:Sim]	||
+//												||
+//======================================================================================================================================||
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]	[13]	[14]	[15]	||
+//======================================================================================================================================||
+	0	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Free]
+	1	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Vip #1]
+	2	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Vip #2]
+	3	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Vip #3]
+	4	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Vip #4]
+	5	1	0	1	-1	-1	0	-1	0	0	0	0	0	0	1	1	// AccountLevel [Vip #5]
+end
+
+1
+//==============================================================================================||
+//	[] Master Reset Setting			  						||
+//==============================================================================================||
+//												||
+// [0]		: Account level [não altere]							||
+// [1]		: Resets requeridos para master reset						||
+// [2]		: Level requerido para master reset						||
+// [3]		: Money requerido para master reset						||
+// [4]		: Strength requerido para master reset						||
+// [5]		: Dexterith requerido para master reset						||
+// [6]		: Vitality requerido para master reset						||
+// [7] 		: Energy requerido para master reset						||
+// [8]		: LeaderShip requerido para master reset					||
+//												||
+// [Após o reset]										||
+// [9]		: Level do personagem após o reset						||
+// [10]		: Level Up Points adicionais por reset						||
+// [11]		: Status Strength após o reset							||
+// [12]		: Status Dexterity após o reset							||
+// [13]		: Status Vitality após o reset							||
+// [14]		: Status Energy após o reset							||
+// [15]		: Status LeaderShip após o reset			[-1: Não altera]	||
+//												||
+// [Bonificação por master reset]								||
+// [16]		: Bonificação em "Coin #1" por master reset					||
+// [17]		: Bonificação em "Coin #2" por master reset					||
+// [18]		: Bonificação em "Coin #3" por master reset					||
+//												||
+//												||
+//======================================================================================================================================================================================||
+//	[0]	[1]	[2]	[3]		[4]	[5]	[6]	[7]	[8]		[9]	[10]	[11]	[12]	[13]	[14]	[15]		[16]	[17]	[18]	||
+//======================================================================================================================================================================================||
+	0	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	100	// AccountLevel [Free]
+	1	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	101	// AccountLevel [Vip #1]
+	2	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	102	// AccountLevel [Vip #2]
+	3	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	103	// AccountLevel [Vip #3]
+	4	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	104	// AccountLevel [Vip #4]
+	5	0	1	15000000	32000	32000	32000	32000	32000		10	10000	25	25	25	25	25		100	100	105	// AccountLevel [Vip #5]
+end
