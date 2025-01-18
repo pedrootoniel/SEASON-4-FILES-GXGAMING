@@ -7,6 +7,10 @@
 
 Limite de 100 Usuários
 ### UPDATE 18/01/2025
+### Download do MuServer:
+```bash
+https://mega.nz/file/vVgzlYiA#EdeU63U2KRrRTGEvOpyXkj2XzIrM-Y1TYmPDoLbShT0
+```
 ### Download do Cliente:
 Updates do client fica em MuClient UPDATE
 
