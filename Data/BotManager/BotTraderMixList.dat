@@ -1,0 +1,143 @@
+// -- OBS.: o Bot Trader Mix List suporta até 200 Mixes
+// -- Sendo os Index [0 ~ 199] qualquer valor acima disso o GameServer Encerra!
+
+0 // -- Index do Mix
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	//	[] BOT INFO
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// [0]			: Nome do Mix
+	// [1]			: Money Requerido (max 900.999.999)
+	// [2]			: Taxa de Sucesso
+	//
+	// -- Lista de Items Requeridos
+	// [3]			: Item Type (Search Start) [0 ~ 15]
+	// [4]			: Item Index (Search Start)
+	// [5]			: Item Type (Search End)
+	// [6]			: Item Type (Search End)
+	// [7]			: Level Minimo do Item
+	// [8]			: Level Maximo do Item
+	// [9]			: Option Life Minima do Item
+	// [10]			: Option Life Maxima do Item
+	// [11]			: Durabilidade Minima do Item
+	// [12]			: Verificar se o item possui Skill
+	// [13]			: Verificar se o item possui Luck
+	// [14]			: Verificar se o item possui Ancient
+	// [15]			: Quantidade minima de Opções Excellent do Item
+	//
+	// Obs.: Os valores Search Start e Search End funcionam por faixa de item, exemplo:
+	//	SType: 0, SIndex: 0     EType: 0, SIndex : 512
+	//	Ele aceitaria qualquer item que estivesse entre 0,0 a 0,512
+	//
+	// Obs2.: Está sessão suporte até no maximo 15 items sendo que, ao criar o trade, você deve ter certeza que todos os items cabem dentro
+	// de uma box de trade, caso contrario será sempre impossivel concluir o mix!
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[0]						[1]			[2]
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+		"Rune Blade Full +15"				900999999		100
+	
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]	[13]	[14]	[15]
+	//---------------------------------------------------------------------------------------------------------------------------------------------		
+		13	13	13	13	0	0	0	0	0	0	0	0	0
+	end
+
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	//	[] Opções de Saida
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// [0]			: Item Type
+	// [1]			: Item Index
+	// [2]			: Level minimo do item
+	// [3]			: Level maximo do item
+	// [4]			: Durabilidade do item [0: Automatico] [1 ~255]
+	// [5]			: Rate de Sucesso para opção Skill
+	// [6]			: Rate de Sucesso para opção Luck
+	// [7]			: Rate de Sucesso para opção Add Life
+	// [8]			: Max Add Life Option [1 ~ 7]
+	// [9]			: Rate de Sucesso para opção Excellent
+	// [10]			: Max de Add Excellent no Item [1 ~ 6]
+	// [11]			: Rate de Sucesso para opção Ancient
+	// [12]			: Rate de Chance de cair está item (0~100) [Obs.: Quanto maior o valor mais possibilidade de vir esté item]
+	//
+	// Obs.: Para adicionar Item Excellent com adicional fixo, na opção [10], você soma o valor do adicional excellente que deseja + 10
+	// Exemplo: um item full teria o codigo de 63, para que o item sempre saia full preencha 10 + 63 = 73
+	//
+	// Obs2.: Está sessão suporte até no maximo 10 items
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+		0	31	13	13	0	100	100	100	7	100	63	100	1
+	end
+end
+
+1 // -- Index do Mix
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	//	[] BOT INFO
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// [0]			: Nome do Mix
+	// [1]			: Money Requerido
+	// [2]			: Taxa de Sucesso
+	//
+	// -- Lista de Items Requeridos
+	// [3]			: Item Type (Search Start) [0 ~ 15]
+	// [4]			: Item Index (Search Start)
+	// [5]			: Item Type (Search End)
+	// [6]			: Item Type (Search End)
+	// [7]			: Level Minimo do Item
+	// [8]			: Level Maximo do Item
+	// [9]			: Option Life Minima do Item
+	// [10]			: Option Life Maxima do Item
+	// [11]			: Durabilidade Minima do Item
+	// [12]			: Verificar se o item possui Skill
+	// [13]			: Verificar se o item possui Luck
+	// [14]			: Verificar se o item possui Ancient
+	// [15]			: Quantidade minima de Opções Excellent do Item
+	//
+	// Obs.: Os valores Search Start e Search End funcionam por faixa de item, exemplo:
+	//	SType: 0, SIndex: 0     EType: 0, SIndex : 512
+	//	Ele aceitaria qualquer item que estivesse entre 0,0 a 0,512
+	//
+	// Obs2.: Está sessão suporte até no maximo 15 items sendo que, ao criar o trade, você deve ter certeza que todos os items cabem dentro
+	// de uma box de trade, caso contrario será sempre impossivel concluir o mix!
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[0]						[1]			[2]
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+		"Kriss Full"					1500000000		100
+	
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]	[13]	[14]	[15]
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+		0	1	0	31	0	0	0	0	0	0	0	0	0
+	end
+
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	//	[] Opções de Saida
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// [0]			: Item Type
+	// [1]			: Item Index
+	// [2]			: Level minimo do item
+	// [3]			: Level maximo do item
+	// [4]			: Durabilidade do item [0: Automatico] [1 ~255]
+	// [5]			: Rate de Sucesso para opção Skill
+	// [6]			: Rate de Sucesso para opção Luck
+	// [7]			: Rate de Sucesso para opção Add Life
+	// [8]			: Max Add Life Option [1 ~ 7]
+	// [9]			: Rate de Sucesso para opção Excellent
+	// [10]			: Max de Add Excellent no Item [1 ~ 6]
+	// [11]			: Rate de Sucesso para opção Ancient
+	// [12]			: Rate de Chance de cair está item (0~100) [Obs.: Quanto maior o valor mais possibilidade de vir esté item]
+	//
+	// Obs.: Para adicionar Item Excellent com adicional fixo, na opção [10], você soma o valor do adicional excellente que deseja + 10
+	// Exemplo: um item full teria o codigo de 63, para que o item sempre saia full preencha 10 + 63 = 73
+	//
+	// Obs2.: Está sessão suporte até no maximo 10 items
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+	// 	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]
+	//---------------------------------------------------------------------------------------------------------------------------------------------
+		0	31	13	13	0	100	100	100	7	100	63	100	1
+	end
+end
+
+
+
+
+end // -- Não remova estpe ultimo end

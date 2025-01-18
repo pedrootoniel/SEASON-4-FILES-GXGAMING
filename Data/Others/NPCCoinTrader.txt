@@ -1,0 +1,70 @@
+// -- OBS: Cada Sessão cabe no maximo 30 Trocas
+// 
+0
+// -- Trades For -> WCoin 1
+//=======================================================================================================================
+//
+// [0]			: Trader Type [1: Coin 1] [2: Coin 2] [3: Coint 3] [4: Resets]
+// [1]			: Valor requerido para iniciar o trader
+// [2]			: Valor do trader
+// [3]			: Account Level Requerido para realizar a troca
+// [4]			: Resets minimo Requerido para realizar a troca
+// [5]			: Master Resets minimo Requerido para realizar a troca
+//
+//=======================================================================================================================
+//	[0]		[1]		[2]		[3]		[4]		[5]
+//=======================================================================================================================
+	2		100		10		0		0		0	// - Trade [100 Coin2] -> [10 Coin1]
+	2		200		20		0		0		1	// - Trade [200 Coin2] -> [20 Coin1]
+	2		300		30		0		0		0	// - Trade [300 Coin2] -> [30 Coin1]
+
+	3		1000		10		0		0		0	// - Trade [1000 Coin3] -> [10 Coin1]
+	3		2000		20		0		0		0	// - Trade [2000 Coin3] -> [20 Coin1]
+	3		3000		30		0		0		0	// - Trade [3000 Coin3] -> [30 Coin1]
+
+	4		10		1		0		0		0	// - Trade [10 Resets] -> [1 Coin1]
+	4		20		2		0		0		0	// - Trade [20 Resets] -> [2 Coin1]
+	4		30		3		0		0		0	// - Trade [30 Resets] -> [3 Coin1]
+end
+
+1
+// -- Trades For -> WCoin 2
+//=======================================================================================================================
+//
+// [0]			: Trader Type [1: Coin 1] [2: Coin 2] [3: Coint 3] [4: Resets]
+// [1]			: Valor requerido para iniciar o trader
+// [2]			: Valor do trader
+// [3]			: Account Level Requerido para realizar a troca
+// [4]			: Resets minimo Requerido para realizar a troca
+// [5]			: Master Resets minimo Requerido para realizar a troca
+//
+//=======================================================================================================================
+//	[0]		[1]		[2]		[3]		[4]		[5]
+//=======================================================================================================================
+	3		1000		100		0		0		0	// - Trade [1000 Coin3] -> [100 Coin2]
+	3		2000		200		0		0		0	// - Trade [2000 Coin3] -> [200 Coin2]
+	3		3000		300		0		0		0	// - Trade [3000 Coin3] -> [300 Coin2]
+
+	4		10		10		0		0		0	// - Trade [10 Resets] -> [10 Coin2]
+	4		20		20		0		0		0	// - Trade [20 Resets] -> [20 Coin2]
+	4		30		30		0		0		0	// - Trade [30 Resets] -> [30 Coin2]
+end
+
+2
+// -- Trades For -> WCoin 3
+//=======================================================================================================================
+//
+// [0]			: Trader Type [1: Coin 1] [2: Coin 2] [3: Coint 3] [4: Resets]
+// [1]			: Valor requerido para iniciar o trader
+// [2]			: Valor do trader
+// [3]			: Account Level Requerido para realizar a troca
+// [4]			: Resets minimo Requerido para realizar a troca
+// [5]			: Master Resets minimo Requerido para realizar a troca
+//
+//=======================================================================================================================
+//	[0]		[1]		[2]		[3]		[4]		[5]
+//=======================================================================================================================
+	4		10		100		0		0		0	// - Trade [10 Resets] -> [100 Coin3]
+	4		20		200		0		0		0	// - Trade [20 Resets] -> [200 Coin3]
+	4		30		300		0		0		0	// - Trade [30 Resets] -> [300 Coin3]
+end

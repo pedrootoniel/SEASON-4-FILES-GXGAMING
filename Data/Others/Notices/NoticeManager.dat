@@ -1,0 +1,30 @@
+//======================================================================================================================
+//	Notice Manager
+//======================================================================================================================
+//	
+// [0]			: Notice Index [1 ~ 20] (Maximo de 20 Noticias)	
+// [1]			: Cor do Titulo da Noticia [0: branca] [1: vermelha] [2: verde] [3: azul] [4: dourado]
+// [2]			: data da noticia
+// [3]			: Titulo da Noticia
+//	
+//======================================================================================================================
+//	[0]	[1]	[2]		[3]
+//======================================================================================================================
+	1	4	"21.09.2017"	"#2 Seja bem vindo ao GX Emu Update 3.0"
+	2	3	"21.09.2017"	"#3 Seja bem vindo ao GX Emu Update 3.0"
+	3	2	"21.09.2017"	"#4 Seja bem vindo ao GX Emu Update 3.0"
+	4	1	"21.09.2017"	"#5 Seja bem vindo ao GX Emu Update 3.0"
+	5	0	"21.09.2017"	"#6 Seja bem vindo ao GX Emu Update 3.0"
+	6	4	"21.09.2017"	"#7 Seja bem vindo ao GX Emu Update 3.0"
+	7	4	"21.09.2017"	"#8 Seja bem vindo ao GX Emu Update 3.0"
+	8	4	"21.09.2017"	"#9 Seja bem vindo ao GX Emu Update 3.0"
+	9	4	"21.09.2017"	"#10 Seja bem vindo ao GX Emu Update 3.0"
+	10	4	"21.09.2017"	"#11 Seja bem vindo ao GX Emu Update 3.0"
+	11	4	"21.09.2017"	"#12 Seja bem vindo ao GX Emu Update 3.0"
+	12	4	"21.09.2017"	"#13 Seja bem vindo ao GX Emu Update 3.0"
+	13	4	"21.09.2017"	"#14 Seja bem vindo ao GX Emu Update 3.0"
+	14	4	"21.09.2017"	"#15 Seja bem vindo ao GX Emu Update 3.0"
+	15	4	"21.09.2017"	"#16 Seja bem vindo ao GX Emu Update 3.0"
+	16	4	"21.09.2017"	"#17 Seja bem vindo ao GX Emu Update 3.0"
+	17	4	"21.09.2017"	"#18 Seja bem vindo ao GX Emu Update 3.0"
+end

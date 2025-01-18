@@ -1,0 +1,11 @@
+[17:07:05] [admin][Admin] Use Command MOVE: Lorencia
+[17:11:34] [admin][Admin] Use Command MOVE: Lorencia
+[17:19:46] [admin][Admin] Use Command CLEAR INVENTORY
+[17:19:51] [admin][Admin] Use Command CLEAR INVENTORY
+[19:50:39] [admin][Admin] Use Command MOVE: Arena
+[19:50:43] [admin][Admin] Use Command MOVE: Devias
+[20:05:52] [admin][Admin] Use Command MOVE: Arena
+[20:15:55] [admin][Admin] Use Command MOVE: Lorencia
+[20:18:45] [admin][Admin] Use Command MOVE: Arena
+[23:00:27] [admin][Admin] Use Command MOVE: Arena
+[23:00:34] [admin][Admin] Use Command MOVE: Lorencia

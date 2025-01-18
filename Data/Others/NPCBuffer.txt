@@ -1,0 +1,31 @@
+//=======================================================================================================================
+//
+// [0]			: Classe do NPC
+// [1]			: Id do Buff
+// [2]			: Duração do Buff
+// [3]			: Level Minimo necessario
+// [4]			: Level Maximo necessario
+// [5]			: Reset Minimo necessario
+// [6]			: Reset Maximo necessario
+// [7]			: Zen necessario
+// [8]			: Status para base do buff [1: NPC][2: Player]
+// [9]			: Status Strength do NPC
+// [10]			: Status Dexterity do NPC
+// [11]			: Status Vitality do NPC
+// [12]			: Status Energy do NPC
+// [13]			: Status LeaderShip do NPC
+// [14]			: Porcentagem Adicional do Valor do buff para Vip 1
+// [15]			: Porcentagem Adicional do Valor do buff para Vip 2
+// [16]			: Porcentagem Adicional do Valor do buff para Vip 3
+// [17]			: Porcentagem Adicional do Valor do buff para Vip 4
+// [18]			: Porcentagem Adicional do Valor do buff para Vip 5
+//
+//===================================================================================================================================================================================
+//	[0]	[1]	[2]		[3]	[4]	[5]	[6]	[7]		[8]	[9]	[10]	[11]	[12]	[13]	[14]	[15]	[16]	[17]	[18]
+//===================================================================================================================================================================================
+	710	4	30		0	400	-1	-1	1000000		1	32000	32000	32000	32000	32000	0	0	0	0	0
+	711	8	30		0	400	-1	-1	1000000		1	32000	32000	32000	32000	32000	0	0	0	0	0
+	712	1	30		0	400	-1	-1	1000000		1	32000	32000	32000	32000	32000	0	0	0	0	0
+	713	2	30		0	400	-1	-1	1000000		1	32000	32000	32000	32000	32000	0	0	0	0	0
+	714	5	30		0	400	-1	-1	1000000		1	32000	32000	32000	32000	32000	0	0	0	0	0
+end

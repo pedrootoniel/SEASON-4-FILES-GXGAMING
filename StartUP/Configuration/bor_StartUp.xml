@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="..\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\DataServer1\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\DataServer2\Dataserver.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\JoinServer\GXJoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\ChatServer\ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\ExDB\ExDBServer.exe" Parameters="" />
+</Processes>

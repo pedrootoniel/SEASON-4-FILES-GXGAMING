@@ -1,0 +1,28 @@
+[03:50:39] [admin][NewGate] Dupe Item [Great Box Of Death Battle] Serial: 30FCE600
+[03:50:50] [admin][NewGate] Dupe Item [Great Box Of Death Battle] Serial: 30FCE600
+[03:50:52] [admin][NewGate] Dupe Item [Ashcrow Pants] Serial: BC6D8200
+[03:50:56] [admin][NewGate] Dupe Item [(null)] Serial: AFA03D00
+[03:50:59] [admin][NewGate] Dupe Item [Ultimate Box Of Death Battle] Serial: 1AD49F00
+[03:51:02] [admin][NewGate] Dupe Item [Great Box Of Death Battle] Serial: 9E640C00
+[03:51:05] [admin][NewGate] Dupe Item [(null)] Serial: F8E86B00
+[03:51:07] [admin][NewGate] Dupe Item [(null)] Serial: 789C800
+[03:51:11] [admin][NewGate] Dupe Item [(null)] Serial: FFCC7A00
+[03:51:15] [admin][NewGate] Dupe Item [Ultimate Box Of Death Battle] Serial: 4E369000
+[03:51:17] [admin][NewGate] Dupe Item [Ultimate Box Of Death Battle] Serial: 1C771100
+[03:51:19] [admin][NewGate] Dupe Item [Great Box Of Death Battle] Serial: 7E768A00
+[03:51:23] [admin][NewGate] Dupe Item [Great Box Of Death Battle] Serial: 7E768A00
+[03:52:07] [admin][NewGate] Dupe Item [(null)] Serial: B8732500
+[03:57:45] [admin][NewGate] Dupe Item [(null)] Serial: 30FCE600
+[03:57:51] [admin][NewGate] Dupe Item [(null)] Serial: 1AD49F00
+[03:57:53] [admin][NewGate] Dupe Item [(null)] Serial: 9E640C00
+[03:57:54] [admin][NewGate] Dupe Item [(null)] Serial: BC6D8200
+[03:57:56] [admin][NewGate] Dupe Item [Brave Boots] Serial: AFA03D00
+[03:57:58] [admin][NewGate] Dupe Item [(null)] Serial: F8E86B00
+[03:57:59] [admin][NewGate] Dupe Item [(null)] Serial: 789C800
+[03:58:01] [admin][NewGate] Dupe Item [Flameberge] Serial: FFCC7A00
+[03:58:17] [admin][NewGate] Dupe Item [(null)] Serial: 4E369000
+[03:58:19] [admin][NewGate] Dupe Item [(null)] Serial: 1C771100
+[03:58:22] [admin][NewGate] Dupe Item [(null)] Serial: 7E768A00
+[04:12:58] [admin][NewGate] Dupe Item [(null)] Serial: E8AFB000
+[04:12:58] [admin][NewGate] Dupe Item [(null)] Serial: 5B7FB300
+[04:12:59] [admin][NewGate] Dupe Item [Flameberge] Serial: 7493B100

@@ -1,0 +1,29 @@
+0 // -- [] Damage Settings
+//=====================================================================================================================
+//
+// [0]			: Rate de Dano Geral para PvM
+// [1]			: Rate de Dano Geral para PvP
+// [2]			: Rate de Dano em Duelo
+// [3]			: Rate de Dano em Evento PvP (Chaos Castle, Illusion Temple, GX Battle Event...)
+// [4]			: Rate de Dano Castle Siege [Dentro do Evento para Membros participantes]
+// [5]			: Rate de Dano Castle Siege [Dentro do Evento para Membros não participantes]
+// [6]			: Rate de Dano Castle Siege [Para Estruturas Dentro do Evento]
+// [7]			: Rate de Dano Contra "Dark Wizard" e Evoluções
+// [8]			: Rate de Dano Contra "Dark Knight" e Evoluções
+// [9]			: Rate de Dano Contra "Fairy Elf" e Evoluções
+// [10]			: Rate de Dano Contra "Magic Gladiator" e Evoluções
+// [11]			: Rate de Dano Contra "Dark Lord" e Evoluções
+// [12]			: Rate de Dano Contra "Summoner" e Evoluções
+// [13]			: Rate de Dano Struck (Retorno de Dano)
+
+//
+//=====================================================================================================================
+//	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	[12]	[13]
+//=====================================================================================================================
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Dark Wizard
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Dark Knight
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Fairy Elf
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Magic Gladiator
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Dark Lord
+	100	100	60	50	40	0	5	100	100	100	100	100	100	0	// Summoner
+end

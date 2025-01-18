@@ -1,0 +1,992 @@
+[Reset Manager] Reset file was loaded successfully!
+[GX HELPER ATTACK] File loaded successfully!
+[Notice System] #2 Fail on load notice: 10
+[Notice System] #2 Fail on load notice: 11
+[Notice System] #2 Fail on load notice: 12
+[Notice System] #2 Fail on load notice: 13
+[Notice System] #2 Fail on load notice: 14
+[Notice System] #2 Fail on load notice: 15
+[Notice System] #2 Fail on load notice: 16
+[Notice System] #2 Fail on load notice: 17
+[Notice System] File loaded successfullly!
+[CashShopManager] File loaded Sucessfully!
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7241, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7242, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7243, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7244, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7245, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7272, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6718, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6719, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6699, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6700, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6701, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 7259, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6710, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6711, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6712, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6713, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6714, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 2]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 0, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 3, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 4, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 5, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 6, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 7, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 8, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 9, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 10, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 11, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 12, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 13, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 14, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 15, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 16, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 17, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 18, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 19, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 20, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 31, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 512, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 513, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 514, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 515, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 516, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 517, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 518, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 519, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 520, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1024, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1025, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1026, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1027, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1028, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1029, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1030, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1031, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1032, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1033, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1034, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1035, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1036, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1037, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1536, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1537, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1538, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1539, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1540, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1541, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1542, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1543, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1544, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1545, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1546, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 1547, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2048, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2049, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 20]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2050, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 30]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2051, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 40]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2052, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2053, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2054, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 40]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2055, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 70]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2056, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 80]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2057, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 90]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2058, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 100]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2059, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 120]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2060, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 140]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2061, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 160]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2062, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 180]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2063, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 40]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2064, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 220]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2065, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 250]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2066, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 250]
+[CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 2067, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 280]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2560, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2561, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 51]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2562, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 52]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2563, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 53]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2564, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 54]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2565, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 55]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2566, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 56]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2567, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2568, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2569, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2570, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2571, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2575, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2576, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2577, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2578, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2579, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2580, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2581, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2582, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 3] Add Item [Index: 2583, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3072, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3073, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3074, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3075, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3076, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3077, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3078, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3079, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3080, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3081, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3082, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3083, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3084, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3085, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3086, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 4] Add Item [Index: 3087, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3589, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3584, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3590, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3592, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3593, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3585, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3600, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3601, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3605, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3586, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3588, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3591, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3587, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3602, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3606, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3594, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3595, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3596, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3597, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3598, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][SetItemList][Coint: 0][Category: 5] Invalid ItemIndex: 3599
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3603, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3608, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3609, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3610, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3611, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3612, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3623, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3624, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3625, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 5] Add Item [Index: 3626, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4101, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4096, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4102, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4104, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4105, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4097, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4112, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4113, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4117, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4098, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4100, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4103, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4099, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4114, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4118, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4106, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4107, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4108, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4109, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4110, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4115, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4120, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4111, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4116, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4119, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4121, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4122, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4123, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4124, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4135, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4136, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4137, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 6] Add Item [Index: 4138, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4613, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4608, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4614, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4616, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4617, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4609, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4624, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4625, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4629, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4610, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4612, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4615, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4611, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4626, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4630, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4618, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4619, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4620, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4621, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4622, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4627, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4632, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4623, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4628, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4631, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4633, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4634, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4635, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4636, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4647, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4648, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4649, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 7] Add Item [Index: 4650, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5125, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5120, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5126, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5128, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5129, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5121, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5136, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5137, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5141, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5122, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5124, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5127, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5123, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5138, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5142, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5130, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5131, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5132, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5133, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5134, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5139, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5144, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5135, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5140, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5143, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5145, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5146, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5147, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5148, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5159, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5160, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5161, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 8] Add Item [Index: 5162, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5637, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5632, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5638, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5640, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5641, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5633, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5648, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5649, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5653, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5634, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5636, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5639, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5635, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5650, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5654, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5642, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5643, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5644, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5645, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5646, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5651, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5656, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5647, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5652, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5655, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5657, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5658, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5659, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5660, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5671, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5672, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5673, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 9] Add Item [Index: 5674, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6144, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6145, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6146, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6147, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6148, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6149, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6150, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6686, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6185, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 10] Add Item [Index: 6186, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6159, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7190, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7209, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6174, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6174, Lvl: 1, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 18]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6174, Lvl: 2, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 25]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6175, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6175, Lvl: 1, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 18]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 6175, Lvl: 2, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 25]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7279, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7280, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7281, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7282, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7283, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7284, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7285, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7348, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7350, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7351, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7352, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 0,  Category: 11] Add Item [Index: 7354, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 6737, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 6738, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7238, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7239, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7240, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7241, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7242, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7243, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7244, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7245, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7246, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7247, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7248, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7249, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7250, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7265, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 7266, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 0, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 2, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 3, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 4, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 5, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 6, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 7, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 8, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 9, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 10, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 11, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 12, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 13, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 14, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 15, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 16, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 17, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 18, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 19, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 20, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 31, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 512, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 513, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 514, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 515, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 516, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 517, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 518, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 519, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 520, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1024, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1025, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1026, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1027, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1028, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1029, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1030, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1031, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1032, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1033, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1034, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1035, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1036, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1037, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1536, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1537, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1538, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1539, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1540, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1541, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1542, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1543, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1544, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1545, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1546, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 1] Add Item [Index: 1547, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2048, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2049, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2050, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2051, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2052, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2053, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2054, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2055, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2056, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2057, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2058, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2059, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2060, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2061, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2062, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2063, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2064, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2065, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2066, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 2] Add Item [Index: 2067, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2560, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2561, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 51]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2562, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 52]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2563, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 53]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2564, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 54]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2565, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 55]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2566, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 56]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2567, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2568, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2569, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2570, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2571, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2575, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2576, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2577, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2578, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2579, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2580, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2581, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2582, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 3] Add Item [Index: 2583, Lvl: 0, Opt1: 1, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 57]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3613, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3614, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3615, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3617, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3618, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3619, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3620, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3622, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 5] Add Item [Index: 3627, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4125, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4126, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4127, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4128, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4129, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4130, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4131, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4132, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4133, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4134, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 6] Add Item [Index: 4139, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4637, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4638, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4639, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4640, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4641, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4642, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4643, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4644, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4645, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4646, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 7] Add Item [Index: 4651, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5149, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5150, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5151, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5152, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5153, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5154, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5155, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5156, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5157, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5158, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 8] Add Item [Index: 5163, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5661, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5662, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5663, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5664, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5665, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5666, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5667, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5668, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5669, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5670, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 9] Add Item [Index: 5675, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6182, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6181, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6180, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6183, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6184, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 10] Add Item [Index: 6187, Lvl: 0, Opt1: 0, Opt2: 1, Opt3: 0, Exc:63, Anc: 0, Price: 50]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6159, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7190, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7209, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6174, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6174, Lvl: 1, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 18]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6174, Lvl: 2, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 25]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6175, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6175, Lvl: 1, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 18]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6175, Lvl: 2, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 25]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6174, Lvl: 15, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10000]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 6175, Lvl: 15, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10000]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7279, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7280, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7281, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7282, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7283, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7284, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7285, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7348, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7349, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7350, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7351, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7352, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7353, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7354, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 1,  Category: 11] Add Item [Index: 7355, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7250, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7265, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7266, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3638, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3639, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3640, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3650, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3641, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3642, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3643, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3644, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3645, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3646, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3647, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3648, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 5] Add Item [Index: 3649, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4150, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4151, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4152, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4162, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 9, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4153, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4154, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4155, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 10, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4156, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4157, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4158, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 9, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4159, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4160, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 6] Add Item [Index: 4161, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4662, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4663, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4664, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4674, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4665, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4666, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4667, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 6, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4668, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4669, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4670, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4671, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4672, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 7] Add Item [Index: 4673, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5174, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5175, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5176, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5186, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5177, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5178, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5179, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5180, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5181, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5182, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5183, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5184, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 8] Add Item [Index: 5185, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5686, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5687, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5688, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5698, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5689, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5690, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5691, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5692, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5693, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5694, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5695, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5696, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 5, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 9] Add Item [Index: 5697, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 9, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6324, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6325, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6326, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6327, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6328, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 10] Add Item [Index: 6329, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 60]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7348, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7349, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7350, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7351, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7352, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7353, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7354, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 7355, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 6174, Lvl: 15, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10000]
+[CashShopManager][ItemList][Coin: 2,  Category: 11] Add Item [Index: 6175, Lvl: 15, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10000]
+[Quest] (Find the 'Scroll of Emperor') Load : Index 0, SubInfoCount 2
+[Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[Quest] (Gain 'Hero Status') Load : Index 2, SubInfoCount 2
+[Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1
+[Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3
+[Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1
+[Quest] [SetQuestItem] Scroll of Emperor
+[Quest] [SetQuestItem] Scroll of Emperor
+[Quest] [SetQuestItem] Broken Sword
+[Quest] [SetQuestItem] Tear of Elf
+[Quest] [SetQuestItem] Soul Shard of Wizard
+[Quest] [SetQuestItem] Eye of Abyssal
+[Quest] [SetQuestItem] Scroll of Emperor
+[Quest] [SetQuestItem] Scroll of Emperor
+[Quest] [SetQuestItem] Broken Sword
+[Quest] [SetQuestItem] Flame of Death Beam Knight
+[Quest] [SetQuestItem] Horn of Hell Maine
+[Quest] [SetQuestItem] Feather of Dark Phoenix
+[Quest] [SetQuestItem] Flame of Death Beam Knight
+[Quest] [SetQuestItem] Horn of Hell Maine
+[Quest] [SetQuestItem] Feather of Dark Phoenix
+[Quest] [SetQuestItem] Flame of Death Beam Knight
+[Quest] [SetQuestItem] Horn of Hell Maine
+[Quest] [SetQuestItem] Feather of Dark Phoenix
+User Object Size = 3752
+[ItemEventBag][Box Of Luck] File Load Sucessfully!
+[ItemEventBag][Star Of XMas] File Load Sucessfully!
+[ItemEventBag][FireCracker] File Load Sucessfully!
+[ItemEventBag][Heart of Love] File Load Sucessfully!
+[ItemEventBag][Silver Medal] File Load Sucessfully!
+[ItemEventBag][Gold Medal] File Load Sucessfully!
+[ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[ItemEventBag][Ribbon Red] File Load Sucessfully!
+[ItemEventBag][Ribbon Green] File Load Sucessfully!
+[ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[ItemEventBag][Chocolate Red] File Load Sucessfully!
+[ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[ItemEventBag][Candy Light Purple] File Load Sucessfully!
+[ItemEventBag][Candy Vermilion] File Load Sucessfully!
+[ItemEventBag][Candy Deep Blue] File Load Sucessfully!
+[ItemEventBag][Halloween] File Load Sucessfully!
+[ItemEventBag][Cherry Blossom Play Box] File Load Sucessfully!
+[ItemEventBag][Cherry Blossom Mix 1] File Load Sucessfully!
+[ItemEventBag][Cherry Blossom Mix 2] File Load Sucessfully!
+[ItemEventBag][Cherry Blossom Mix 3] File Load Sucessfully!
+[ItemEventBag][Death King] File Load Sucessfully!
+[ItemEventBag][Death Bone] File Load Sucessfully!
+[ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[ItemEventBag][Erohim Event Bag] File Load Sucessfully!
+[ItemEventBag][Castle Siege Mix] File Load Sucessfully!
+[ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[ItemEventBag][GameMaster Box] File Load Sucessfully!
+[ItemEventBag][PCBang Green Box] File Load Sucessfully!
+[ItemEventBag][PCBang Red Box] File Load Sucessfully!
+[ItemEventBag][PCBang Purple Box] File Load Sucessfully!
+[ItemEventBag][Selupan Event Bag] File Load Sucessfully!
+[ItemEventBag][Luck Coin Mix A] File Load Sucessfully!
+[ItemEventBag][Luck Coin Mix B] File Load Sucessfully!
+[ItemEventBag][Luck Coin Mix C] File Load Sucessfully!
+[ItemEventBag][Lunnar Rabbit Event Bag] File Load Sucessfully!
+[ItemEventBag][XMax Event Mix A] File Load Sucessfully!
+[ItemEventBag][XMax Event Mix B] File Load Sucessfully!
+[ItemEventBag][XMax Event Mix C] File Load Sucessfully!
+[ItemEventBag][Chaos Card] File Load Sucessfully!
+[ItemEventBag][Chaos Card Rare] File Load Sucessfully!
+[ItemEventBag][Chaos Card Gold] File Load Sucessfully!
+[ItemEventBag][Chaos Card Mini] File Load Sucessfully!
+[ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[ItemEventBag][Virtual Drop Event] File Load Sucessfully!
+[ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[ItemEventBag][Event Box St1] File Load Sucessfully!
+[ItemEventBag][Event Box St2] File Load Sucessfully!
+[ItemEventBag][Event Box St3] File Load Sucessfully!
+..\Data\Events\CastleDeepEvent.dat file load!
+[Monster AI Element] - ..\Data\Monsters\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\Data\Others\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] - ..\Data\Monsters\MonsterAutomata.txt file is Loaded
+[Monster AI Unit] - ..\Data\Monsters\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\Data\Monsters\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\Data\Monsters\MonsterAIGroup.txt file is Loaded
+[Monster Element] - ..\Data\Monsters\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (8)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (43)(Monster Skill Elemen+)
+[Monster Skill Unit] - Found SkillElement (44)(Monster Skill Elemen,)
+[Monster Skill Unit] - Found SkillElement (45)(Monster Skill Elemen-)
+[Monster Skill Unit] - Found SkillElement (46)(Monster Skill Elemen.)
+[Monster Skill Unit] - Found SkillElement (47)(Monster Skill Elemen/)
+[Monster Skill Unit] - Found SkillElement (48)(Monster Skill Elemen0)
+[Monster Skill Unit] - Found SkillElement (49)(Monster Skill Elemen1)
+[Monster Skill Unit] - Found SkillElement (50)(Monster Skill Elemen2)
+[Monster Skill Unit] - Found SkillElement (51)(Monster Skill Elemen3)
+[Monster Skill Unit] - Found SkillElement (52)(Monster Skill Elemen4)
+[Monster Skill Unit] - Found SkillElement (53)(Monster Skill Elemen5)
+[Monster Skill Unit] - Found SkillElement (54)(Monster Skill Elemen6)
+[Monster Skill Unit] - Found SkillElement (55)(Monster Skill Elemen7)
+[Monster Skill Unit] - Found SkillElement (56)(Monster Skill Elemen8)
+[Monster Skill Unit] - Found SkillElement (57)(Monster Skill Elemen9)
+[Monster Skill Unit] - ..\Data\Monsters\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\Data\Monsters\MonsterSkill.txt file is Loaded
+[ Crywolf ] State (0) -> NONE
+[ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+[Crywolf Main Job] - ..\Data\Events\Crywolf.dat file is Loaded
+error : Monster location setting error user.cpp 2255
+error-L2 : 128 class : 0
+Total 1 count IP load
+[Blood Castle] (1) SetState BLANK
+[Blood Castle] (2) SetState BLANK
+[Blood Castle] (3) SetState BLANK
+[Blood Castle] (4) SetState BLANK
+[Blood Castle] (5) SetState BLANK
+[Blood Castle] (6) SetState BLANK
+[Blood Castle] (7) SetState BLANK
+[Blood Castle] (8) SetState BLANK
+[Devil Square] (1) SetState BLANK
+[Devil Square] (2) SetState BLANK
+[Devil Square] (3) SetState BLANK
+[Devil Square] (4) SetState BLANK
+[Devil Square] (5) SetState BLANK
+[Devil Square] (6) SetState BLANK
+[Devil Square] (7) SetState BLANK
+[Chaos Castle] (1) SetState BLANK
+[Chaos Castle] (2) SetState BLANK
+[Chaos Castle] (3) SetState BLANK
+[Chaos Castle] (4) SetState BLANK
+[Chaos Castle] (5) SetState BLANK
+[Chaos Castle] (6) SetState BLANK
+[Chaos Castle] (7) SetState BLANK
+[Illusion Temple] (1) SetState BLANK
+[Illusion Temple] (2) SetState BLANK
+[Illusion Temple] (3) SetState BLANK
+[Illusion Temple] (4) SetState BLANK
+[Illusion Temple] (5) SetState BLANK
+[Illusion Temple] (6) SetState BLANK
+[Hide and Seek] SetState BLANK
+[Virtual Drop] SetState BLANK
+[Luck Hour] Sync Start Time. [100] min remain
+[Luck Hour] SetState EMPTY
+[ RAKLION ] State(0) -> END
+[ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+[ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+[ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+[Moss Merchant] SetState BLANK
+[PvP Battle Event] SetState BLANK
+LoginServer connect IP[ 127.0.0.1 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+[ExManagerServer] Authenticated Successfully!
+GameServer create PORT [ 55919 ]
+[CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+[CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2017-2-24)
+[CastleSiege] CCa

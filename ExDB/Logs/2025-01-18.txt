@@ -1,0 +1,8 @@
+[01:59:46] Initialing...
+[01:59:46] Ex Manager Server Started on Port: 55906
+[01:59:46] [Query] SELECT * FROM Guild
+[01:59:46] [Query] SELECT * FROM GuildMember
+[01:59:54] GameServer start connection (127.0.0.1)
+[01:59:54] ChatServer Autheticate Successfully. (Name: Chat Server Port: 55980)
+[02:00:02] GameServer start connection (127.0.0.1)
+[02:00:02] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)

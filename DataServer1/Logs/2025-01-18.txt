@@ -1,0 +1,32 @@
+[01:59:37] Starting GX Data Emulator...
+[01:59:37] GX Data Emulator Started on Port: 55960
+[01:59:37] SELECT * FROM Guild
+[01:59:37] SELECT * FROM GuildMember
+[02:00:02] GameServer start connection (127.0.0.1)
+[02:00:02] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[02:00:02] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[02:00:14] GameServer start connection (127.0.0.1)
+[02:00:14] SELECT ItemCount FROM GameServerInfo WHERE Number=0
+[02:00:14] GameServer Autheticate Successfully. (Name: CastleServer Port: 55919 SrvCode: 19)
+[02:00:15] EXEC WZ_CS_GetCastleTotalInfo 0, 14
+[02:00:15] EXEC WZ_CS_GetCastleNpcInfo 0
+[02:00:15] EXEC WZ_CW_InfoLoad 0
+[02:00:41] SELECT * FROM AccountCharacter WHERE Id='admin'
+[02:00:41] SELECT cLevel, Class, Inventory, CtlCode FROM Character WHERE AccountID='admin' AND Name='Admin'
+[02:00:41] SELECT G_Status FROM GuildMember WHERE Name='Admin'
+[02:00:42] SELECT * FROM Character WHERE AccountID='admin' AND Name='Admin'
+[02:00:42] UPDATE AccountCharacter SET GameIDC='Admin' WHERE Id='admin'
+[02:00:42] SELECT VaultCount, VaultNumber FROM warehouse WHERE AccountID='admin'
+[02:00:42] SELECT * FROM OptionData WHERE Name='Admin'
+[02:00:42] SELECT GUID FROM T_FriendMain WHERE Name='Admin'
+[02:00:42] SELECT FriendName,Del FROM T_FriendList WHERE GUID=20
+[02:00:42] SELECT UserFlag,  BlessCredits, SoulCredits, CreationCredits, HarmonyCredits,ChaosCredits, LifeCredits, GuardianCredits, MoneyCredits FROM GXG_JewelBank WHERE AccountId = 'admin'
+[02:00:42] EXEC WZ_QMK_InfoLoad 'Admin'
+[02:00:42] SELECT * FROM T_SkillTree_Info WHERE CHAR_NAME='Admin'
+[02:00:42] SELECT HelperConfig FROM Character WHERE AccountID='admin' AND Name='Admin'
+[02:01:00] UPDATE Character SET cLevel=400,Class=19,LevelUpPoint=1200,Experience=-472819216,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,BuffEffectDB=?,Money=925796000,Life=308773.000000,MaxLife=195833.000000,Mana=65000.000000,MaxMana=65209.000000,BP=80355.000000,MaxBP=107250.000000,Shield=336748.000000,MaxShield=336748.000000,MapNumber=6,MapPosX=62,MapPosY=94,MapDir=7,PkCount=0,PkLevel=3,PkTime=0,Quest=?,ChatLimitTime=0, FruitAddPoint=0, FruitSubPoint=0, EventPoints=0, Reset=0, MasterReset=0 WHERE AccountID='admin' AND Name='Admin'
+[02:01:00] UPDATE warehouse SET VaultCount=0, VaultNumber=0  WHERE AccountID='admin'
+[02:01:00] UPDATE GXG_JewelBank SET BlessCredits=0, SoulCredits=0, ChaosCredits=0, CreationCredits=0, LifeCredits=0, HarmonyCredits=0, GuardianCredits=0, MoneyCredits='0', LastUpdate=GETDATE() WHERE AccountID='admin' 
+[02:01:00] EXEC WZ_QMK_InfoSave 'Admin', -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+[02:01:00] SELECT CHAR_NAME FROM T_SkillTree_Info WHERE CHAR_NAME='Admin'
+[02:01:00] UPDATE T_SkillTree_Info SET MASTER_LEVEL=0,ML_POINT=0,ML_EXP=0 WHERE CHAR_NAME='Admin'

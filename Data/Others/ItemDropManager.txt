@@ -1,0 +1,109 @@
+0 // -- [] General Exp Settings
+//=======================================================================================================================================
+//
+// ItemDropRate				: Rate de Drop de Item
+// ExcellentDropRate			: Rate de Drop de Item Excellent [0 - 100000]
+// MoneyDropRate			: Rate de Drop de Money
+// MoneyAmountRate			: Porcentagem de Quantidade de Money que ira dropar
+//
+//=======================================================================================================================================
+//	ItemDropRate		ExcellentDropRate	MoneyDropRate		MoneyAmountRate		
+//=======================================================================================================================================
+	30			2000			5			100		// Free
+	30			2000			5			100		// Vip 1
+	30			2000			5			100		// Vip 2
+	30			2000			5			100		// Vip 3
+	30			2000			5			100		// Vip 4
+	30			2000			5			100		// Vip 5
+end
+
+1 // -- [] General Monsters Rate Settings
+//================================================================================================================================================================================================================================================
+//
+// LevelMin 		: Level minimo do item [0 - 15]
+// LevelMax		: Level maximo do item [0 - 15]
+// SkillRate		: Chance do item vir com skill [0 - 10000]
+// ExcSkillRate		: Chance do item vir com skill para items excellents [0 - 10000]
+// LuckRate		: Chance do item vir com luck [0 - 10000]
+// OptionRate		: Chance do item vir com option add life [0 - 10000]
+// OptionMin		: Option add life minimo [0 - 7]
+// OptionMax		: Option add life maximo [0 - 7]
+// NewOption1Rate	: Chance do item vir com 1 Adicional Excellent [0 - 10000]
+// NewOption2Rate	: Chance do item vir com 2 Adicional Excellent [0 - 10000]
+// NewOption3Rate	: Chance do item vir com 3 Adicional Excellent [0 - 10000]
+// NewOption4Rate	: Chance do item vir com 4 Adicional Excellent [0 - 10000]
+// NewOption5Rate	: Chance do item vir com 5 Adicional Excellent [0 - 10000]
+// NewOption6Rate	: Chance do item vir com 6 Adicional Excellent [0 - 10000]
+// SocketOptionRate	: Chance do item vir com adicional socket [0 - 10000]
+//
+//================================================================================================================================================================================================================================================
+//	LevelMin 	LevelMax	SkillRate	ExcSkillRate	LuckRate	OptionRate	OptionMin	OptionMax	NewOption1Rate	NewOption2Rate	NewOption3Rate	NewOption4Rate	NewOption5Rate	NewOption6Rate	SocketOptionRate
+//================================================================================================================================================================================================================================================
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Free
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Vip 1
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Vip 2
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Vip 3
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Vip 4
+	0		6		1500		10000		1000		300		1		4		10000		1000		800		300		0		0		5000		// Vip 5
+end
+
+2 // -- Custom Drop Item Attributes Manager
+//===============================================================================================================================================================
+//
+// ID			: ID do Grupo [Utilizado na Section 3]
+// MinLevel		: Level Minimo do Drop
+// MaxLevel		: Level Maximo do Drop
+// MinOption		: Option Minimo do Drop				
+// MaxOption		: Option Maximo do Drop				
+// SkillRate		: Chance do Drop vir com Skill (n/100)
+// LuckRate		: Chance do Drop vir com Luck (n/100)
+// ExcellentRate	: Chance do Drop vir Excellent (n/10000)
+// AncientRate		: Chance do Drop vir Ancient (n/10000)
+// SocketRate		: Chance do Drop vir Socket (n/10000)
+//
+//===============================================================================================================================================================
+//	ID		MinLvl	MaxLvl		MinOpt	MaxOpt		SkillRate	LuckRate	ExcRate		AncientRate	SocketRate
+//===============================================================================================================================================================
+	0		0	7		0	7		25		25		0		0		0		// Equipamentos basicos
+	1		0	0		0	0		0		0		0		0		0		// 0 level / 0 Option, Good for Boxes, Skills, Jewels and Potions
+	2		0	0		0	2		100		0		0		0		0		// 0 level, Low-Option, 100% Skill, Good for Summoner Books
+	3		0	7		0	7		100		25		500		0		0		// Low-Level, Random Option, 5% Exc Rate, 100% Skill Rate, 25% Luck Rate, Good for Better Summoner Books
+	4		0	6		0	4		25		25		100		0		0		// Low-Level, Low-Option, 1% Exc Rate, 25% Skill Rate, 25% Luck Rate, Good for Equipment
+	5		0	6		0	4		25		25		0		100		0		// Low-Level, Low-Option, 1% Anc Rate, 25% Skill Rate, 25% Luck Rate, Good for Equipment
+	6		4	10		2	4		40		10		200		0		0		// Mid-Level, Mid-Option, 2% Exc Rate, 40% Skill Rate, 10% Luck Rate, Good for Better Equipment
+	7		4	10		2	4		40		10		0		200		0		// Mid-Level, Mid-Option, 2% Anc Rate, 40% Skill Rate, 10% Luck Rate, Good for Better Equipment
+	8		0	15		0	7		0		0		2000		0		0		// Random Level, Random Option, 20% Exc Rate, Good for Excellent Rings
+	9		0	15		0	7		0		0		0		2000		0		// Random Level, Random Option, 20% Anc Rate, Good for Ancient Rings
+	10		8	15		0	7		0		0		3000		0		0		// High-Level, Random Option, 30% Exc Rate, Good for Better Excellent Rings
+	11		8	15		0	7		0		0		0		3000		0		// High-Level, Random Option, 30% Anc Rate, Good for Better Ancient Rings
+	12		7	13		4	7		50		10		1500		0		0		// High-Level, High-Option, 15% Excellent, 50% Skill Rate, 10% Luck Rate, Good for Rare Excellent Equipments
+	13		7	13		4	7		50		10		0		1500		0		// High-Level, High-Option, 15% Ancient, 50% Skill Rate, 10% Luck Rate Good for Rare Ancient Equipments
+end
+
+3 // Custom Drop Item Table Settings
+//==========================================================================================================================================================================================
+//
+// ItemType			: Type do Item [0 - 15]
+// ItemIndex			: Index do Item [0 - 512]
+// MinMonsterClass		: Class minima do monstro que dropará o item [-1: Indiferente]
+// MaxMonsterClass		: Class maxima do monstro que dropará o item [-1: Indiferente]
+// MinMonsterLevel		: Level minimo do monstro que dropará o item [-1: Indiferente]
+// MaxMonsterLevel		: Level minimo do monstro que dropará o item [-1: Indiferente]
+// MinMapNumber			: Numero do mapa minimo que dropará o item [-1: Indiferente]
+// MaxMapNumber			: Numero do mapa maximo que dropará o item [-1: Indiferente]
+// ItemAttrId			: Id do Atributo (Configurado no Section 2)
+// DropRate			: Rate de drop [0 ~ 1000000]
+//
+//===========================================================================================================================================================================================
+//	ItemType	ItemIndex	MinMonsterClass	MaxMonsterClass	MinMonsterLevel	MaxMonsterLevel		MinMapNumber	MaxMapNumber	ItemAttrId	DropRate
+//===========================================================================================================================================================================================
+	12		15		-1		-1		12		-1			-1		-1		1		3000	// Jewel of Chaos
+	14		13		-1		-1		25		-1			-1		-1		1		3000	// Jewel of Bless
+	14		14		-1		-1		30		-1			-1		-1		1		3000	// Jewel of Soul
+	14		16		-1		-1		72		-1			-1		-1		1		3000	// Jewel of Life
+	14		22		-1		-1		78		-1			-1		-1		1		2500	// Jewel of Creation
+	14		31		-1		-1		75		-1			-1		-1		1		2500	// Jewel of Guardian
+	13		0		-1		-1		23		-1			-1		-1		1		7500	// Guardian Angel
+	13		0		-1		-1		28		-1			-1		-1		1		7500	// Imp
+	13		0		-1		-1		25		-1			-1		-1		1		6500	// Unilla
+end

@@ -1,0 +1,15 @@
+[19:38:28] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[19:41:50] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[19:45:12] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[19:48:34] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[19:51:56] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[19:55:18] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:03:41] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:07:03] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:10:25] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:13:47] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:17:09] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:20:31] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:23:53] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:27:15] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[20:30:37] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP

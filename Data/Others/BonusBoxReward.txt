@@ -1,0 +1,23 @@
+//=================================================================================================================================================
+//
+// [0]			: Index da Box
+// [1]			: Account Level adquirido ao usar o Item [-1: Desativa]
+// [2]			: Quantidade de dias adquirido ao usar o Item [-1: Desativa]
+// [3]			: Zen Obtido ao usar o Item [-1: Desativa]
+// [4]			: Index do Seal(1) Obtido ao usar o Item [-1: Desativa]
+// [5]			: Tempo do Seal(1) Obtido ao usar o Item [-1: Desativa]
+// [6]			: Index do Seal(2) Obtido ao usar o Item [-1: Desativa]
+// [7]			: Tempo do Seal(2) Obtido ao usar o Item [-1: Desativa]
+// [8]			: Index do Seal(3) Obtido ao usar o Item [-1: Desativa]
+// [9]			: Tempo do Seal(3) Obtido ao usar o Item [-1: Desativa]
+// [10]			: Coin 1 Obtido ao usar o Item [-1: Desativa]
+// [11]			: Coin 2 Obtido ao usar o Item [-1: Desativa]
+// [12]			: Coin 3 Obtido ao usar o Item [-1: Desativa]
+//
+//=================================================================================================================================================
+//	[0]		[1]	[2]		[3]			[4]	[5]	[6]	[7]	[8]	[9]		[10]	[11]	[12]
+//=================================================================================================================================================
+	0		2	5		-1			-1	-1	-1	-1	-1	-1		300	-1	10	// Bonus Reward Item 1
+	1		-1	-1		-1			-1	-1	-1	-1	-1	-1		-1	-1	-1	// Bonus Reward Item 2
+	2		-1	-1		-1			-1	-1	-1	-1	-1	-1		-1	-1	-1	// Bonus Reward Item 3
+end

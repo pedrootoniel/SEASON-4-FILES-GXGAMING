@@ -1,0 +1,64 @@
+0 // -- [] General Exp Settings
+//=====================================================================================================================
+//
+// ExperienceRate			: Rate de Experiencia Geral do Servidor (Exp Oficial)
+// MasterExperienceRate			: Rate de Master Experiencia Geral do Servidor (Exp Oficial)
+// CryWolPenaltyExpRate			: Porcentagem de Experiencia obtida quando a Penalidade de CryWolf está ativa
+// MaxLevelUp				: Numero maximo de Level adquirido por M.O.B
+// MaxMasterLevelUp			: Número maximo de Master Level adquirido por M.O.B
+//
+//=====================================================================================================================
+//	ExperienceRate		MasterExperienceRate	CryWolPenaltyExpRate	MaxLevelUp	MaxMasterLevelUp
+//=====================================================================================================================
+	1000			5000			20			1		1		// Free
+	1000			5000			20			1		1		// Vip 1
+	1000			5000			20			1		1		// Vip 2
+	1000			5000			20			1		1		// Vip 3
+	1000			5000			20			1		1		// Vip 4
+	1000			5000			20			1		1		// Vip 5
+end
+
+1 // -- [] Party Exp Settings
+//===================================================================================================
+//
+// PartyPlayer2				: Porcentagem de Experiencia adquiria em Party com 2 Membros
+// PartyPlayer3				: Porcentagem de Experiencia adquiria em Party com 3 Membros
+// PartyPlayer4				: Porcentagem de Experiencia adquiria em Party com 4 Membros
+// PartyPlayer5				: Porcentagem de Experiencia adquiria em Party com 5 Membros
+//
+//===================================================================================================
+//	PartyPlayer2		PartyPlayer3		PartyPlayer4		PartyPlayer5
+//===================================================================================================
+	160			180			200			220
+
+//===================================================================================================
+//
+// PartySpecialPlayer3			: Porcentagem de Experiencia adquiria em Party com 3 Classes Diferentes
+// PartySpecialPlayer4			: Porcentagem de Experiencia adquiria em Party com 4 Classes Diferentes
+// PartySpecialPlayer5			: Porcentagem de Experiencia adquiria em Party com 5 Classes Diferentes
+//
+//===================================================================================================
+//	PartySpecialPlayer3		PartySpecialPlayer4		PartySpecialPlayer5
+//===================================================================================================
+	50				70				80
+end
+
+2 // Experience Table Settings
+//=========================================================================================================================================================
+//
+// TableType				: [0: Experience] [1: Master Experience]
+// MinLevel				: Level Minimo 
+// MaxLevel				: Level Maximo
+// MinReset				: Reset Minimo
+// MaxReset				: Reset Maximo
+// MinMReset				: Master Reset Minimo
+// MaxMReset				: Master Reset Maximo
+// ExperienceRate			: Porcentagem de Experiencia extra
+//
+// OBS: Quando o TableType é configurado para Master Experience as colunas MinLevel e MaxLevel irão validar o campo MasterLevel
+//
+//=========================================================================================================================================================
+//	TableType	MinLevel	MaxLevel	MinReset	MaxReset	MinMReset	MaxMReset	ExperienceRate
+//=========================================================================================================================================================
+
+end

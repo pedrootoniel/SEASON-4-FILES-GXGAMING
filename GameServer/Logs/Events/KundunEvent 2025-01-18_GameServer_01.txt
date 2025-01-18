@@ -1,0 +1,3 @@
+[00:10:28] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[00:23:25] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP
+[01:28:20] [KUNDUN] HP Log -> HP Refill: [200]  HP Refill Time: [200] Current HP:[5000000]HP

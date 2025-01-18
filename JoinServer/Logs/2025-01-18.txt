@@ -1,0 +1,14 @@
+[01:59:40] Starting GX JoinServer Emulator...
+[01:59:40] Server started at port [55970]
+[02:00:02] GameServer start connection (127.0.0.1)
+[02:00:02] GameServer Autheticate Successfully. (Name: GameServer_01 Port: 55901 SrvCode: 0)
+[02:00:12] GameServer start connection (127.0.0.1)
+[02:00:12] GameServer Autheticate Successfully. (Name: CastleServer Port: 55919 SrvCode: 19)
+[02:00:41] SELECT memb___id, memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+[02:00:41] SELECT sno__numb, bloc_code FROM MEMB_INFO WHERE memb___id='admin'
+[02:00:41] SELECT AccountLevel as 'AccountLevel', ExpireTime as 'ExpireTime', ExpireStampEnd as 'ExpireStamp', CONVERT(VARCHAR, ExpireDateTime, 120) as 'ExpireDate' FROM MEMB_PREMIUM WHERE AccountId='admin'
+[02:00:41] SELECT Reset as 'Resets', MasterReset as 'MasterResets' FROM Character WHERE AccountID='admin'
+[02:00:41] EXEC WZ_CONNECT_MEMB 'admin','GameServer_01','192.168.1.2'
+[02:00:41] [AccountManager][admin] IpAddress: 192.168.1.2, GameServerCode: 0, Status: Connected
+[02:01:00] EXEC WZ_DISCONNECT_MEMB 'admin'
+[02:01:00] [AccountManager][admin] IpAddress: 192.168.1.2, GameServerCode: 0, Status: Disconnected

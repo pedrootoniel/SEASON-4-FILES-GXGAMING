@@ -1,0 +1,1979 @@
+[00:11:55] [Reset Manager] Reset file was loaded successfully!
+[00:11:55] [GX HELPER ATTACK] File loaded successfully!
+[00:11:55] [Notice System] #2 Fail on load notice: 10
+[00:11:55] [Notice System] #2 Fail on load notice: 11
+[00:11:55] [Notice System] #2 Fail on load notice: 12
+[00:11:55] [Notice System] #2 Fail on load notice: 13
+[00:11:55] [Notice System] #2 Fail on load notice: 14
+[00:11:55] [Notice System] #2 Fail on load notice: 15
+[00:11:55] [Notice System] #2 Fail on load notice: 16
+[00:11:55] [Notice System] #2 Fail on load notice: 17
+[00:11:55] [Notice System] File loaded successfullly!
+[00:11:55] [CashShopManager] File loaded Sucessfully!
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6699, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6700, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6701, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6715, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6718, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6719, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2560, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2561, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2562, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2563, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2564, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2565, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2566, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2567, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3072, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3073, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3074, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3075, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3076, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3077, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3078, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:11:55] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3079, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 512, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 513, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 514, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 515, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 516, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 517, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 518, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:11:55] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 519, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 0, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 1, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 2, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 3, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 4, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 5, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 6, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:11:55] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:11:55] [Quest] (Find the 'Scroll of Emperor') Load : Index 0, SubInfoCount 2
+[00:11:55] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[00:11:55] [Quest] (Gain 'Hero Status') Load : Index 2, SubInfoCount 2
+[00:11:55] [Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1
+[00:11:55] [Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[00:11:55] [Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3
+[00:11:55] [Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1
+[00:11:55] [Quest] [SetQuestItem] Scroll of Emperor
+[00:11:55] [Quest] [SetQuestItem] Scroll of Emperor
+[00:11:55] [Quest] [SetQuestItem] Broken Sword
+[00:11:55] [Quest] [SetQuestItem] Tear of Elf
+[00:11:55] [Quest] [SetQuestItem] Soul Shard of Wizard
+[00:11:55] [Quest] [SetQuestItem] Eye of Abyssal
+[00:11:55] [Quest] [SetQuestItem] Scroll of Emperor
+[00:11:55] [Quest] [SetQuestItem] Scroll of Emperor
+[00:11:55] [Quest] [SetQuestItem] Broken Sword
+[00:11:55] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:11:55] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:11:55] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:11:55] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:11:55] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:11:55] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:11:55] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:11:55] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:11:55] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[BlackList] Loaded Successfull!
+[00:11:55] [Command Auto Attack] File Loaded Successfully.
+[00:11:55] User Object Size = 3856
+[00:11:55] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[00:11:55] [ItemEventBag][FireCracker] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Candy Light Purple] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Candy Vermilion] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Candy Deep Blue] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Halloween] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Cherry Blossom Play Box] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Cherry Blossom Mix 1] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Cherry Blossom Mix 2] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Cherry Blossom Mix 3] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Death King] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Death Bone] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Maya Hand Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][NightMare Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[00:11:55] [ItemEventBag][PCBang Green Box] File Load Sucessfully!
+[00:11:55] [ItemEventBag][PCBang Red Box] File Load Sucessfully!
+[00:11:55] [ItemEventBag][PCBang Purple Box] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Selupan Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Luck Coin Mix A] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Luck Coin Mix B] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Luck Coin Mix C] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Lunnar Rabbit Event Bag] File Load Sucessfully!
+[00:11:55] [ItemEventBag][XMax Event Mix A] File Load Sucessfully!
+[00:11:55] [ItemEventBag][XMax Event Mix B] File Load Sucessfully!
+[00:11:55] [ItemEventBag][XMax Event Mix C] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chaos Card Rare] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chaos Card Gold] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Chaos Card Mini] File Load Sucessfully!
+[00:11:55] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[00:11:55] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[00:11:55] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Virtual Drop Event] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Event Box St1] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Event Box St2] File Load Sucessfully!
+[00:11:55] [ItemEventBag][Event Box St3] File Load Sucessfully!
+[Monster AI Element] - ..\Data\Monsters\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\Data\Others\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] - ..\Data\Monsters\MonsterAutomata.txt file is Loaded
+[Monster AI Unit] - ..\Data\Monsters\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\Data\Monsters\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\Data\Monsters\MonsterAIGroup.txt file is Loaded
+[Monster Element] - ..\Data\Monsters\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (8)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (43)(Monster Skill Elemen+)
+[Monster Skill Unit] - Found SkillElement (44)(Monster Skill Elemen,)
+[Monster Skill Unit] - Found SkillElement (45)(Monster Skill Elemen-)
+[Monster Skill Unit] - Found SkillElement (46)(Monster Skill Elemen.)
+[Monster Skill Unit] - Found SkillElement (47)(Monster Skill Elemen/)
+[Monster Skill Unit] - Found SkillElement (48)(Monster Skill Elemen0)
+[Monster Skill Unit] - Found SkillElement (49)(Monster Skill Elemen1)
+[Monster Skill Unit] - Found SkillElement (50)(Monster Skill Elemen2)
+[Monster Skill Unit] - Found SkillElement (51)(Monster Skill Elemen3)
+[Monster Skill Unit] - Found SkillElement (52)(Monster Skill Elemen4)
+[Monster Skill Unit] - Found SkillElement (53)(Monster Skill Elemen5)
+[Monster Skill Unit] - Found SkillElement (54)(Monster Skill Elemen6)
+[Monster Skill Unit] - Found SkillElement (55)(Monster Skill Elemen7)
+[Monster Skill Unit] - Found SkillElement (56)(Monster Skill Elemen8)
+[Monster Skill Unit] - Found SkillElement (57)(Monster Skill Elemen9)
+[Monster Skill Unit] - ..\Data\Monsters\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\Data\Monsters\MonsterSkill.txt file is Loaded
+[00:11:55] [Invasion Manager][ White Wizard ] State END
+[00:11:55] [Invasion Manager][ XMas Attack ] State END
+[00:11:55] [Invasion Manager][ Eldorado Invasion ] State END
+[00:11:55] [Invasion Manager][ Red Dragon ] State END
+[00:11:55] [Invasion Manager][ Skeleton King ] State END
+[00:11:55] FODA-se 10000000 10 10
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 406 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 407 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 408 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 409 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 410 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 411 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 412 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 413 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 414 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 415 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 416 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 417 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 418 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 419 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 420 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 421 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 422 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 423 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 424 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 425 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 426 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 427 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 428 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 429 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 430 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 431 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 432 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 433 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 434 class : 0
+[00:11:58] error : Monster location setting error user.cpp 2266
+[00:11:58] error-L2 : 435 class : 0
+[00:11:59] error : Monster location setting error user.cpp 2266
+[00:11:59] error-L2 : 677 class : 0
+[00:11:59] SkyLand Boss Shield Setting!!
+[00:12:10] error : Monster location setting error user.cpp 2266
+[00:12:10] error-L2 : 2577 class : 0
+[00:12:12] error : Monster location setting error user.cpp 2266
+[00:12:12] error-L2 : 3012 class : 0
+[00:12:13] error : Monster location setting error user.cpp 2266
+[00:12:13] error-L2 : 3043 class : 0
+[00:12:24] Total 2 count IP load
+[00:12:24] [Blood Castle] (1) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (1) SetState EMPTY
+[00:12:24] [Blood Castle] (2) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (2) SetState EMPTY
+[00:12:24] [Blood Castle] (3) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (3) SetState EMPTY
+[00:12:24] [Blood Castle] (4) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (4) SetState EMPTY
+[00:12:24] [Blood Castle] (5) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (5) SetState EMPTY
+[00:12:24] [Blood Castle] (6) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (6) SetState EMPTY
+[00:12:24] [Blood Castle] (7) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (7) SetState EMPTY
+[00:12:24] [Blood Castle] (8) Sync Start Time. [107] min remain
+[00:12:24] [Blood Castle] (8) SetState EMPTY
+[00:12:24] [Devil Square] (1) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (1) SetState EMPTY
+[00:12:24] [Devil Square] (2) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (2) SetState EMPTY
+[00:12:24] [Devil Square] (3) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (3) SetState EMPTY
+[00:12:24] [Devil Square] (4) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (4) SetState EMPTY
+[00:12:24] [Devil Square] (5) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (5) SetState EMPTY
+[00:12:24] [Devil Square] (6) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (6) SetState EMPTY
+[00:12:24] [Devil Square] (7) Sync Start Time. [47] min remain
+[00:12:24] [Devil Square] (7) SetState EMPTY
+[00:12:24] [Chaos Castle] (1) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (1) SetState EMPTY
+[00:12:24] [Chaos Castle] (2) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (2) SetState EMPTY
+[00:12:24] [Chaos Castle] (3) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (3) SetState EMPTY
+[00:12:24] [Chaos Castle] (4) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (4) SetState EMPTY
+[00:12:24] [Chaos Castle] (5) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (5) SetState EMPTY
+[00:12:24] [Chaos Castle] (6) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (6) SetState EMPTY
+[00:12:24] [Chaos Castle] (7) Sync Start Time. [107] min remain
+[00:12:24] [Chaos Castle] (7) SetState EMPTY
+[00:12:24] [Illusion Temple] (1) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (1) SetState EMPTY
+[00:12:24] [Illusion Temple] (2) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (2) SetState EMPTY
+[00:12:24] [Illusion Temple] (3) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (3) SetState EMPTY
+[00:12:24] [Illusion Temple] (4) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (4) SetState EMPTY
+[00:12:24] [Illusion Temple] (5) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (5) SetState EMPTY
+[00:12:24] [Illusion Temple] (6) Sync Start Time. [587] min remain
+[00:12:24] [Illusion Temple] (6) SetState EMPTY
+[00:12:24] [Hide and Seek] Sync Start Time. [227] min remain
+[00:12:24] [Hide and Seek] SetState EMPTY
+[00:12:24] [Virtual Drop] Sync Start Time. [167] min remain
+[00:12:24] [Virtual Drop] SetState EMPTY
+[00:12:24] [Luck Hour] Sync Start Time. [767] min remain
+[00:12:24] [Luck Hour] SetState EMPTY
+[00:12:24] [ RAKLION ] State(0) -> END
+[00:12:24] [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+[00:12:24] [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+[00:12:24] [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+[00:12:24] [Moss Merchant] Sync Start Time. [55] min remain
+[00:12:24] [Moss Merchant] SetState EMPTY
+[00:12:24] [PvP Battle Event] SetState EMPTY
+[00:12:24] [PvP Battle Event] Sync Start Time. [287] min remain
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] [DEBUG] Socket Clean By NULL Option
+[00:12:24] LoginServer connect IP[ 127.0.0.1 ]
+[00:12:24] DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+[00:12:24] DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+[00:12:24] [ExManagerServer] Authenticated Successfully!
+[00:12:24] Guild Count Updated to 0
+[00:12:24] GameServer create PORT [ 55901 ]
+[00:12:25] [ RAKLION ] State(10) -> IDLE
+[00:12:25] [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[00:12:25] [ KANTURU ] State(0) -> STANDBY
+[00:12:25] [ KANTURU ][ BattleStanby ] State(0) -> START
+[00:12:25] [Invasion Manager][ White Wizard ] State EMPTY
+[00:12:25] [Invasion Manager][ White Wizard ] Sync Start Time. [167] min remain
+[00:12:25] [Invasion Manager][ XMas Attack ] State EMPTY
+[00:12:25] [Invasion Manager][ XMas Attack ] State BLANK
+[00:12:25] [Invasion Manager][ Eldorado Invasion ] State EMPTY
+[00:12:25] [Invasion Manager][ Eldorado Invasion ] Sync Start Time. [288] min remain
+[00:12:25] [Invasion Manager][ Red Dragon ] State EMPTY
+[00:12:25] [Invasion Manager][ Red Dragon ] Sync Start Time. [77] min remain
+[00:12:25] [Invasion Manager][ Skeleton King ] State EMPTY
+[00:12:25] [Invasion Manager][ Skeleton King ] Sync Start Time. [107] min remain
+[00:12:26] [Invasion Manager][ White Wizard ] State STAND
+[00:12:26] [Invasion Manager][ Eldorado Invasion ] State STAND
+[00:12:26] [Invasion Manager][ Red Dragon ] State STAND
+[00:12:26] [Invasion Manager][ Skeleton King ] State STAND
+[00:12:41] connect : [9950][192.168.1.2]
+[00:12:43] [AccountManager][admin][9950] Try LogIn: Authenticated successfully.
+[00:12:44] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [admin][Supremo] : MAP-0 / SVR-0 (State Map:0 X:135 Y:127)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(0) name(Find the 'Scroll of Emperor') state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(1) name(Three Treasures of Mu) state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(2) name(Gain 'Hero Status') state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(3) name(Secret of 'Dark Stone') state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(4) name(Certificate of Strength) state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(5) name(Infiltration of 'Barrack') state(None)
+[00:12:44] [Quest] QuestSave [admin][Supremo] index(6) name(Infiltration of 'Refuge') state(None)
+[00:12:44] [Quest] Set MonsterKillInfo [admin][Supremo](9950) (-1 : -1/-1, -1/-1, -1/-1, -1/-1, -1/-1)
+[00:14:24] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:47 Y:64
+[00:15:44] [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[00:15:46] [KUNDUN][Status Log] HP:5000000 RefillHP:86 Map:36 X:41 Y:52
+[00:16:43] [ KANTURU ][ BattleStanby ] State(2) -> END
+[00:16:43] [ KANTURU ][ BattleStanby ] State(3) -> NONE
+[00:16:43] [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[00:16:43] [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[00:16:43] [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+[00:17:46] [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:32 Y:48
+[00:18:43] [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+[00:18:43] [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[00:18:43] [ KANTURU ][ BattleOfMaya ] State(2) -> END
+[00:18:43] [ KANTURU ][ BattleOfMaya ] Success Value[0]
+[00:18:45] [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[00:18:45] [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[00:18:45] [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[00:18:45] [ KANTURU ] State(2) -> END
+[00:18:45] [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[00:18:45] [ KANTURU ] State(5) -> NONE
+[00:18:45] [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[00:18:45] [ KANTURU ] State(0) -> STANDBY
+[00:18:45] [ KANTURU ][ BattleStanby ] State(0) -> START
+[00:18:54] Target: 73 Map: 2 X: 225 Y: 231 dir: 0 level: 15
+[00:18:54] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [admin][Supremo] : MAP-2 / SVR-0 (State Map:0 X:180 Y:125)
+[00:18:54] [MoveMap][admin][Supremo] : (Before:Map:0 X:180 Y:125) -> (New Map:2 X:225 Y:231)
+[00:19:08] Target: 27 Map: 3 X: 176 Y: 116 dir: 0 level: 0
+[00:19:08] [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [admin][Supremo] : MAP-3 / SVR-0 (State Map:2 X:233 Y:214)
+[00:19:08] [MoveMap][admin][Supremo] : (Before:Map:2 X:233 Y:214) -> (New Map:3 X:176 Y:116)
+[00:19:08] [KUNDUN][Status Log] HP:5000000 RefillHP:46 Map:36 X:30 Y:51
+[00:19:33] [Quest] Save MonsterKillInfo [admin][Supremo] (-1 : -1/-1, -1/-1, -1/-1, -1/-1, -1/-1)
+[00:19:33] [CharacterDataSave][admin][Supremo] Character save Successfully!
+[00:19:55] [Quest Marlon][0] Was Teleported!
+[00:20:45] [Quest] Save MonsterKillInfo [admin][Supremo] (-1 : -1/-1, -1/-1, -1[00:35:48] [Reset Manager] Reset file was loaded successfully!
+[00:35:48] [GX HELPER ATTACK] File loaded successfully!
+[00:35:48] [Notice System] #2 Fail on load notice: 10
+[00:35:48] [Notice System] #2 Fail on load notice: 11
+[00:35:48] [Notice System] #2 Fail on load notice: 12
+[00:35:48] [Notice System] #2 Fail on load notice: 13
+[00:35:48] [Notice System] #2 Fail on load notice: 14
+[00:35:48] [Notice System] #2 Fail on load notice: 15
+[00:35:48] [Notice System] #2 Fail on load notice: 16
+[00:35:48] [Notice System] #2 Fail on load notice: 17
+[00:35:48] [Notice System] File loaded successfullly!
+[00:35:48] [CashShopManager] File loaded Sucessfully!
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6699, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6700, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6701, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6715, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6718, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6719, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2560, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2561, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2562, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2563, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2564, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2565, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2566, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2567, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3072, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3073, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3074, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3075, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3076, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3077, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3078, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:35:48] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3079, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 512, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 513, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 514, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 515, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 516, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 517, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 518, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:35:48] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 519, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 0, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 1, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 2, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 3, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 4, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 5, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 6, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:35:48] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:35:48] [Quest] (Find the 'Scroll of Emperor') Load : Index 0, SubInfoCount 2
+[00:35:48] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[00:35:48] [Quest] (Gain 'Hero Status') Load : Index 2, SubInfoCount 2
+[00:35:48] [Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1
+[00:35:48] [Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[00:35:48] [Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3
+[00:35:48] [Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1
+[00:35:48] [Quest] [SetQuestItem] Scroll of Emperor
+[00:35:48] [Quest] [SetQuestItem] Scroll of Emperor
+[00:35:48] [Quest] [SetQuestItem] Broken Sword
+[00:35:48] [Quest] [SetQuestItem] Tear of Elf
+[00:35:48] [Quest] [SetQuestItem] Soul Shard of Wizard
+[00:35:48] [Quest] [SetQuestItem] Eye of Abyssal
+[00:35:48] [Quest] [SetQuestItem] Scroll of Emperor
+[00:35:48] [Quest] [SetQuestItem] Scroll of Emperor
+[00:35:48] [Quest] [SetQuestItem] Broken Sword
+[00:35:48] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:35:48] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:35:48] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:35:48] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:35:48] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:35:48] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:35:48] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:35:48] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:35:48] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[BlackList] Loaded Successfull!
+[00:35:48] [Command Auto Attack] File Loaded Successfully.
+[00:35:48] User Object Size = 3856
+[00:35:48] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[00:35:48] [ItemEventBag][FireCracker] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Candy Light Purple] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Candy Vermilion] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Candy Deep Blue] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Halloween] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Cherry Blossom Play Box] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Cherry Blossom Mix 1] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Cherry Blossom Mix 2] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Cherry Blossom Mix 3] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Death King] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Death Bone] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Maya Hand Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][NightMare Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[00:35:48] [ItemEventBag][PCBang Green Box] File Load Sucessfully!
+[00:35:48] [ItemEventBag][PCBang Red Box] File Load Sucessfully!
+[00:35:48] [ItemEventBag][PCBang Purple Box] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Selupan Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Luck Coin Mix A] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Luck Coin Mix B] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Luck Coin Mix C] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Lunnar Rabbit Event Bag] File Load Sucessfully!
+[00:35:48] [ItemEventBag][XMax Event Mix A] File Load Sucessfully!
+[00:35:48] [ItemEventBag][XMax Event Mix B] File Load Sucessfully!
+[00:35:48] [ItemEventBag][XMax Event Mix C] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chaos Card Rare] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chaos Card Gold] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Chaos Card Mini] File Load Sucessfully!
+[00:35:48] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[00:35:48] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[00:35:48] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Virtual Drop Event] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Event Box St1] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Event Box St2] File Load Sucessfully!
+[00:35:48] [ItemEventBag][Event Box St3] File Load Sucessfully!
+[Monster AI Element] - ..\Data\Monsters\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\Data\Others\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] - ..\Data\Monsters\MonsterAutomata.txt file is Loaded
+[Monster AI Unit] - ..\Data\Monsters\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\Data\Monsters\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\Data\Monsters\MonsterAIGroup.txt file is Loaded
+[Monster Element] - ..\Data\Monsters\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (8)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (43)(Monster Skill Elemen+)
+[Monster Skill Unit] - Found SkillElement (44)(Monster Skill Elemen,)
+[Monster Skill Unit] - Found SkillElement (45)(Monster Skill Elemen-)
+[Monster Skill Unit] - Found SkillElement (46)(Monster Skill Elemen.)
+[Monster Skill Unit] - Found SkillElement (47)(Monster Skill Elemen/)
+[Monster Skill Unit] - Found SkillElement (48)(Monster Skill Elemen0)
+[Monster Skill Unit] - Found SkillElement (49)(Monster Skill Elemen1)
+[Monster Skill Unit] - Found SkillElement (50)(Monster Skill Elemen2)
+[Monster Skill Unit] - Found SkillElement (51)(Monster Skill Elemen3)
+[Monster Skill Unit] - Found SkillElement (52)(Monster Skill Elemen4)
+[Monster Skill Unit] - Found SkillElement (53)(Monster Skill Elemen5)
+[Monster Skill Unit] - Found SkillElement (54)(Monster Skill Elemen6)
+[Monster Skill Unit] - Found SkillElement (55)(Monster Skill Elemen7)
+[Monster Skill Unit] - Found SkillElement (56)(Monster Skill Elemen8)
+[Monster Skill Unit] - Found SkillElement (57)(Monster Skill Elemen9)
+[Monster Skill Unit] - ..\Data\Monsters\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\Data\Monsters\MonsterSkill.txt file is Loaded
+[00:36:03] [Invasion Manager][ White Wizard ] State END
+[00:36:03] [Invasion Manager][ XMas Attack ] State END
+[00:36:03] [Invasion Manager][ Eldorado Invasion ] State END
+[00:36:03] [Invasion Manager][ Red Dragon ] State END
+[00:36:03] [Invasion Manager][ Skeleton King ] State END
+[00:36:03] FODA-se 10000000 10 10
+[00:36:05] error : Monster location setting error user.cpp 2266
+[00:36:05] error-L2 : 406 class : 0
+[00:36:05] error : Monster location setting error user.cpp 2266
+[00:36:05] error-L2 : 407 class : 0
+[00:36:06] error : Monster location setting error user.cpp 2266
+[00:36:06] error-L2 : 408 class : 0
+[00:36:06] error : Monster location setting error user.cpp 2266
+[00:36:06] error-L2 : 409 class :[00:40:38] [Reset Manager] Reset file was loaded successfully!
+[00:40:38] [GX HELPER ATTACK] File loaded successfully!
+[00:40:38] [Notice System] #2 Fail on load notice: 10
+[00:40:38] [Notice System] #2 Fail on load notice: 11
+[00:40:38] [Notice System] #2 Fail on load notice: 12
+[00:40:38] [Notice System] #2 Fail on load notice: 13
+[00:40:38] [Notice System] #2 Fail on load notice: 14
+[00:40:38] [Notice System] #2 Fail on load notice: 15
+[00:40:38] [Notice System] #2 Fail on load notice: 16
+[00:40:38] [Notice System] #2 Fail on load notice: 17
+[00:40:38] [Notice System] File loaded successfullly!
+[00:40:38] [CashShopManager] File loaded Sucessfully!
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6699, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6700, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6701, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6715, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6718, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6719, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2560, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2561, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2562, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2563, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2564, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2565, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2566, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2567, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3072, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3073, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3074, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3075, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3076, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3077, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3078, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:40:38] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3079, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 512, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 513, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 514, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 515, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 516, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 517, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 518, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:40:38] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 519, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 0, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 1, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 2, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 3, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 4, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 5, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 6, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:40:38] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:40:38] [Quest] (Find the 'Scroll of Emperor') Load : Index 0, SubInfoCount 2
+[00:40:38] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[00:40:38] [Quest] (Gain 'Hero Status') Load : Index 2, SubInfoCount 2
+[00:40:38] [Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1
+[00:40:38] [Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[00:40:38] [Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3
+[00:40:38] [Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1
+[00:40:38] [Quest] [SetQuestItem] Scroll of Emperor
+[00:40:38] [Quest] [SetQuestItem] Scroll of Emperor
+[00:40:38] [Quest] [SetQuestItem] Broken Sword
+[00:40:38] [Quest] [SetQuestItem] Tear of Elf
+[00:40:38] [Quest] [SetQuestItem] Soul Shard of Wizard
+[00:40:38] [Quest] [SetQuestItem] Eye of Abyssal
+[00:40:38] [Quest] [SetQuestItem] Scroll of Emperor
+[00:40:38] [Quest] [SetQuestItem] Scroll of Emperor
+[00:40:38] [Quest] [SetQuestItem] Broken Sword
+[00:40:38] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:40:38] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:40:38] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:40:38] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:40:38] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:40:38] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:40:38] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:40:38] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:40:38] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[BlackList] Loaded Successfull!
+[00:40:38] [Command Auto Attack] File Loaded Successfully.
+[00:40:38] User Object Size = 3856
+[00:40:38] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[00:40:38] [ItemEventBag][FireCracker] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Candy Light Purple] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Candy Vermilion] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Candy Deep Blue] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Halloween] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Cherry Blossom Play Box] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Cherry Blossom Mix 1] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Cherry Blossom Mix 2] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Cherry Blossom Mix 3] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Death King] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Death Bone] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Maya Hand Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][NightMare Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[00:40:38] [ItemEventBag][PCBang Green Box] File Load Sucessfully!
+[00:40:38] [ItemEventBag][PCBang Red Box] File Load Sucessfully!
+[00:40:38] [ItemEventBag][PCBang Purple Box] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Selupan Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Luck Coin Mix A] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Luck Coin Mix B] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Luck Coin Mix C] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Lunnar Rabbit Event Bag] File Load Sucessfully!
+[00:40:38] [ItemEventBag][XMax Event Mix A] File Load Sucessfully!
+[00:40:38] [ItemEventBag][XMax Event Mix B] File Load Sucessfully!
+[00:40:38] [ItemEventBag][XMax Event Mix C] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chaos Card Rare] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chaos Card Gold] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Chaos Card Mini] File Load Sucessfully!
+[00:40:38] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[00:40:38] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[00:40:38] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Virtual Drop Event] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Event Box St1] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Event Box St2] File Load Sucessfully!
+[00:40:38] [ItemEventBag][Event Box St3] File Load Sucessfully!
+[Monster AI Element] - ..\Data\Monsters\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\Data\Others\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] - ..\Data\Monsters\MonsterAutomata.txt file is Loaded
+[Monster AI Unit] - ..\Data\Monsters\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\Data\Monsters\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\Data\Monsters\MonsterAIGroup.txt file is Loaded
+[Monster Element] - ..\Data\Monsters\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (8)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (43)(Monster Skill Elemen+)
+[Monster Skill Unit] - Found SkillElement (44)(Monster Skill Elemen,)
+[Monster Skill Unit] - Found SkillElement (45)(Monster Skill Elemen-)
+[Monster Skill Unit] - Found SkillElement (46)(Monster Skill Elemen.)
+[Monster Skill Unit] - Found SkillElement (47)(Monster Skill Elemen/)
+[Monster Skill Unit] - Found SkillElement (48)(Monster Skill Elemen0)
+[Monster Skill Unit] - Found SkillElement (49)(Monster Skill Elemen1)
+[Monster Skill Unit] - Found SkillElement (50)(Monster Skill Elemen2)
+[Monster Skill Unit] - Found SkillElement (51)(Monster Skill Elemen3)
+[Monster Skill Unit] - Found SkillElement (52)(Monster Skill Elemen4)
+[Monster Skill Unit] - Found SkillElement (53)(Monster Skill Elemen5)
+[Monster Skill Unit] - Found SkillElement (54)(Monster Skill Elemen6)
+[Monster Skill Unit] - Found SkillElement (55)(Monster Skill Elemen7)
+[Monster Skill Unit] - Found SkillElement (56)(Monster Skill Elemen8)
+[Monster Skill Unit] - Found SkillElement (57)(Monster Skill Elemen9)
+[Monster Skill Unit] - ..\Data\Monsters\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\Data\Monsters\MonsterSkill.txt file is Loaded
+[00:40:42] [Invasion Manager][ White Wizard ] State END
+[00:40:42] [Invasion Manager][ XMas Attack ] State END
+[00:40:42] [Invasion Manager][ Eldorado Invasion ] State END
+[00:40:42] [Invasion Manager][ Red Dragon ] State END
+[00:40:42] [Invasion Manager][ Skeleton King ] State END
+[00:40:42] FODA-se 10000000 10 10
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 406 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 407 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 408 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 409 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 410 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 411 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 412 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 413 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 414 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 415 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 416 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 417 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 418 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 419 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 420 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 421 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 422 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 423 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 424 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 425 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 426 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 427 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 428 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 429 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 430 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 431 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 432 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 433 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 434 class : 0
+[00:40:45] error : Monster location setting error user.cpp 2266
+[00:40:45] error-L2 : 435 class : 0
+[00:40:46] SkyLand Boss Shield Setting!!
+[00:40:58] error : Monster location setting error user.cpp 2266
+[00:40:58] error-L2 : 2577 class : 0
+[00:41:00] error : Monster location setting error user.cpp 2266
+[00:41:00] error-L2 : 3012 class : 0
+[00:41:01] error : Monster location setting error user.cpp 2266
+[00:41:01] error-L2 : 3043 class : 0
+[00:41:01] error : Monster location setting error user.cpp 2266
+[00:41:01] error-L2 : 3140 class : 0
+[00:41:04] error : Monster location setting error user.cpp 2266
+[00:41:04] error-L2 : 3598 class : 0
+[00:41:08] Total 2 count IP load
+[00:41:08] [Blood Castle] (1) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (1) SetState EMPTY
+[00:41:08] [Blood Castle] (2) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (2) SetState EMPTY
+[00:41:08] [Blood Castle] (3) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (3) SetState EMPTY
+[00:41:08] [Blood Castle] (4) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (4) SetState EMPTY
+[00:41:08] [Blood Castle] (5) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (5) SetState EMPTY
+[00:41:08] [Blood Castle] (6) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (6) SetState EMPTY
+[00:41:08] [Blood Castle] (7) Sync Start Time. [78] min remain
+[00:41:08] [Blood Castle] (7) SetState EMPTY
+[00:41:08] [Blood Castle] (8) Sync Start Time. [78] min remain
+[00:41:08] [Blo[00:47:42] [Reset Manager] Reset file was loaded successfully!
+[00:47:42] [GX HELPER ATTACK] File loaded successfully!
+[00:47:42] [Notice System] #2 Fail on load notice: 10
+[00:47:42] [Notice System] #2 Fail on load notice: 11
+[00:47:42] [Notice System] #2 Fail on load notice: 12
+[00:47:42] [Notice System] #2 Fail on load notice: 13
+[00:47:42] [Notice System] #2 Fail on load notice: 14
+[00:47:42] [Notice System] #2 Fail on load notice: 15
+[00:47:42] [Notice System] #2 Fail on load notice: 16
+[00:47:42] [Notice System] #2 Fail on load notice: 17
+[00:47:42] [Notice System] File loaded successfullly!
+[00:47:42] [CashShopManager] File loaded Sucessfully!
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6699, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6700, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6701, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6715, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6718, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 0] Add Item [Index: 6719, Lvl: 0, Opt1: 0, Opt2: 0, Opt3: 0, Exc:0, Anc: 0, Price: 10]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2560, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2561, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2562, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2563, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2564, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2565, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2566, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 1] Add Item [Index: 2567, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3072, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3073, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3074, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3075, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3076, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3077, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3078, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:47:42] [CashShopManager][ItemList][Coin: 0,  Category: 2] Add Item [Index: 3079, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 512, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 513, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 514, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 515, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 516, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 517, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 518, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:47:42] [CashShopManager][ItemList][Coin: 1,  Category: 0] Add Item [Index: 519, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 0, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 500]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 1, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 510]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 2, Lvl: 15, Opt1: 0, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 520]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 3, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 530]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 4, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 540]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 5, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 550]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 6, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 560]
+[00:47:42] [CashShopManager][ItemList][Coin: 2,  Category: 0] Add Item [Index: 7, Lvl: 15, Opt1: 1, Opt2: 1, Opt3: 7, Exc:63, Anc: 0, Price: 570]
+[00:47:42] [Quest] (Find the 'Scroll of Emperor') Load : Index 0, SubInfoCount 2
+[00:47:42] [Quest] (Three Treasures of Mu) Load : Index 1, SubInfoCount 4
+[00:47:42] [Quest] (Gain 'Hero Status') Load : Index 2, SubInfoCount 2
+[00:47:42] [Quest] (Secret of 'Dark Stone') Load : Index 3, SubInfoCount 1
+[00:47:42] [Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[00:47:42] [Quest] (Infiltration of 'Barrack') Load : Index 5, SubInfoCount 3
+[00:47:42] [Quest] (Infiltration of 'Refuge') Load : Index 6, SubInfoCount 1
+[00:47:42] [Quest] [SetQuestItem] Scroll of Emperor
+[00:47:42] [Quest] [SetQuestItem] Scroll of Emperor
+[00:47:42] [Quest] [SetQuestItem] Broken Sword
+[00:47:42] [Quest] [SetQuestItem] Tear of Elf
+[00:47:42] [Quest] [SetQuestItem] Soul Shard of Wizard
+[00:47:42] [Quest] [SetQuestItem] Eye of Abyssal
+[00:47:42] [Quest] [SetQuestItem] Scroll of Emperor
+[00:47:42] [Quest] [SetQuestItem] Scroll of Emperor
+[00:47:42] [Quest] [SetQuestItem] Broken Sword
+[00:47:42] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:47:42] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:47:42] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:47:42] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:47:42] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:47:42] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[00:47:42] [Quest] [SetQuestItem] Flame of Death Beam Knight
+[00:47:42] [Quest] [SetQuestItem] Horn of Hell Maine
+[00:47:42] [Quest] [SetQuestItem] Feather of Dark Phoenix
+[BlackList] Loaded Successfull!
+[00:47:42] [Command Auto Attack] File Loaded Successfully.
+[00:47:42] User Object Size = 3856
+[00:47:42] [ItemEventBag][Box Of Luck] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Star Of XMas] File Load Sucessfully!
+[00:47:42] [ItemEventBag][FireCracker] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Heart of Love] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Silver Medal] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Gold Medal] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Heaven] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Kundun +1] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Kundun +2] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Kundun +3] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Kundun +4] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Box Of Kundun +5] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Heart of Dark Lord] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Ribbon Red] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Ribbon Green] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Ribbon Blue] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chocolate Pink] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chocolate Red] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chocolate Blue] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Candy Light Purple] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Candy Vermilion] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Candy Deep Blue] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Halloween] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Cherry Blossom Play Box] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Cherry Blossom Mix 1] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Cherry Blossom Mix 2] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Cherry Blossom Mix 3] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Death King] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Death Bone] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Warrior Ring 40] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Warrior Ring 80] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Kundun Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][DarkElf Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Balgass Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Maya Hand Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][NightMare Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Fortune Pounch Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][GameMaster Box] File Load Sucessfully!
+[00:47:42] [ItemEventBag][PCBang Green Box] File Load Sucessfully!
+[00:47:42] [ItemEventBag][PCBang Red Box] File Load Sucessfully!
+[00:47:42] [ItemEventBag][PCBang Purple Box] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Selupan Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Luck Coin Mix A] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Luck Coin Mix B] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Luck Coin Mix C] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Lunnar Rabbit Event Bag] File Load Sucessfully!
+[00:47:42] [ItemEventBag][XMax Event Mix A] File Load Sucessfully!
+[00:47:42] [ItemEventBag][XMax Event Mix B] File Load Sucessfully!
+[00:47:42] [ItemEventBag][XMax Event Mix C] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chaos Card] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chaos Card Rare] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chaos Card Gold] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Chaos Card Mini] File Load Sucessfully!
+[00:47:42] [ItemEventBagEx][BloodCastle 1] File Load Sucessfully!
+[00:47:42] [ItemEventBagEx][ChaosCastle 1] File Load Sucessfully!
+[00:47:42] [ItemEventBagEx][IllusionTemple 1] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Virtual Drop Event] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Greate Box Battle Event] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Event Box St1] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Event Box St2] File Load Sucessfully!
+[00:47:42] [ItemEventBag][Event Box St3] File Load Sucessfully!
+[Monster AI Element] - ..\Data\Monsters\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\Data\Others\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Treatment ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Treatment -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> Avoid ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Avoid -> General 3 ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> General ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ General -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Go -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 1 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> General 2 ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Summon ]
+[Monster AI Automata] Loaded Transition Desc . [ Attacks -> Attack ]
+[Monster AI Automata] Loaded Transition Desc . [ Summon -> Invisible ]
+[Monster AI Automata] Loaded Transition Desc . [ Invisible -> Warp ]
+[Monster AI Automata] Loaded Transition Desc . [ Warp -> AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] Loaded Transition Desc . [ AI -> Go ]
+[Monster AI Automata] - ..\Data\Monsters\MonsterAutomata.txt file is Loaded
+[Monster AI Unit] - ..\Data\Monsters\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\Data\Monsters\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\Data\Monsters\MonsterAIGroup.txt file is Loaded
+[Monster Element] - ..\Data\Monsters\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (14)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (11)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (23)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (16)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (13)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (3)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (4)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (17)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (7)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (24)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (25)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (26)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (27)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (28)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (29)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (30)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (31)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (32)(Monster Skill Elemen )
+[Monster Skill Unit] - Found SkillElement (33)(Monster Skill Elemen!)
+[Monster Skill Unit] - Found SkillElement (34)(Monster Skill Elemen")
+[Monster Skill Unit] - Found SkillElement (35)(Monster Skill Elemen#)
+[Monster Skill Unit] - Found SkillElement (36)(Monster Skill Elemen$)
+[Monster Skill Unit] - Found SkillElement (37)(Monster Skill Elemen%)
+[Monster Skill Unit] - Found SkillElement (38)(Monster Skill Elemen&)
+[Monster Skill Unit] - Found SkillElement (39)(Monster Skill Elemen')
+[Monster Skill Unit] - Found SkillElement (40)(Monster Skill Elemen()
+[Monster Skill Unit] - Found SkillElement (41)(Monster Skill Elemen))
+[Monster Skill Unit] - Found SkillElement (42)(Monster Skill Elemen*)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (8)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (1)(Monster Skill Elemen)
+[Monster Skill Unit] - Found SkillElement (43)(Monster Skill Elemen+)
+[Monster Skill Unit] - Found SkillElement (44)(Monster Skill Elemen,)
+[Monster Skill Unit] - Found SkillElement (45)(Monster Skill Elemen-)
+[Monster Skill Unit] - Found SkillElement (46)(Monster Skill Elemen.)
+[Monster Skill Unit] - Found SkillElement (47)(Monster Skill Elemen/)
+[Monster Skill Unit] - Found SkillElement (48)(Monster Skill Elemen0)
+[Monster Skill Unit] - Found SkillElement (49)(Monster Skill Elemen1)
+[Monster Skill Unit] - Found SkillElement (50)(Monster Skill Elemen2)
+[Monster Skill Unit] - Found SkillElement (51)(Monster Skill Elemen3)
+[Monster Skill Unit] - Found SkillElement (52)(Monster Skill Elemen4)
+[Monster Skill Unit] - Found SkillElement (53)(Monster Skill Elemen5)
+[Monster Skill Unit] - Found SkillElement (54)(Monster Skill Elemen6)
+[Monster Skill Unit] - Found SkillElement (55)(Monster Skill Elemen7)
+[Monster Skill Unit] - Found SkillElement (56)(Monster Skill Elemen8)
+[Monster Skill Unit] - Found SkillElement (57)(Monster Skill Elemen9)
+[Monster Skill Unit] - ..\Data\Monsters\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\Data\Monsters\MonsterSkill.txt file is Loaded
+[00:47:43] [Invasion Manager][ White Wizard ] State END
+[00:47:43] [Invasion Manager][ XMas Attack ] State END
+[00:47:43] [Invasion Manager][ Eldorado Invasion ] State END
+[00:47:43] [Invasion Manager][ Red Dragon ] State END
+[00:47:43] [Invasion Manager][ Skeleton King ] State END
+[00:47:43] FODA-se 10000000 10 10
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 406 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 407 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 408 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 409 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 410 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 411 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 412 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 413 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 414 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 415 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 416 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 417 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 418 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 419 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 420 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 421 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 422 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 423 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 424 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 425 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 426 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 427 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 428 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 429 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 430 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 431 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 432 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 433 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 434 class : 0
+[00:47:46] error : Monster location setting error user.cpp 2266
+[00:47:46] error-L2 : 435 class : 0
+[00:47:47] SkyLand Boss Shield Setting!!
+[00:47:57] error : Monster location setting error user.cpp 2266
+[00:47:57] error-L2 : 2577 class : 0
+[00:47:57] error : Monster location setting error user.cpp 2266
+[00:47:57] error-L2 : 2581 class : 0
+[00:47:59] error : Monster location setting error user.cpp 2266
+[00:47:59] error-L2 : 3012 class : 0
+[00:47:59] error : Monster location setting error user.cpp 2266
+[00:47:59] error-L2 : 3043 class : 0
+[00:48:02] error : Monster location setting error user.cpp 2266
+[00:48:02] error-L2 : 3598 class : 0
+[00:48:07] Total 2 count IP load
+[00:48:07] [Blood Castle] (1) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (1) SetState EMPTY
+[00:48:07] [Blood Castle] (2) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (2) SetState EMPTY
+[00:48:07] [Blood Castle] (3) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (3) SetState EMPTY
+[00:48:07] [Blood Castle] (4) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (4) SetState EMPTY
+[00:48:07] [Blood Castle] (5) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (5) SetState EMPTY
+[00:48:07] [Blood Castle] (6) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (6) SetState EMPTY
+[00:48:07] [Blood Castle] (7) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (7) SetState EMPTY
+[00:48:07] [Blood Castle] (8) Sync Start Time. [71] min remain
+[00:48:07] [Blood Castle] (8) SetState EMPTY
+[00:48:07] [Devil Square] (1) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (1) SetState EMPTY
+[00:48:07] [Devil Square] (2) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (2) SetState EMPTY
+[00:48:07] [Devil Square] (3) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (3) SetState EMPTY
+[00:48:07] [Devil Square] (4) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (4) SetState EMPTY
+[00:48:07] [Devil Square] (5) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (5) SetState EMPTY
+[00:48:07] [Devil Square] (6) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (6) SetState EMPTY
+[00:48:07] [Devil Square] (7) Sync Start Time. [11] min remain
+[00:48:07] [Devil Square] (7) SetState EMPTY
+[00:48:07] [Chaos Castle] (1) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (1) SetState EMPTY
+[00:48:07] [Chaos Castle] (2) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (2) SetState EMPTY
+[00:48:07] [Chaos Castle] (3) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (3) SetState EMPTY
+[00:48:07] [Chaos Castle] (4) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (4) SetState EMPTY
+[00:48:07] [Chaos Castle] (5) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (5) SetState EMPTY
+[00:48:07] [Chaos Castle] (6) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (6) SetState EMPTY
+[00:48:07] [Chaos Castle] (7) Sync Start Time. [71] min remain
+[00:48:07] [Chaos Castle] (7) SetState EMPTY
+[00:48:07] [Illusion Temple] (1) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (1) SetState EMPTY
+[00:48:07] [Illusion Temple] (2) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (2) SetState EMPTY
+[00:48:07] [Illusion Temple] (3) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (3) SetState EMPTY
+[00:48:07] [Illusion Temple] (4) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (4) SetState EMPTY
+[00:48:07] [Illusion Temple] (5) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (5) SetState EMPTY
+[00:48:07] [Illusion Temple] (6) Sync Start Time. [551] min remain
+[00:48:07] [Illusion Temple] (6) SetState EMPTY
+[00:48:07] [Hide and Seek] Sync Start Time. [191] min remain
+[00:48:07] [Hide and Seek] SetState EMPTY
+[00:48:07] [Virtual Drop] Sync Start Time. [131] min remain
+[00:48:07] [Virtual Drop] SetState EMPTY
+[00:48:07] [Luck Hour] Sync Start Time. [731] min remain
+[00:48:07] [Luck Hour] SetState EMPTY
+[00:48:07] [ RAKLION ] State(0) -> END
+[00:48:07] [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+[00:48:07] [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+[00:48:07] [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+[00:48:07] [Moss Merchant] Sync Start Time. [19] min remain
+[00:48:07] [Moss Merchant] SetState EMPTY
+[00:48:07] [PvP Battle Event] SetState EMPTY
+[00:48:07] [PvP Battle Event] Sync Start Time. [251] min remain
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] [DEBUG] Socket Clean By NULL Option
+[00:48:07] LoginServer connect IP[ 127.0.0.1 ]
+[00:48:07] DataServer connect IP[ 127.0.0.1 ] PORT [ 55960 ]
+[00:48:07] DataServer connect IP[ 127.0.0.1 ] PORT [ 55962 ]
+[00:48:07] [ExManagerServer] Authenticated Successfully!
+[00:48:07] Guild Count Updated to 0
+[00:48:07] GameServer create PORT [ 55901 ]
+[00:48:08] [ RAKLION ] State(10) -> IDLE
+[00:48:08] [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[00:48:08] [ KANTURU ] State(0) -> STANDBY
+[00:48:08] [ KANTURU ][ BattleStanby ] State(0) -> START
+[00:48:08] [Invasion Manager][ White Wizard ] State EMPTY
+[00:48
