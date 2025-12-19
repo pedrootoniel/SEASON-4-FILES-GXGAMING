@@ -15,7 +15,7 @@ https://mega.nz/file/vVgzlYiA#EdeU63U2KRrRTGEvOpyXkj2XzIrM-Y1TYmPDoLbShT0
 Updates do client fica em MuClient UPDATE
 
 ```bash
-https://mega.nz/file/ncRkxRDL#F41Q8Y5xBi3_K4NV9shMqCDXAfue3kSfG3PAVf_Dvvw
+https://drive.google.com/file/d/1ni0OnzY-ri0dKMHzyfuQLQs0cY6Cd_2-/view?usp=sharing
 ```
 ### Changelog
 
